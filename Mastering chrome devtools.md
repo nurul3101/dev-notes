@@ -29,10 +29,10 @@
 - we can use cmd + shift + p to open autocomplete panel by which can access any tabs and its functionalities
 - cmd + p will allow us to access all the files available in workspace
 - we can add variables to watch in the `watch` tab
-- Call stack shows how we reached that particular point in code- mostly it will start through an anonymus function call or an event listener
+- Call stack shows how we reached that particular point in code- mostly it will start through an anonymous function call or an event listener
 - Scope defines the scope of function and variables it has access to
 - Breakpoints shows the number of breakpoints
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3Njg2MDQzNV19
+eyJoaXN0b3J5IjpbMjA0MTM3NjU3MCwxNzc2ODYwNDM1XX0=
 -->
