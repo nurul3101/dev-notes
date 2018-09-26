@@ -88,11 +88,10 @@ describe('Link', () => {
 
 - Read StackTrace
 - Do not debug production. make sure it is not cached
-- While Debugging APIs make ure to check network tabs.
-- 
+- While Debugging APIs make sure to check network tabs.
 - 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxODg0MzIxXX0=
+eyJoaXN0b3J5IjpbLTI1NTAyMDcxM119
 -->
