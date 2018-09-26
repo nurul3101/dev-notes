@@ -32,7 +32,7 @@
 - Call stack shows how we reached that particular point in code- mostly it will start through an anonymous function call or an event listener
 - Scope defines the scope of function and variables it has access to
 - Breakpoints shows the number of breakpoints in our workspace.
-- Stack Trace allows user 
+-  Black boxing is a technique in which you can add scripts whose function invocations will be hidden in call stack. Like Internal function invocations of react / redux which we don't want to debug.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzM0MzY4MCwtMTkzOTA5MDEyNl19
+eyJoaXN0b3J5IjpbMTY5NDIzMjQzOSwtMTkzOTA5MDEyNl19
 -->
