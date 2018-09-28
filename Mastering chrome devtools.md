@@ -52,10 +52,14 @@
 - Content Download/Downloading is denoted by blue color
 - We can record the loading of the the page, make sure that chrome dev-tools are undocked to separate window.
 ---
+
+### Auditing
+
+- Services like Lighthouse , sonarwhal gives you a comprehensive list of how your website/web-app performs and gives you insights regarding how you can improve.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1NTk5OTAxLDUxMTExMjE1NiwxMzUzNj
-MwODk0LDY3ODIzMTY1NCw0NjgwNzQzNzYsLTI2MzkzMzQ5MSwt
-MTExOTY3NzA4NiwxNDk5NDAzNTY4LDE1OTk1MzUzMDgsLTkzNz
-I0NDIxNCwzNjI3OTU0MzQsMTY5NDIzMjQzOSwtMTkzOTA5MDEy
-Nl19
+eyJoaXN0b3J5IjpbMTU0MzE2NDU1MSw1MTExMTIxNTYsMTM1Mz
+YzMDg5NCw2NzgyMzE2NTQsNDY4MDc0Mzc2LC0yNjM5MzM0OTEs
+LTExMTk2NzcwODYsMTQ5OTQwMzU2OCwxNTk5NTM1MzA4LC05Mz
+cyNDQyMTQsMzYyNzk1NDM0LDE2OTQyMzI0MzksLTE5MzkwOTAx
+MjZdfQ==
 -->
