@@ -20,7 +20,7 @@
 - we can drag and drop dom nodes
 - We can add break points to specific nodes so we can detect when the dom node changes like on removal , on attributes changing etc
 - we can persist our changes `style changes` by going into filesystem tab and adding a folder to workspace. we will be able to change the styles but won't be able to change dom nodes generated if it's not static html.
-- we can select a dom node in elements and then access it in the console with $0 and past elements with $1 etc.
+- we can select a DOM node in elements and then access it in the console with $0 and past elements with $1 etc.
 
 ---
 
@@ -34,6 +34,6 @@
 - Breakpoints shows the number of breakpoints in our workspace.
 -  Black boxing is a technique in which you can add scripts whose function invocations will be hidden in call stack. Like Internal function invocations of react / redux which we don't want to debug.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYyNzk1NDM0LDE2OTQyMzI0MzksLTE5Mz
-kwOTAxMjZdfQ==
+eyJoaXN0b3J5IjpbLTkzNzI0NDIxNCwzNjI3OTU0MzQsMTY5ND
+IzMjQzOSwtMTkzOTA5MDEyNl19
 -->
