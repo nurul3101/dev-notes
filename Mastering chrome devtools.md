@@ -36,9 +36,13 @@
 - we can add conditional breakpoints by right clicking on the line number where we want to add a break point. It allows us to enter a an expression which will be evaluated, execution will stop at that breakpoint only when that condition evaluates to true 
 - XHR breakpoints allows you to add a string. It checks that if any AJAX Call contains that string in it's url. If it does then execution will stop at that point.
 
+---
+
+### Networking
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1ODg3NTAwLDE0OTk0MDM1NjgsMTU5OT
-UzNTMwOCwtOTM3MjQ0MjE0LDM2Mjc5NTQzNCwxNjk0MjMyNDM5
-LC0xOTM5MDkwMTI2XX0=
+eyJoaXN0b3J5IjpbLTExMTk2NzcwODYsMTQ5OTQwMzU2OCwxNT
+k5NTM1MzA4LC05MzcyNDQyMTQsMzYyNzk1NDM0LDE2OTQyMzI0
+MzksLTE5MzkwOTAxMjZdfQ==
 -->
