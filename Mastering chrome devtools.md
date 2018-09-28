@@ -47,10 +47,10 @@
 - HTTP 1 can at max serve 6 requests at a time. So if any more files are to be served it will be shown in white color which denotes Queuing.
 - Then comes stalling which means it is blocked/waiting until the browser sends the request which will be when queue is empty
 - Then comes DNS lookup to look for the IP address behind the domain. Like for Google Ads.
-- 
+- Then time taken for initial connection.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzgwNDgwNiw0NjgwNzQzNzYsLTI2Mz
-kzMzQ5MSwtMTExOTY3NzA4NiwxNDk5NDAzNTY4LDE1OTk1MzUz
-MDgsLTkzNzI0NDIxNCwzNjI3OTU0MzQsMTY5NDIzMjQzOSwtMT
-kzOTA5MDEyNl19
+eyJoaXN0b3J5IjpbNjc4MjMxNjU0LDQ2ODA3NDM3NiwtMjYzOT
+MzNDkxLC0xMTE5Njc3MDg2LDE0OTk0MDM1NjgsMTU5OTUzNTMw
+OCwtOTM3MjQ0MjE0LDM2Mjc5NTQzNCwxNjk0MjMyNDM5LC0xOT
+M5MDkwMTI2XX0=
 -->
