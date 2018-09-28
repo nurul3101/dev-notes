@@ -50,10 +50,10 @@
 - Then time taken for initial connection.
 - Request sent / sending is shown in green color
 - Content Download/Downloading is denoted by blue color
-- We can record the loading of the the page, make sure that chrome dev-tools
+- We can record the loading of the the page, make sure that chrome dev-tools are undocked to separate window.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MjQyMDM0NywxMzUzNjMwODk0LDY3OD
-IzMTY1NCw0NjgwNzQzNzYsLTI2MzkzMzQ5MSwtMTExOTY3NzA4
-NiwxNDk5NDAzNTY4LDE1OTk1MzUzMDgsLTkzNzI0NDIxNCwzNj
-I3OTU0MzQsMTY5NDIzMjQzOSwtMTkzOTA5MDEyNl19
+eyJoaXN0b3J5IjpbNTExMTEyMTU2LDEzNTM2MzA4OTQsNjc4Mj
+MxNjU0LDQ2ODA3NDM3NiwtMjYzOTMzNDkxLC0xMTE5Njc3MDg2
+LDE0OTk0MDM1NjgsMTU5OTUzNTMwOCwtOTM3MjQ0MjE0LDM2Mj
+c5NTQzNCwxNjk0MjMyNDM5LC0xOTM5MDkwMTI2XX0=
 -->
