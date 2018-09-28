@@ -44,8 +44,10 @@
 - On the X-axis is the time taken to load the asset.
 - Generally first thing that is fetched is the document which loads other scripts.
 -  *shortcut* - Press Shift and hover over items in the network tab. The subsequent items which turn green is the initiator for that item and the red ones are which are called by that item. 
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MzkzMzQ5MSwtMTExOTY3NzA4NiwxND
-k5NDAzNTY4LDE1OTk1MzUzMDgsLTkzNzI0NDIxNCwzNjI3OTU0
-MzQsMTY5NDIzMjQzOSwtMTkzOTA5MDEyNl19
+eyJoaXN0b3J5IjpbLTY1Mjk4MTA0OCwtMjYzOTMzNDkxLC0xMT
+E5Njc3MDg2LDE0OTk0MDM1NjgsMTU5OTUzNTMwOCwtOTM3MjQ0
+MjE0LDM2Mjc5NTQzNCwxNjk0MjMyNDM5LC0xOTM5MDkwMTI2XX
+0=
 -->
