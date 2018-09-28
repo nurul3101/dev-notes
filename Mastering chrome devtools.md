@@ -49,10 +49,10 @@
 - Then comes DNS lookup to look for the IP address behind the domain. Like for Google Ads.
 - Then time taken for initial connection.
 - Request sent / sending is shown in green color
-- 
+- Content Download/Downloading 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTY4Njc1OCw2NzgyMzE2NTQsNDY4MD
-c0Mzc2LC0yNjM5MzM0OTEsLTExMTk2NzcwODYsMTQ5OTQwMzU2
-OCwxNTk5NTM1MzA4LC05MzcyNDQyMTQsMzYyNzk1NDM0LDE2OT
-QyMzI0MzksLTE5MzkwOTAxMjZdfQ==
+eyJoaXN0b3J5IjpbNzY4MTYyMzI0LDY3ODIzMTY1NCw0NjgwNz
+QzNzYsLTI2MzkzMzQ5MSwtMTExOTY3NzA4NiwxNDk5NDAzNTY4
+LDE1OTk1MzUzMDgsLTkzNzI0NDIxNCwzNjI3OTU0MzQsMTY5ND
+IzMjQzOSwtMTkzOTA5MDEyNl19
 -->
