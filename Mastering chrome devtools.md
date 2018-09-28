@@ -35,8 +35,10 @@
 -  Black boxing is a technique in which you can add scripts whose function invocations will be hidden in call stack. Like Internal function invocations of react / redux which we don't want to debug.
 - we can add conditional breakpoints by right clicking on the line number where we want to add a break point. It allows us to enter a an expression which will be evaluated, execution will stop at that breakpoint only when that condition evaluates to true 
 - XHR breakpoints allows you to add a string. It checks that if any AJAX Call contains that string in it's url. If it does then execution will stop at that point.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTQwMzU2OCwxNTk5NTM1MzA4LC05Mz
-cyNDQyMTQsMzYyNzk1NDM0LDE2OTQyMzI0MzksLTE5MzkwOTAx
-MjZdfQ==
+eyJoaXN0b3J5IjpbOTY1ODg3NTAwLDE0OTk0MDM1NjgsMTU5OT
+UzNTMwOCwtOTM3MjQ0MjE0LDM2Mjc5NTQzNCwxNjk0MjMyNDM5
+LC0xOTM5MDkwMTI2XX0=
 -->
