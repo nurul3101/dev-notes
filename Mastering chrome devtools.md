@@ -34,7 +34,9 @@
 - Breakpoints shows the number of breakpoints in our workspace.
 -  Black boxing is a technique in which you can add scripts whose function invocations will be hidden in call stack. Like Internal function invocations of react / redux which we don't want to debug.
 - we can add conditional breakpoints by right clicking on the line number where we want to add a break point. It allows us to enter a an expression which will be evaluated, execution will stop at that breakpoint only when that condition evaluates to true 
+- XHR breakpoints al
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5OTUzNTMwOCwtOTM3MjQ0MjE0LDM2Mj
-c5NTQzNCwxNjk0MjMyNDM5LC0xOTM5MDkwMTI2XX0=
+eyJoaXN0b3J5IjpbLTQ3NDg5NTc0NCwxNTk5NTM1MzA4LC05Mz
+cyNDQyMTQsMzYyNzk1NDM0LDE2OTQyMzI0MzksLTE5MzkwOTAx
+MjZdfQ==
 -->
