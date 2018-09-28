@@ -51,9 +51,11 @@
 - Request sent / sending is shown in green color
 - Content Download/Downloading is denoted by blue color
 - We can record the loading of the the page, make sure that chrome dev-tools are undocked to separate window.
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExMTEyMTU2LDEzNTM2MzA4OTQsNjc4Mj
-MxNjU0LDQ2ODA3NDM3NiwtMjYzOTMzNDkxLC0xMTE5Njc3MDg2
-LDE0OTk0MDM1NjgsMTU5OTUzNTMwOCwtOTM3MjQ0MjE0LDM2Mj
-c5NTQzNCwxNjk0MjMyNDM5LC0xOTM5MDkwMTI2XX0=
+eyJoaXN0b3J5IjpbMjM1NTk5OTAxLDUxMTExMjE1NiwxMzUzNj
+MwODk0LDY3ODIzMTY1NCw0NjgwNzQzNzYsLTI2MzkzMzQ5MSwt
+MTExOTY3NzA4NiwxNDk5NDAzNTY4LDE1OTk1MzUzMDgsLTkzNz
+I0NDIxNCwzNjI3OTU0MzQsMTY5NDIzMjQzOSwtMTkzOTA5MDEy
+Nl19
 -->
