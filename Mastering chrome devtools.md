@@ -45,9 +45,11 @@
 - Generally first thing that is fetched is the document which loads other scripts.
 -  *shortcut* - Press Shift and hover over items in the network tab. The subsequent items which turn green is the initiator for that item and the red ones are which are called by that item. 
 - HTTP 1 can at max serve 6 requests at a time. So if any more files are to be served it will be shown in white color which denotes Queuing.
+- Then comes stalling which means it is blocked/waiting until the browser sends the request which will be when queue is empty
+- Then comes DNS lookup
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5Mjk0NTU5MywtMjYzOTMzNDkxLC0xMT
-E5Njc3MDg2LDE0OTk0MDM1NjgsMTU5OTUzNTMwOCwtOTM3MjQ0
-MjE0LDM2Mjc5NTQzNCwxNjk0MjMyNDM5LC0xOTM5MDkwMTI2XX
-0=
+eyJoaXN0b3J5IjpbNDY4MDc0Mzc2LC0yNjM5MzM0OTEsLTExMT
+k2NzcwODYsMTQ5OTQwMzU2OCwxNTk5NTM1MzA4LC05MzcyNDQy
+MTQsMzYyNzk1NDM0LDE2OTQyMzI0MzksLTE5MzkwOTAxMjZdfQ
+==
 -->
