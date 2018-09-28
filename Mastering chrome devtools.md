@@ -48,9 +48,11 @@
 - Then comes stalling which means it is blocked/waiting until the browser sends the request which will be when queue is empty
 - Then comes DNS lookup to look for the IP address behind the domain. Like for Google Ads.
 - Then time taken for initial connection.
+- Request sent / sending is shown in green color
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc4MjMxNjU0LDQ2ODA3NDM3NiwtMjYzOT
-MzNDkxLC0xMTE5Njc3MDg2LDE0OTk0MDM1NjgsMTU5OTUzNTMw
-OCwtOTM3MjQ0MjE0LDM2Mjc5NTQzNCwxNjk0MjMyNDM5LC0xOT
-M5MDkwMTI2XX0=
+eyJoaXN0b3J5IjpbLTY5OTY4Njc1OCw2NzgyMzE2NTQsNDY4MD
+c0Mzc2LC0yNjM5MzM0OTEsLTExMTk2NzcwODYsMTQ5OTQwMzU2
+OCwxNTk5NTM1MzA4LC05MzcyNDQyMTQsMzYyNzk1NDM0LDE2OT
+QyMzI0MzksLTE5MzkwOTAxMjZdfQ==
 -->
