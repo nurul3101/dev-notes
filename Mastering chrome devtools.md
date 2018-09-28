@@ -33,7 +33,8 @@
 - Scope defines the scope of function and variables it has access to
 - Breakpoints shows the number of breakpoints in our workspace.
 -  Black boxing is a technique in which you can add scripts whose function invocations will be hidden in call stack. Like Internal function invocations of react / redux which we don't want to debug.
+- we can add conditional breakpoints by right clicking on the line number where we want to add a break point. It allows us to enter a an expression which will be evaluated
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzI0NDIxNCwzNjI3OTU0MzQsMTY5ND
-IzMjQzOSwtMTkzOTA5MDEyNl19
+eyJoaXN0b3J5IjpbMTc2NTg1MzYyMCwtOTM3MjQ0MjE0LDM2Mj
+c5NTQzNCwxNjk0MjMyNDM5LC0xOTM5MDkwMTI2XX0=
 -->
