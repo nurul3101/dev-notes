@@ -46,10 +46,11 @@
 -  *shortcut* - Press Shift and hover over items in the network tab. The subsequent items which turn green is the initiator for that item and the red ones are which are called by that item. 
 - HTTP 1 can at max serve 6 requests at a time. So if any more files are to be served it will be shown in white color which denotes Queuing.
 - Then comes stalling which means it is blocked/waiting until the browser sends the request which will be when queue is empty
-- Then comes DNS lookup
+- Then comes DNS lookup to look for the IP address behind the domain. Like for Google Ads.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY4MDc0Mzc2LC0yNjM5MzM0OTEsLTExMT
-k2NzcwODYsMTQ5OTQwMzU2OCwxNTk5NTM1MzA4LC05MzcyNDQy
-MTQsMzYyNzk1NDM0LDE2OTQyMzI0MzksLTE5MzkwOTAxMjZdfQ
-==
+eyJoaXN0b3J5IjpbLTYxMzgwNDgwNiw0NjgwNzQzNzYsLTI2Mz
+kzMzQ5MSwtMTExOTY3NzA4NiwxNDk5NDAzNTY4LDE1OTk1MzUz
+MDgsLTkzNzI0NDIxNCwzNjI3OTU0MzQsMTY5NDIzMjQzOSwtMT
+kzOTA5MDEyNl19
 -->
