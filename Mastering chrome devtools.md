@@ -40,9 +40,12 @@
 
 ### Networking
 
-
+- Networking tab in the chrome dev-tools follow waterfall model. 
+- On the X-axis is the time taken to load the asset.
+- Generally first thing that is fetched is the document which loads other scripts.
+-  *shortcut* - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTk2NzcwODYsMTQ5OTQwMzU2OCwxNT
-k5NTM1MzA4LC05MzcyNDQyMTQsMzYyNzk1NDM0LDE2OTQyMzI0
-MzksLTE5MzkwOTAxMjZdfQ==
+eyJoaXN0b3J5IjpbLTcwMzgyOTQyNSwtMTExOTY3NzA4NiwxND
+k5NDAzNTY4LDE1OTk1MzUzMDgsLTkzNzI0NDIxNCwzNjI3OTU0
+MzQsMTY5NDIzMjQzOSwtMTkzOTA5MDEyNl19
 -->
