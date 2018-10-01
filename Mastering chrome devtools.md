@@ -55,11 +55,11 @@
 
 ### Auditing
 
-- Services like Lighthouse , webhint.io gives you a comprehensive list of how your website/web-app performs and gives you insights regarding how you can improve.
+- Services like Lighthouse , webhint.io gives you a comprehensive list of how your website/web-app performs and gives you insights regarding how you can improve your performance.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTA0ODA4MDEsMTU0MzE2NDU1MSw1MT
-ExMTIxNTYsMTM1MzYzMDg5NCw2NzgyMzE2NTQsNDY4MDc0Mzc2
-LC0yNjM5MzM0OTEsLTExMTk2NzcwODYsMTQ5OTQwMzU2OCwxNT
-k5NTM1MzA4LC05MzcyNDQyMTQsMzYyNzk1NDM0LDE2OTQyMzI0
-MzksLTE5MzkwOTAxMjZdfQ==
+eyJoaXN0b3J5IjpbNTcyMDU3NjkyLC0xNTUwNDgwODAxLDE1ND
+MxNjQ1NTEsNTExMTEyMTU2LDEzNTM2MzA4OTQsNjc4MjMxNjU0
+LDQ2ODA3NDM3NiwtMjYzOTMzNDkxLC0xMTE5Njc3MDg2LDE0OT
+k0MDM1NjgsMTU5OTUzNTMwOCwtOTM3MjQ0MjE0LDM2Mjc5NTQz
+NCwxNjk0MjMyNDM5LC0xOTM5MDkwMTI2XX0=
 -->
