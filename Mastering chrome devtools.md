@@ -6,7 +6,7 @@
 - Esc key press on any tab except console will open a mini console
 
 - We can select material color palettes from the color panel , and can make custom color panels.
-- on color swatch we can click on it by pressing shift and it will convert the format  like rgba , hex etc
+- on color swatch we can click on it by pressing shift and it will convert the format  like rgba or hex
 
 ---
 ### Editing
@@ -57,9 +57,10 @@
 
 - Services like Lighthouse , webhint.io gives you a comprehensive list of how your website/web-app performs and gives you insights regarding how you can improve your performance.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyODM0NzU2LDU3MjA1NzY5MiwtMTU1MD
-Q4MDgwMSwxNTQzMTY0NTUxLDUxMTExMjE1NiwxMzUzNjMwODk0
-LDY3ODIzMTY1NCw0NjgwNzQzNzYsLTI2MzkzMzQ5MSwtMTExOT
-Y3NzA4NiwxNDk5NDAzNTY4LDE1OTk1MzUzMDgsLTkzNzI0NDIx
-NCwzNjI3OTU0MzQsMTY5NDIzMjQzOSwtMTkzOTA5MDEyNl19
+eyJoaXN0b3J5IjpbLTEwMjg0NjAyNTksNzUyODM0NzU2LDU3Mj
+A1NzY5MiwtMTU1MDQ4MDgwMSwxNTQzMTY0NTUxLDUxMTExMjE1
+NiwxMzUzNjMwODk0LDY3ODIzMTY1NCw0NjgwNzQzNzYsLTI2Mz
+kzMzQ5MSwtMTExOTY3NzA4NiwxNDk5NDAzNTY4LDE1OTk1MzUz
+MDgsLTkzNzI0NDIxNCwzNjI3OTU0MzQsMTY5NDIzMjQzOSwtMT
+kzOTA5MDEyNl19
 -->
