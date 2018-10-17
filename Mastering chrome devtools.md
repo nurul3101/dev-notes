@@ -26,7 +26,7 @@
 
 ### Debugging
 
-- we can use cmd + shift + p to open autocomplete panel by which can access any tabs and its functionalities
+- we can use `cmd + shift + p` to open autocomplete panel by which can access any tabs and its functionalities
 - cmd + p will allow us to access all the files available in workspace
 - we can add variables to watch in the `watch` tab and it will reflect the variables current value
 - Call stack shows how we reached that particular point in code- mostly it will start through an anonymous function call or an event listener
@@ -57,11 +57,11 @@
 
 - Services like Lighthouse , webhint.io gives you a comprehensive list of how your website/web-app performs and gives you insights regarding how you can improve your performance.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTkzODAwNSwxOTI1ODk5NDE2LDEwMT
-k5MzgwMDUsLTEwMjg0NjAyNTksNzUyODM0NzU2LDU3MjA1NzY5
-MiwtMTU1MDQ4MDgwMSwxNTQzMTY0NTUxLDUxMTExMjE1NiwxMz
-UzNjMwODk0LDY3ODIzMTY1NCw0NjgwNzQzNzYsLTI2MzkzMzQ5
-MSwtMTExOTY3NzA4NiwxNDk5NDAzNTY4LDE1OTk1MzUzMDgsLT
-kzNzI0NDIxNCwzNjI3OTU0MzQsMTY5NDIzMjQzOSwtMTkzOTA5
-MDEyNl19
+eyJoaXN0b3J5IjpbNDE2MDgzODY1LDEwMTk5MzgwMDUsMTkyNT
+g5OTQxNiwxMDE5OTM4MDA1LC0xMDI4NDYwMjU5LDc1MjgzNDc1
+Niw1NzIwNTc2OTIsLTE1NTA0ODA4MDEsMTU0MzE2NDU1MSw1MT
+ExMTIxNTYsMTM1MzYzMDg5NCw2NzgyMzE2NTQsNDY4MDc0Mzc2
+LC0yNjM5MzM0OTEsLTExMTk2NzcwODYsMTQ5OTQwMzU2OCwxNT
+k5NTM1MzA4LC05MzcyNDQyMTQsMzYyNzk1NDM0LDE2OTQyMzI0
+MzldfQ==
 -->
