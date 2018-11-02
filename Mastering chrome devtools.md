@@ -20,7 +20,7 @@
 - we can drag and drop dom nodes
 - We can add break points to specific nodes so we can detect when the dom node changes like on removal , on attributes changing etc
 - we can persist our changes `style changes` by going into filesystem tab and adding a folder to workspace. we will be able to change the styles but won't be able to change dom nodes generated if it's not static html.
-- we can select a DOM node in elements and then access it in the console with $0 and past elements with $1 , $2 etc.
+- we can select a DOM node in elements and then access it in the console with $0 and past elements with $1 , $2.  etc.
 
 ---
 
@@ -57,11 +57,11 @@
 
 - Services like Lighthouse , webhint.io gives you a comprehensive list of how your website/web-app performs and gives you insights regarding how you can improve your performance.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2MDgzODY1LC0yNDE2NzI2MTAsNDE2MD
-gzODY1LDQxNjA4Mzg2NSw0MTYwODM4NjUsLTYyMjE2ODYzMSwx
-MDE5OTM4MDA1LDE5MjU4OTk0MTYsMTAxOTkzODAwNSwtMTAyOD
-Q2MDI1OSw3NTI4MzQ3NTYsNTcyMDU3NjkyLC0xNTUwNDgwODAx
-LDE1NDMxNjQ1NTEsNTExMTEyMTU2LDEzNTM2MzA4OTQsNjc4Mj
-MxNjU0LDQ2ODA3NDM3NiwtMjYzOTMzNDkxLC0xMTE5Njc3MDg2
-XX0=
+eyJoaXN0b3J5IjpbMTE2ODcyNTI1OSw0MTYwODM4NjUsLTI0MT
+Y3MjYxMCw0MTYwODM4NjUsNDE2MDgzODY1LDQxNjA4Mzg2NSwt
+NjIyMTY4NjMxLDEwMTk5MzgwMDUsMTkyNTg5OTQxNiwxMDE5OT
+M4MDA1LC0xMDI4NDYwMjU5LDc1MjgzNDc1Niw1NzIwNTc2OTIs
+LTE1NTA0ODA4MDEsMTU0MzE2NDU1MSw1MTExMTIxNTYsMTM1Mz
+YzMDg5NCw2NzgyMzE2NTQsNDY4MDc0Mzc2LC0yNjM5MzM0OTFd
+fQ==
 -->
