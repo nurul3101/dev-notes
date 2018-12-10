@@ -1,7 +1,7 @@
 ## React / JS Notes
 
-- We cannot use `this` in the constructor unless you call constructor of parent class using `super()`. JS wont' allow it.
+- We cannot use `this` in the constructor unless you call constructor of parent class using `super()`. JS wont' allow it
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0MDAzNjI3LDExNDk2MDU5MTUsOTQ0MD
-AzNjI3XX0=
+eyJoaXN0b3J5IjpbMTE0OTYwNTkxNSw5NDQwMDM2MjcsMTE0OT
+YwNTkxNSw5NDQwMDM2MjddfQ==
 -->
