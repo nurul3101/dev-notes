@@ -21,6 +21,8 @@
  - hasGeekTv
  - egghead.io
  - syntax.fm
+ - reddit
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDc3MjgzOV19
+eyJoaXN0b3J5IjpbLTE5NTIwMjEyMjVdfQ==
 -->
