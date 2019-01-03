@@ -22,7 +22,9 @@
  - egghead.io
  - syntax.fm
  - reddit
+ - udacity
+ - edx
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTIwMjEyMjVdfQ==
+eyJoaXN0b3J5IjpbOTAzNzE5MDE5XX0=
 -->
