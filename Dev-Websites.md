@@ -18,7 +18,9 @@
  - product hunt
  - techcrunch
  - cooper news
+ - hasGeekTv
+ - egghead.io
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5MzM3MzM4XX0=
+eyJoaXN0b3J5IjpbOTczOTQ3NzUzXX0=
 -->
