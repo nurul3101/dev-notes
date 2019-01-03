@@ -14,7 +14,11 @@
  - frontendmasters
  - medium
  - quora
+ - hackerrank
+ - product hunt
+ - techcrunch
+ - cooper news
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQxMDk0MzBdfQ==
+eyJoaXN0b3J5IjpbMzA5MzM3MzM4XX0=
 -->
