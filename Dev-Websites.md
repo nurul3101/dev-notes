@@ -20,7 +20,7 @@
  - cooper news
  - hasGeekTv
  - egghead.io
- - 
+ - syntax.fm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczOTQ3NzUzXX0=
+eyJoaXN0b3J5IjpbLTE1MDc3MjgzOV19
 -->
