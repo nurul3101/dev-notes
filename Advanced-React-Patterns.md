@@ -4,7 +4,7 @@
 this.setState((currentState)=>{
   return { on : !currentState.on}
 },()=>{
-  // Callback Function
+  // Callback Functions
 });
 ```
 
@@ -155,5 +155,5 @@ ReactDOM.render(<App/>, document.getElementById('app'))
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTM3ODI5M119
+eyJoaXN0b3J5IjpbMzc4MTYwMTI2LDE1NTEzNzgyOTNdfQ==
 -->
