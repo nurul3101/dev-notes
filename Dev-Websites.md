@@ -11,7 +11,7 @@
  - dev.to
  - udemy
  - coursera
- - frontendmaster
+ - frontendmasters
  - medium
  - quora
  - hackerrank
@@ -26,6 +26,6 @@
  - edx
  - Knappily
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4NTUwMTgsLTE1MjA3MzM5MDEsOTAzNz
-E5MDE5XX0=
+eyJoaXN0b3J5IjpbLTE1MjA3MzM5MDEsLTE1MjA3MzM5MDEsOT
+AzNzE5MDE5XX0=
 -->
