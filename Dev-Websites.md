@@ -25,7 +25,8 @@
  - udacity
  - edx
  - Knappily
+ - gimlet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjA3MzM5MDEsLTE1MjA3MzM5MDEsLT
-E1MjA3MzM5MDEsOTAzNzE5MDE5XX0=
+eyJoaXN0b3J5IjpbODUyOTI0NjI0LC0xNTIwNzMzOTAxLC0xNT
+IwNzMzOTAxLC0xNTIwNzMzOTAxLDkwMzcxOTAxOV19
 -->
