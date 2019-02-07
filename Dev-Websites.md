@@ -26,8 +26,8 @@
  - edx
  - Knappily
  - gimlet
- - -github
+ - github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUyNjQ0NTc3LC0xNTIwNzMzOTAxLC0xNT
-IwNzMzOTAxLC0xNTIwNzMzOTAxLDkwMzcxOTAxOV19
+eyJoaXN0b3J5IjpbLTE2NTA2MDE2MDAsLTE1MjA3MzM5MDEsLT
+E1MjA3MzM5MDEsLTE1MjA3MzM5MDEsOTAzNzE5MDE5XX0=
 -->
