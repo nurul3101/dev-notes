@@ -27,7 +27,9 @@
  - Knappily
  - gimlet
  - github
+ - stackoverflow
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTA2MDE2MDAsLTE1MjA3MzM5MDEsLT
-E1MjA3MzM5MDEsLTE1MjA3MzM5MDEsOTAzNzE5MDE5XX0=
+eyJoaXN0b3J5IjpbMTg4NjU0OTA3OSwtMTY1MDYwMTYwMCwtMT
+UyMDczMzkwMSwtMTUyMDczMzkwMSwtMTUyMDczMzkwMSw5MDM3
+MTkwMTldfQ==
 -->
