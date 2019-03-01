@@ -28,8 +28,9 @@
  - gimlet
  - github
  - stackoverflow
+ - software engineering daily podcast
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NjU0OTA3OSwtMTY1MDYwMTYwMCwtMT
-UyMDczMzkwMSwtMTUyMDczMzkwMSwtMTUyMDczMzkwMSw5MDM3
-MTkwMTldfQ==
+eyJoaXN0b3J5IjpbMTMwMzk5MDQwNSwxODg2NTQ5MDc5LC0xNj
+UwNjAxNjAwLC0xNTIwNzMzOTAxLC0xNTIwNzMzOTAxLC0xNTIw
+NzMzOTAxLDkwMzcxOTAxOV19
 -->
