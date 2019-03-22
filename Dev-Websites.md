@@ -4,7 +4,7 @@
  - Hashnode
  - Spectrum
  - Gitter
- - Codesandbox
+ - Codesandbox.io
  - Css-Tricks
  - freecodecamp
  - codewars
