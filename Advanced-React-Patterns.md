@@ -4,7 +4,7 @@
 this.setState((currentState)=>{
   return { on : !currentState.on}
 },()=>{
-  // Callback Functions
+  // Callback Function
 });
 ```
 
