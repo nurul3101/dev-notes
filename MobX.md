@@ -1,6 +1,6 @@
 ## MobX
 
-### Anything that can be derived from the application state, should be derived. Automatically
+### Anything that can be derived from the application state, should be derived, Automatically
 
 - React renders the application state by providing mechanisms to translate it into a tree of renderable components. MobX provides the mechanism to store and update the application state that React then uses
 
