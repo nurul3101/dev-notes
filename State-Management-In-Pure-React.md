@@ -1,7 +1,7 @@
+# State Management in Pure React
+---
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
+this.setState() is asynchronus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTM5MDAyMTY5M119
 -->
