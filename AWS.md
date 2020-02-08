@@ -24,7 +24,9 @@ Elastic Cloud Compute
 Elastic IPs are ip which persists even after our instance is stopped.
 Usually we should not use Elastic Ip as it represents poor architectural decisions.
 
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzM3OTE3OTMsMTExODI1NjY4NSwtMj
-A3ODk3MDQyMSwtMTc2MDI1MzkyNCwxMDMzODc3MDk5XX0=
+eyJoaXN0b3J5IjpbLTYxNzgwMjAzOCwtMjAzMzc5MTc5MywxMT
+E4MjU2Njg1LC0yMDc4OTcwNDIxLC0xNzYwMjUzOTI0LDEwMzM4
+NzcwOTldfQ==
 -->
