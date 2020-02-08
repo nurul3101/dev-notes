@@ -24,9 +24,10 @@ Elastic Cloud Compute
 Elastic IPs are ip which persists even after our instance is stopped.
 Usually we should not use Elastic Ip as it represents poor architectural decisions.
 
+- If there is any timeout issue while accessing the instance it is generally due to security group.
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzgwMjAzOCwtMjAzMzc5MTc5MywxMT
+eyJoaXN0b3J5IjpbMTY0NDQwMzIwOSwtMjAzMzc5MTc5MywxMT
 E4MjU2Njg1LC0yMDc4OTcwNDIxLC0xNzYwMjUzOTI0LDEwMzM4
 NzcwOTldfQ==
 -->
