@@ -10,7 +10,11 @@ Identity and Access Management
 - Users can be grouped together e.g by teams
 - Roles are for machine
 - IAM has a global view
+- Permissions are governed by policies
+- Least privileged principles
+- IAM FEDERATION (for huge enterprises)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyMjk3MTc1LC0xNzYwMjUzOTI0LDEwMz
-M4NzcwOTldfQ==
+eyJoaXN0b3J5IjpbLTE2NTczNzQ1ODQsLTE3NjAyNTM5MjQsMT
+AzMzg3NzA5OV19
 -->
