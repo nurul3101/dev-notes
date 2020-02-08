@@ -13,8 +13,8 @@ Identity and Access Management
 - Permissions are governed by policies
 - Least privileged principles
 - IAM FEDERATION (for huge enterprises)
-- 
+- 1 IAM Role per application
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTczNzQ1ODQsLTE3NjAyNTM5MjQsMT
+eyJoaXN0b3J5IjpbLTIwNzg5NzA0MjEsLTE3NjAyNTM5MjQsMT
 AzMzg3NzA5OV19
 -->
