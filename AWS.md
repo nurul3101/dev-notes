@@ -14,7 +14,8 @@ Identity and Access Management
 - Least privileged principles
 - IAM FEDERATION (for huge enterprises)
 - 1 IAM Role per application
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzg5NzA0MjEsLTE3NjAyNTM5MjQsMT
-AzMzg3NzA5OV19
+eyJoaXN0b3J5IjpbMTMwMjgwMzc2OSwtMjA3ODk3MDQyMSwtMT
+c2MDI1MzkyNCwxMDMzODc3MDk5XX0=
 -->
