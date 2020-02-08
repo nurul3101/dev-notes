@@ -21,7 +21,10 @@ Private ip remains the same.
 Security groups are like a firewall which controls the inbound and outbound traffic which can access our EC2 instance.
 Elastic Cloud Compute
 
+Elastic IPs are ip which persists even after our instance is stopped.
+Usually we should not use Elastic Ip as it represents poor architectural decisions.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODI1NjY4NSwtMjA3ODk3MDQyMSwtMT
-c2MDI1MzkyNCwxMDMzODc3MDk5XX0=
+eyJoaXN0b3J5IjpbLTIwMzM3OTE3OTMsMTExODI1NjY4NSwtMj
+A3ODk3MDQyMSwtMTc2MDI1MzkyNCwxMDMzODc3MDk5XX0=
 -->
