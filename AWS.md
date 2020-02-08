@@ -3,7 +3,12 @@
 IAM
 Identity and Access Management
 - Do not use the root account
+- Users
+- Groups
+- Roles
+- Users ( A physical person )
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzM5MTM4MDYsLTE3NjAyNTM5MjQsMT
-AzMzg3NzA5OV19
+eyJoaXN0b3J5IjpbNTcxNDM4ODg2LC0xNzYwMjUzOTI0LDEwMz
+M4NzcwOTldfQ==
 -->
