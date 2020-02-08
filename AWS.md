@@ -15,7 +15,13 @@ Identity and Access Management
 - IAM FEDERATION (for huge enterprises)
 - 1 IAM Role per application
 
+Public ip will change when we stop our instance and restart it.
+Private ip remains the same.
+
+Security groups are like a firewall which controls the inbound and outbound traffic which can access our EC2 instance.
+Elastic Cloud Compute
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjgwMzc2OSwtMjA3ODk3MDQyMSwtMT
+eyJoaXN0b3J5IjpbMTExODI1NjY4NSwtMjA3ODk3MDQyMSwtMT
 c2MDI1MzkyNCwxMDMzODc3MDk5XX0=
 -->
