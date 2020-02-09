@@ -62,6 +62,7 @@ Usually we should not use Elastic Ip as it represents poor architectural decisio
 ## EC2 placement group
 - 
 - Spread
+- Partition
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQzNjAwNzNdfQ==
+eyJoaXN0b3J5IjpbLTEyMTY1NzMyMF19
 -->
