@@ -13,9 +13,10 @@ If variable declaration and initialization is one the same line then typescript 
 - any is a Type, which means typescript has no idea what it is, Avoid variables with any at all costs
 - We will add type annotations in functions which returns type any
 - When we cannot infer the type of a variable then we need to add a type annotation.
+- void is used when we don't have a return statement and never is used when we know that function will never reach the end, e.g throwing an error
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzg4NDEwODMsMTYzMjMyOTYyNywxND
-MyMzkyOTU5LC0xMTQ2MjM5MTE0LC0xNTY3NTEwNjYwLC0yMDgz
-MDgwMjAwLDE0Njc2MDAwNDYsNTY2NTE4NTAyLDExMjg4NTQyND
-ZdfQ==
+eyJoaXN0b3J5IjpbMjA1NjYyMzM1NywtMTkzODg0MTA4MywxNj
+MyMzI5NjI3LDE0MzIzOTI5NTksLTExNDYyMzkxMTQsLTE1Njc1
+MTA2NjAsLTIwODMwODAyMDAsMTQ2NzYwMDA0Niw1NjY1MTg1MD
+IsMTEyODg1NDI0Nl19
 -->
