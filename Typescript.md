@@ -9,8 +9,10 @@
 Type - Easy way to refer to different properties and functions that a value has.
 
 If variable declaration and initialization is one the same line then typescript inference can detect the type.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDYyMzkxMTQsLTE1Njc1MTA2NjAsLT
-IwODMwODAyMDAsMTQ2NzYwMDA0Niw1NjY1MTg1MDIsMTEyODg1
-NDI0Nl19
+eyJoaXN0b3J5IjpbLTE3OTM5NTY1MjYsLTExNDYyMzkxMTQsLT
+E1Njc1MTA2NjAsLTIwODMwODAyMDAsMTQ2NzYwMDA0Niw1NjY1
+MTg1MDIsMTEyODg1NDI0Nl19
 -->
