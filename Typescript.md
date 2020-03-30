@@ -12,8 +12,10 @@ If variable declaration and initialization is one the same line then typescript 
 
 - any is a Type, which means typescript has no idea what it is, Avoid variables with any at all costs
 - We will add type annotations in functions which returns type any
+- When we cannot infer the type of a variable then we need to add a type annotation.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjMyOTYyNywxNDMyMzkyOTU5LC0xMT
-Q2MjM5MTE0LC0xNTY3NTEwNjYwLC0yMDgzMDgwMjAwLDE0Njc2
-MDAwNDYsNTY2NTE4NTAyLDExMjg4NTQyNDZdfQ==
+eyJoaXN0b3J5IjpbLTE5Mzg4NDEwODMsMTYzMjMyOTYyNywxND
+MyMzkyOTU5LC0xMTQ2MjM5MTE0LC0xNTY3NTEwNjYwLC0yMDgz
+MDgwMjAwLDE0Njc2MDAwNDYsNTY2NTE4NTAyLDExMjg4NTQyND
+ZdfQ==
 -->
