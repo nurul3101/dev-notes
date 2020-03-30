@@ -10,9 +10,9 @@ Type - Easy way to refer to different properties and functions that a value has.
 
 If variable declaration and initialization is one the same line then typescript inference can detect the type.
 
-
+- any is a Type, which means typescript has no idea what it is, Avoid variables with any at all costs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTM5NTY1MjYsLTExNDYyMzkxMTQsLT
-E1Njc1MTA2NjAsLTIwODMwODAyMDAsMTQ2NzYwMDA0Niw1NjY1
-MTg1MDIsMTEyODg1NDI0Nl19
+eyJoaXN0b3J5IjpbMTQzMjM5Mjk1OSwtMTE0NjIzOTExNCwtMT
+U2NzUxMDY2MCwtMjA4MzA4MDIwMCwxNDY3NjAwMDQ2LDU2NjUx
+ODUwMiwxMTI4ODU0MjQ2XX0=
 -->
