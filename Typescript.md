@@ -11,8 +11,9 @@ Type - Easy way to refer to different properties and functions that a value has.
 If variable declaration and initialization is one the same line then typescript inference can detect the type.
 
 - any is a Type, which means typescript has no idea what it is, Avoid variables with any at all costs
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMjM5Mjk1OSwtMTE0NjIzOTExNCwtMT
-U2NzUxMDY2MCwtMjA4MzA4MDIwMCwxNDY3NjAwMDQ2LDU2NjUx
-ODUwMiwxMTI4ODU0MjQ2XX0=
+eyJoaXN0b3J5IjpbLTExNjk3MzM4OTQsMTQzMjM5Mjk1OSwtMT
+E0NjIzOTExNCwtMTU2NzUxMDY2MCwtMjA4MzA4MDIwMCwxNDY3
+NjAwMDQ2LDU2NjUxODUwMiwxMTI4ODU0MjQ2XX0=
 -->
