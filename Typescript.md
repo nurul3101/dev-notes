@@ -47,9 +47,9 @@ constructor(public color:string){}
 ```
 Type definition file is kind of an adapter between javascript files and typescript files.
 Type definition files are going to tell the typescript compiler which functions are available in javascript file, what arguments they take.
-
+DefinitelyTyped is a project that maintains type definitions for all the popular libraries.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NDkxNTU3NywxMjMwNzEwMTY5LDUzMj
+eyJoaXN0b3J5IjpbLTQ2OTc5NzMzMCwxMjMwNzEwMTY5LDUzMj
 k0NjY2OCw4OTIyMjE1NzUsLTIwODY3MDY1MDcsMTU1MDAzMjAy
 OSw5ODA0ODgzODcsLTE0NzUxODcxNjAsLTc1MzUxNzE5MCwyOD
 Y3OTAwNzMsMjA1NjYyMzM1NywtMTkzODg0MTA4MywxNjMyMzI5
