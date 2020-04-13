@@ -23,10 +23,11 @@ const pepsi: Drink = ['carbonated',500];
 ```
 
 - Interfaces - Creates a new type, describing the property names and value types of an object.
+- While defini
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzUxODcxNjAsLTc1MzUxNzE5MCwyOD
-Y3OTAwNzMsMjA1NjYyMzM1NywtMTkzODg0MTA4MywxNjMyMzI5
-NjI3LDE0MzIzOTI5NTksLTExNDYyMzkxMTQsLTE1Njc1MTA2Nj
-AsLTIwODMwODAyMDAsMTQ2NzYwMDA0Niw1NjY1MTg1MDIsMTEy
-ODg1NDI0Nl19
+eyJoaXN0b3J5IjpbMTAyMzU4MzI1LC0xNDc1MTg3MTYwLC03NT
+M1MTcxOTAsMjg2NzkwMDczLDIwNTY2MjMzNTcsLTE5Mzg4NDEw
+ODMsMTYzMjMyOTYyNywxNDMyMzkyOTU5LC0xMTQ2MjM5MTE0LC
+0xNTY3NTEwNjYwLC0yMDgzMDgwMjAwLDE0Njc2MDAwNDYsNTY2
+NTE4NTAyLDExMjg4NTQyNDZdfQ==
 -->
