@@ -31,10 +31,11 @@ const pepsi: Drink = ['carbonated',500];
   }
   
 ```
+- Interface is kind of a gatekeeper, An object must implement an interface so that it could be passed to a function. This is the general idea for reusing code.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwNDg4Mzg3LC0xNDc1MTg3MTYwLC03NT
-M1MTcxOTAsMjg2NzkwMDczLDIwNTY2MjMzNTcsLTE5Mzg4NDEw
-ODMsMTYzMjMyOTYyNywxNDMyMzkyOTU5LC0xMTQ2MjM5MTE0LC
-0xNTY3NTEwNjYwLC0yMDgzMDgwMjAwLDE0Njc2MDAwNDYsNTY2
-NTE4NTAyLDExMjg4NTQyNDZdfQ==
+eyJoaXN0b3J5IjpbMTU1MDAzMjAyOSw5ODA0ODgzODcsLTE0Nz
+UxODcxNjAsLTc1MzUxNzE5MCwyODY3OTAwNzMsMjA1NjYyMzM1
+NywtMTkzODg0MTA4MywxNjMyMzI5NjI3LDE0MzIzOTI5NTksLT
+ExNDYyMzkxMTQsLTE1Njc1MTA2NjAsLTIwODMwODAyMDAsMTQ2
+NzYwMDA0Niw1NjY1MTg1MDIsMTEyODg1NDI0Nl19
 -->
