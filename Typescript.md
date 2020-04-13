@@ -22,11 +22,11 @@ type Drink = [string,number]
 const pepsi: Drink = ['carbonated',500];
 ```
 
-- 
+- Interfaces - Creates a new type, describing the property names and value types of an object.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDc4MzI2NywtNzUzNTE3MTkwLDI4Nj
-c5MDA3MywyMDU2NjIzMzU3LC0xOTM4ODQxMDgzLDE2MzIzMjk2
-MjcsMTQzMjM5Mjk1OSwtMTE0NjIzOTExNCwtMTU2NzUxMDY2MC
-wtMjA4MzA4MDIwMCwxNDY3NjAwMDQ2LDU2NjUxODUwMiwxMTI4
-ODU0MjQ2XX0=
+eyJoaXN0b3J5IjpbLTE0NzUxODcxNjAsLTc1MzUxNzE5MCwyOD
+Y3OTAwNzMsMjA1NjYyMzM1NywtMTkzODg0MTA4MywxNjMyMzI5
+NjI3LDE0MzIzOTI5NTksLTExNDYyMzkxMTQsLTE1Njc1MTA2Nj
+AsLTIwODMwODAyMDAsMTQ2NzYwMDA0Niw1NjY1MTg1MDIsMTEy
+ODg1NDI0Nl19
 -->
