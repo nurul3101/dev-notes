@@ -27,12 +27,12 @@ const pepsi: Drink = ['carbonated',500];
 ```javascript
   interface {
   summary(): string;
-  
+  year: Date;
   }
   
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwMDE2NTE3LC0xNDc1MTg3MTYwLC03NT
+eyJoaXN0b3J5IjpbOTgwNDg4Mzg3LC0xNDc1MTg3MTYwLC03NT
 M1MTcxOTAsMjg2NzkwMDczLDIwNTY2MjMzNTcsLTE5Mzg4NDEw
 ODMsMTYzMjMyOTYyNywxNDMyMzkyOTU5LC0xMTQ2MjM5MTE0LC
 0xNTY3NTEwNjYwLC0yMDgzMDgwMjAwLDE0Njc2MDAwNDYsNTY2
