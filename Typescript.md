@@ -15,9 +15,15 @@ If variable declaration and initialization is one the same line then typescript 
 - When we cannot infer the type of a variable then we need to add a type annotation.
 - void is used when we don't have a return statement and never is used when we know that function will never reach the end, e.g throwing an error.
 - when we destructure from object and want to add the annotation to the destructured variable the annotation should follow the structure of value from which it was destructured and not just the destructured value.
+- Type alias, we can define our own types
+```javascript
+type Drink = [string,number]
+
+const pepsi: Drink = ['carbonated',500];
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2NzkwMDczLDIwNTY2MjMzNTcsLTE5Mz
-g4NDEwODMsMTYzMjMyOTYyNywxNDMyMzkyOTU5LC0xMTQ2MjM5
-MTE0LC0xNTY3NTEwNjYwLC0yMDgzMDgwMjAwLDE0Njc2MDAwND
-YsNTY2NTE4NTAyLDExMjg4NTQyNDZdfQ==
+eyJoaXN0b3J5IjpbLTc1MzUxNzE5MCwyODY3OTAwNzMsMjA1Nj
+YyMzM1NywtMTkzODg0MTA4MywxNjMyMzI5NjI3LDE0MzIzOTI5
+NTksLTExNDYyMzkxMTQsLTE1Njc1MTA2NjAsLTIwODMwODAyMD
+AsMTQ2NzYwMDA0Niw1NjY1MTg1MDIsMTEyODg1NDI0Nl19
 -->
