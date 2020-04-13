@@ -35,12 +35,20 @@ const pepsi: Drink = ['carbonated',500];
 
 ---
 - Classes: 3 modifiers , public , private , protected.
+- private properties/methods cannot be accessed outside the class.
+- protected properties can be accessed only in the class and chil
 - By default all the properties and methods are protected.
+```javascript
+class Vehicle{
+constructor(public color:string){}
+
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjA4NjcxLC0yMDg2NzA2NTA3LDE1NT
-AwMzIwMjksOTgwNDg4Mzg3LC0xNDc1MTg3MTYwLC03NTM1MTcx
-OTAsMjg2NzkwMDczLDIwNTY2MjMzNTcsLTE5Mzg4NDEwODMsMT
-YzMjMyOTYyNywxNDMyMzkyOTU5LC0xMTQ2MjM5MTE0LC0xNTY3
-NTEwNjYwLC0yMDgzMDgwMjAwLDE0Njc2MDAwNDYsNTY2NTE4NT
-AyLDExMjg4NTQyNDZdfQ==
+eyJoaXN0b3J5IjpbLTIwMjAwNTMxOTIsLTIwODY3MDY1MDcsMT
+U1MDAzMjAyOSw5ODA0ODgzODcsLTE0NzUxODcxNjAsLTc1MzUx
+NzE5MCwyODY3OTAwNzMsMjA1NjYyMzM1NywtMTkzODg0MTA4My
+wxNjMyMzI5NjI3LDE0MzIzOTI5NTksLTExNDYyMzkxMTQsLTE1
+Njc1MTA2NjAsLTIwODMwODAyMDAsMTQ2NzYwMDA0Niw1NjY1MT
+g1MDIsMTEyODg1NDI0Nl19
 -->
