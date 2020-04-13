@@ -32,10 +32,15 @@ const pepsi: Drink = ['carbonated',500];
   
 ```
 - Interface is kind of a gatekeeper, An object must implement an interface so that it could be passed to a function. This is the general idea for reusing code.
+
+---
+- Classes: 3 modifiers , public , private , protected.
+- By default all the properties and methods are protected.`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDAzMjAyOSw5ODA0ODgzODcsLTE0Nz
-UxODcxNjAsLTc1MzUxNzE5MCwyODY3OTAwNzMsMjA1NjYyMzM1
-NywtMTkzODg0MTA4MywxNjMyMzI5NjI3LDE0MzIzOTI5NTksLT
-ExNDYyMzkxMTQsLTE1Njc1MTA2NjAsLTIwODMwODAyMDAsMTQ2
-NzYwMDA0Niw1NjY1MTg1MDIsMTEyODg1NDI0Nl19
+eyJoaXN0b3J5IjpbLTIwODY3MDY1MDcsMTU1MDAzMjAyOSw5OD
+A0ODgzODcsLTE0NzUxODcxNjAsLTc1MzUxNzE5MCwyODY3OTAw
+NzMsMjA1NjYyMzM1NywtMTkzODg0MTA4MywxNjMyMzI5NjI3LD
+E0MzIzOTI5NTksLTExNDYyMzkxMTQsLTE1Njc1MTA2NjAsLTIw
+ODMwODAyMDAsMTQ2NzYwMDA0Niw1NjY1MTg1MDIsMTEyODg1ND
+I0Nl19
 -->
