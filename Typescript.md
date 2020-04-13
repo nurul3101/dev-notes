@@ -45,9 +45,9 @@ class Vehicle{
 constructor(public color:string){}
 }
 ```
-
+Type definition file is kind of an adapter between javascript files and typescript files.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1MDYwMDg1LDg5MjIyMTU3NSwtMjA4Nj
+eyJoaXN0b3J5IjpbNTMyOTQ2NjY4LDg5MjIyMTU3NSwtMjA4Nj
 cwNjUwNywxNTUwMDMyMDI5LDk4MDQ4ODM4NywtMTQ3NTE4NzE2
 MCwtNzUzNTE3MTkwLDI4Njc5MDA3MywyMDU2NjIzMzU3LC0xOT
 M4ODQxMDgzLDE2MzIzMjk2MjcsMTQzMjM5Mjk1OSwtMTE0NjIz
