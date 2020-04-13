@@ -47,12 +47,13 @@ constructor(public color:string){}
 ```
 Type definition file is kind of an adapter between javascript files and typescript files.
 Type definition files are going to tell the typescript compiler which functions are available in javascript file, what arguments they take.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDcxMDE2OSw1MzI5NDY2NjgsODkyMj
-IxNTc1LC0yMDg2NzA2NTA3LDE1NTAwMzIwMjksOTgwNDg4Mzg3
-LC0xNDc1MTg3MTYwLC03NTM1MTcxOTAsMjg2NzkwMDczLDIwNT
-Y2MjMzNTcsLTE5Mzg4NDEwODMsMTYzMjMyOTYyNywxNDMyMzky
-OTU5LC0xMTQ2MjM5MTE0LC0xNTY3NTEwNjYwLC0yMDgzMDgwMj
-AwLDE0Njc2MDAwNDYsNTY2NTE4NTAyLDExMjg4NTQyNDZdfQ==
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTY2NDkxNTU3NywxMjMwNzEwMTY5LDUzMj
+k0NjY2OCw4OTIyMjE1NzUsLTIwODY3MDY1MDcsMTU1MDAzMjAy
+OSw5ODA0ODgzODcsLTE0NzUxODcxNjAsLTc1MzUxNzE5MCwyOD
+Y3OTAwNzMsMjA1NjYyMzM1NywtMTkzODg0MTA4MywxNjMyMzI5
+NjI3LDE0MzIzOTI5NTksLTExNDYyMzkxMTQsLTE1Njc1MTA2Nj
+AsLTIwODMwODAyMDAsMTQ2NzYwMDA0Niw1NjY1MTg1MDIsMTEy
+ODg1NDI0Nl19
 -->
