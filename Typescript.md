@@ -34,7 +34,7 @@ const pepsi: Drink = ['carbonated',500];
 - Interface is kind of a gatekeeper, An object must implement an interface so that it could be passed to a function. This is the general idea for reusing code.
 
 ---
-- Classes: 3 modifiers , public , private , protected.
+- Classes: 3 modifiers , public , private and protected.
 - private properties/methods can be accessed only inside the class.
 - protected properties can be accessed only in the class and child classes
 - By default all the properties and methods are protected.
