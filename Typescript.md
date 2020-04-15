@@ -2,7 +2,7 @@
 
 - Javascript superset
 - Building up on javascript, adds new features.
-- Cannot be executed by browsers, so typescript needs to be converted into javascript before executing.
+- Cannot be executed by browsers, so typescript needs to be converted into javascript before executing. E.g Parcel
 - run time errors can be avoided and caught during development
 - ts-node allows us to compile typescript into javascript and execute it in the same step.
 ---
@@ -49,11 +49,11 @@ Type definition file is kind of an adapter between javascript files and typescri
 Type definition files are going to tell the typescript compiler which functions are available in javascript file, what arguments they take.
 DefinitelyTyped is a project that maintains type definitions for all the popular libraries.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTc5NzMzMCwxMjMwNzEwMTY5LDUzMj
-k0NjY2OCw4OTIyMjE1NzUsLTIwODY3MDY1MDcsMTU1MDAzMjAy
-OSw5ODA0ODgzODcsLTE0NzUxODcxNjAsLTc1MzUxNzE5MCwyOD
-Y3OTAwNzMsMjA1NjYyMzM1NywtMTkzODg0MTA4MywxNjMyMzI5
-NjI3LDE0MzIzOTI5NTksLTExNDYyMzkxMTQsLTE1Njc1MTA2Nj
-AsLTIwODMwODAyMDAsMTQ2NzYwMDA0Niw1NjY1MTg1MDIsMTEy
-ODg1NDI0Nl19
+eyJoaXN0b3J5IjpbNDQ2MTU0MDgyLC00Njk3OTczMzAsMTIzMD
+cxMDE2OSw1MzI5NDY2NjgsODkyMjIxNTc1LC0yMDg2NzA2NTA3
+LDE1NTAwMzIwMjksOTgwNDg4Mzg3LC0xNDc1MTg3MTYwLC03NT
+M1MTcxOTAsMjg2NzkwMDczLDIwNTY2MjMzNTcsLTE5Mzg4NDEw
+ODMsMTYzMjMyOTYyNywxNDMyMzkyOTU5LC0xMTQ2MjM5MTE0LC
+0xNTY3NTEwNjYwLC0yMDgzMDgwMjAwLDE0Njc2MDAwNDYsNTY2
+NTE4NTAyXX0=
 -->
