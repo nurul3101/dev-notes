@@ -50,12 +50,13 @@ Type definition file is kind of an adapter between javascript files and typescri
 Type definition files are going to tell the typescript compiler which functions are available in javascript file, what arguments they take.
 
 DefinitelyTyped is a project that maintains type definitions for all the popular libraries.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjU1NTAwMjgsLTQ2OTc5NzMzMCwxMj
-MwNzEwMTY5LDUzMjk0NjY2OCw4OTIyMjE1NzUsLTIwODY3MDY1
-MDcsMTU1MDAzMjAyOSw5ODA0ODgzODcsLTE0NzUxODcxNjAsLT
-c1MzUxNzE5MCwyODY3OTAwNzMsMjA1NjYyMzM1NywtMTkzODg0
-MTA4MywxNjMyMzI5NjI3LDE0MzIzOTI5NTksLTExNDYyMzkxMT
-QsLTE1Njc1MTA2NjAsLTIwODMwODAyMDAsMTQ2NzYwMDA0Niw1
-NjY1MTg1MDJdfQ==
+eyJoaXN0b3J5IjpbMTg1MjA5MDcyMiwtMTc2NTU1MDAyOCwtND
+Y5Nzk3MzMwLDEyMzA3MTAxNjksNTMyOTQ2NjY4LDg5MjIyMTU3
+NSwtMjA4NjcwNjUwNywxNTUwMDMyMDI5LDk4MDQ4ODM4NywtMT
+Q3NTE4NzE2MCwtNzUzNTE3MTkwLDI4Njc5MDA3MywyMDU2NjIz
+MzU3LC0xOTM4ODQxMDgzLDE2MzIzMjk2MjcsMTQzMjM5Mjk1OS
+wtMTE0NjIzOTExNCwtMTU2NzUxMDY2MCwtMjA4MzA4MDIwMCwx
+NDY3NjAwMDQ2XX0=
 -->
