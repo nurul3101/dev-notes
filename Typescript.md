@@ -46,14 +46,16 @@ constructor(public color:string){}
 }
 ```
 Type definition file is kind of an adapter between javascript files and typescript files.
+
 Type definition files are going to tell the typescript compiler which functions are available in javascript file, what arguments they take.
+
 DefinitelyTyped is a project that maintains type definitions for all the popular libraries.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5OTAyNjAsLTQ2OTc5NzMzMCwxMjMwNz
-EwMTY5LDUzMjk0NjY2OCw4OTIyMjE1NzUsLTIwODY3MDY1MDcs
-MTU1MDAzMjAyOSw5ODA0ODgzODcsLTE0NzUxODcxNjAsLTc1Mz
-UxNzE5MCwyODY3OTAwNzMsMjA1NjYyMzM1NywtMTkzODg0MTA4
-MywxNjMyMzI5NjI3LDE0MzIzOTI5NTksLTExNDYyMzkxMTQsLT
-E1Njc1MTA2NjAsLTIwODMwODAyMDAsMTQ2NzYwMDA0Niw1NjY1
-MTg1MDJdfQ==
+eyJoaXN0b3J5IjpbLTE3NjU1NTAwMjgsLTQ2OTc5NzMzMCwxMj
+MwNzEwMTY5LDUzMjk0NjY2OCw4OTIyMjE1NzUsLTIwODY3MDY1
+MDcsMTU1MDAzMjAyOSw5ODA0ODgzODcsLTE0NzUxODcxNjAsLT
+c1MzUxNzE5MCwyODY3OTAwNzMsMjA1NjYyMzM1NywtMTkzODg0
+MTA4MywxNjMyMzI5NjI3LDE0MzIzOTI5NTksLTExNDYyMzkxMT
+QsLTE1Njc1MTA2NjAsLTIwODMwODAyMDAsMTQ2NzYwMDA0Niw1
+NjY1MTg1MDJdfQ==
 -->
