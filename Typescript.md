@@ -50,9 +50,10 @@ Type definition file is kind of an adapter between javascript files and typescri
 Type definition files are going to tell the typescript compiler which functions are available in javascript file, what arguments they take.
 
 DefinitelyTyped is a project that maintains type definitions for all the popular libraries.
-
+Typescript does not understand that we have a global object available by default.
+So we need to install type definitions for that	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MjA5MDcyMiwtMTc2NTU1MDAyOCwtND
+eyJoaXN0b3J5IjpbMTMzNTg2MjQxMiwtMTc2NTU1MDAyOCwtND
 Y5Nzk3MzMwLDEyMzA3MTAxNjksNTMyOTQ2NjY4LDg5MjIyMTU3
 NSwtMjA4NjcwNjUwNywxNTUwMDMyMDI5LDk4MDQ4ODM4NywtMT
 Q3NTE4NzE2MCwtNzUzNTE3MTkwLDI4Njc5MDA3MywyMDU2NjIz
