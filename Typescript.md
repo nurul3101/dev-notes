@@ -54,12 +54,14 @@ Typescript does not understand that we have a global object available by default
 So we need to install type definitions for that.
 
 When we create a class we can use them to create instances as well as we can use them for Types.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODY4OTQ1ODQsMTMzNTg2MjQxMiwtMT
-c2NTU1MDAyOCwtNDY5Nzk3MzMwLDEyMzA3MTAxNjksNTMyOTQ2
-NjY4LDg5MjIyMTU3NSwtMjA4NjcwNjUwNywxNTUwMDMyMDI5LD
-k4MDQ4ODM4NywtMTQ3NTE4NzE2MCwtNzUzNTE3MTkwLDI4Njc5
-MDA3MywyMDU2NjIzMzU3LC0xOTM4ODQxMDgzLDE2MzIzMjk2Mj
-csMTQzMjM5Mjk1OSwtMTE0NjIzOTExNCwtMTU2NzUxMDY2MCwt
-MjA4MzA4MDIwMF19
+eyJoaXN0b3J5IjpbLTQ3NzY3MjczMiwtMTg4Njg5NDU4NCwxMz
+M1ODYyNDEyLC0xNzY1NTUwMDI4LC00Njk3OTczMzAsMTIzMDcx
+MDE2OSw1MzI5NDY2NjgsODkyMjIxNTc1LC0yMDg2NzA2NTA3LD
+E1NTAwMzIwMjksOTgwNDg4Mzg3LC0xNDc1MTg3MTYwLC03NTM1
+MTcxOTAsMjg2NzkwMDczLDIwNTY2MjMzNTcsLTE5Mzg4NDEwOD
+MsMTYzMjMyOTYyNywxNDMyMzkyOTU5LC0xMTQ2MjM5MTE0LC0x
+NTY3NTEwNjYwXX0=
 -->
