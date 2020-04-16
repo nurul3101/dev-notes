@@ -58,9 +58,14 @@ When we create a class we can use them to create instances as well as we can use
 When we are using | operator in a type, only the common properties between them can be accessed.
 Implicit typecheck is when typescript checks for us that the properties that we pass to a function follows the interface or not.
 
-
+We can make sure that instances of a class follows the interface requirements by using implement clause.
+```javascript
+export class User implements Mappable {
+///
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MzU1NzAxNiwxMTk1NDQ3MzU2LC00NT
+eyJoaXN0b3J5IjpbLTU4NzgzMDczNiwxMTk1NDQ3MzU2LC00NT
 E1NjMyNDcsLTE4ODY4OTQ1ODQsMTMzNTg2MjQxMiwtMTc2NTU1
 MDAyOCwtNDY5Nzk3MzMwLDEyMzA3MTAxNjksNTMyOTQ2NjY4LD
 g5MjIyMTU3NSwtMjA4NjcwNjUwNywxNTUwMDMyMDI5LDk4MDQ4
