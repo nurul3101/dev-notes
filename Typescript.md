@@ -56,12 +56,13 @@ So we need to install type definitions for that.
 When we create a class we can use them to create instances as well as we can use them for Types.
 
 When we are using | operator in a type, only the common properties between them can be accessed.
+Implicit typecheck is when typescript checks for us that the properties that we pass to a function follows the interface or not.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTU2MzI0NywtMTg4Njg5NDU4NCwxMz
-M1ODYyNDEyLC0xNzY1NTUwMDI4LC00Njk3OTczMzAsMTIzMDcx
-MDE2OSw1MzI5NDY2NjgsODkyMjIxNTc1LC0yMDg2NzA2NTA3LD
-E1NTAwMzIwMjksOTgwNDg4Mzg3LC0xNDc1MTg3MTYwLC03NTM1
-MTcxOTAsMjg2NzkwMDczLDIwNTY2MjMzNTcsLTE5Mzg4NDEwOD
-MsMTYzMjMyOTYyNywxNDMyMzkyOTU5LC0xMTQ2MjM5MTE0LC0x
-NTY3NTEwNjYwXX0=
+eyJoaXN0b3J5IjpbMTE5NTQ0NzM1NiwtNDUxNTYzMjQ3LC0xOD
+g2ODk0NTg0LDEzMzU4NjI0MTIsLTE3NjU1NTAwMjgsLTQ2OTc5
+NzMzMCwxMjMwNzEwMTY5LDUzMjk0NjY2OCw4OTIyMjE1NzUsLT
+IwODY3MDY1MDcsMTU1MDAzMjAyOSw5ODA0ODgzODcsLTE0NzUx
+ODcxNjAsLTc1MzUxNzE5MCwyODY3OTAwNzMsMjA1NjYyMzM1Ny
+wtMTkzODg0MTA4MywxNjMyMzI5NjI3LDE0MzIzOTI5NTksLTEx
+NDYyMzkxMTRdfQ==
 -->
