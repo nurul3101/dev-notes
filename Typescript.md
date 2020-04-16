@@ -65,8 +65,18 @@ export class User implements Mappable {
 }
 ```
 
+While defining an interface we can add an ? if the property is optional.
+```javascript
+export interface Mappable  {
+location:{
+ lat:  number;
+ lng:  number;
+};
+markerContent():  string;
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMTAzNTgxMCwtNTg3ODMwNzM2LDExOT
+eyJoaXN0b3J5IjpbMTk4NTcwNTE0OSwtNTg3ODMwNzM2LDExOT
 U0NDczNTYsLTQ1MTU2MzI0NywtMTg4Njg5NDU4NCwxMzM1ODYy
 NDEyLC0xNzY1NTUwMDI4LC00Njk3OTczMzAsMTIzMDcxMDE2OS
 w1MzI5NDY2NjgsODkyMjIxNTc1LC0yMDg2NzA2NTA3LDE1NTAw
