@@ -55,9 +55,9 @@ So we need to install type definitions for that.
 
 When we create a class we can use them to create instances as well as we can use them for Types.
 
-
+When we are using | operator in a type, only the common properties between them can be accessed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NzY3MjczMiwtMTg4Njg5NDU4NCwxMz
+eyJoaXN0b3J5IjpbLTQ1MTU2MzI0NywtMTg4Njg5NDU4NCwxMz
 M1ODYyNDEyLC0xNzY1NTUwMDI4LC00Njk3OTczMzAsMTIzMDcx
 MDE2OSw1MzI5NDY2NjgsODkyMjIxNTc1LC0yMDg2NzA2NTA3LD
 E1NTAwMzIwMjksOTgwNDg4Mzg3LC0xNDc1MTg3MTYwLC03NTM1
