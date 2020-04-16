@@ -51,13 +51,15 @@ Type definition files are going to tell the typescript compiler which functions 
 
 DefinitelyTyped is a project that maintains type definitions for all the popular libraries.
 Typescript does not understand that we have a global object available by default.
-So we need to install type definitions for that	
+So we need to install type definitions for that.
+
+When we create a class we can use them to create instances as well as we can use them for Types.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNTg2MjQxMiwtMTc2NTU1MDAyOCwtND
-Y5Nzk3MzMwLDEyMzA3MTAxNjksNTMyOTQ2NjY4LDg5MjIyMTU3
-NSwtMjA4NjcwNjUwNywxNTUwMDMyMDI5LDk4MDQ4ODM4NywtMT
-Q3NTE4NzE2MCwtNzUzNTE3MTkwLDI4Njc5MDA3MywyMDU2NjIz
-MzU3LC0xOTM4ODQxMDgzLDE2MzIzMjk2MjcsMTQzMjM5Mjk1OS
-wtMTE0NjIzOTExNCwtMTU2NzUxMDY2MCwtMjA4MzA4MDIwMCwx
-NDY3NjAwMDQ2XX0=
+eyJoaXN0b3J5IjpbLTE4ODY4OTQ1ODQsMTMzNTg2MjQxMiwtMT
+c2NTU1MDAyOCwtNDY5Nzk3MzMwLDEyMzA3MTAxNjksNTMyOTQ2
+NjY4LDg5MjIyMTU3NSwtMjA4NjcwNjUwNywxNTUwMDMyMDI5LD
+k4MDQ4ODM4NywtMTQ3NTE4NzE2MCwtNzUzNTE3MTkwLDI4Njc5
+MDA3MywyMDU2NjIzMzU3LC0xOTM4ODQxMDgzLDE2MzIzMjk2Mj
+csMTQzMjM5Mjk1OSwtMTE0NjIzOTExNCwtMTU2NzUxMDY2MCwt
+MjA4MzA4MDIwMF19
 -->
