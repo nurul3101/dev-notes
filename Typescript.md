@@ -74,6 +74,7 @@ location:{
 };
 markerContent():  string;
 color?:  string;
+gradient?: string;
 }
 ```
 <!--stackedit_data:
