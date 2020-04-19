@@ -1,4 +1,4 @@
-# Typescript
+# Typescript Notes
 
 - Javascript superset
 - Building up on javascript, adds new features.
