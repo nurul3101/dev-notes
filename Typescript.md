@@ -65,7 +65,7 @@ export class User implements Mappable {
 }
 ```
 
-While defining an interface we can add an ? if the property is optional.
+While defining an interface if we add an ? if the property is optional.
 ```javascript
 export interface Mappable  {
 location:{
