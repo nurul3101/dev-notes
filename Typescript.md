@@ -1,6 +1,6 @@
 # Typescript Notes
 
-- Javascript superset
+- Typescript is Javascript's superset
 - Building up on javascript, adds new features.
 - Cannot be executed by browsers, so typescript needs to be converted into javascript before executing. E.g Parcel
 - run time errors can be avoided and caught during development
