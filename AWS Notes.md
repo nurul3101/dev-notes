@@ -63,6 +63,8 @@ Usually we should not use Elastic Ip as it represents poor architectural decisio
 - 
 - Spread
 - Partition
+
+DocumentDB vs DynamoDB
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEyMTY1NzMyMF19
 -->
