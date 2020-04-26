@@ -23,6 +23,7 @@ const pepsi: Drink = ['carbonated',500];
 ```
 
 - Interfaces - Creates a new type, describing the property names and value types of an object.
+- We can also use type instead of interface. One Advantage of using interface is that classes can implement them.
 - While defining interface we can use complex types as well and are not confined to using primitive types, 
 ```javascript
   interface Reportable{
