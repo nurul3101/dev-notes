@@ -1,4 +1,4 @@
-## AWS
+## AWS (Amazon Web Services)
 
 IAM
 Identity and Access Management
