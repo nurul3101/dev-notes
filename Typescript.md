@@ -11,7 +11,7 @@ Type - Easy way to refer to different properties and functions that a value has.
 If variable declaration and initialization is one the same line then typescript inference can detect the type.
 
 - any is a Type, which means typescript has no idea what it is, Avoid variables with any at all costs
-- We will add type annotations in functions which returns type any
+- We will add type annotations in functions which returns type any. Usually we should avoid any.
 - When we cannot infer the type of a variable then we need to add a type annotation.
 - void is used when we don't have a return statement and never is used when we know that function will never reach the end, e.g throwing an error.
 - when we destructure from object and want to add the annotation to the destructured variable the annotation should follow the structure of value from which it was destructured and not just the destructured value.
