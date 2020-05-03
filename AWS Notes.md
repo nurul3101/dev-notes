@@ -2,7 +2,7 @@
 
 IAM
 Identity and Access Management
-- Do not use the root account
+- Never use the root account
 - Users
 - Groups
 - Roles
