@@ -13,7 +13,7 @@ Identity and Access Management
 - Permissions are governed by policies
 - Least privileged principles
 - IAM FEDERATION (for huge enterprises)
-- Only 1 IAM Role per application strongly recommended
+- Only 1 IAM Role per application is strongly recommended
 
 Public ip will change when we stop our instance and restart it.
 Private ip remains the same.
