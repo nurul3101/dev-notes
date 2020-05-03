@@ -3,7 +3,7 @@
 - GraphQL is a query language for APIs and a runtime for fulfilling those queries with your data
 - Graphql is an API Standard
 - Enables declarative data fetching - client specifies exactly what data it wants from an API and that data is returned in response.
-- Graphql server exposes single end point and responds to queries with precisely data that a client asked for
+- Graphql server exposes single end point and responds to queries with prdata that a client asked for
 
 - Graphql has strong type system which give us an idea of capabilities of an API.
 - Schema Definition Language(SDL) language is used to define schema of an API.
@@ -66,5 +66,5 @@ type Post {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjM5NDQ1NzNdfQ==
+eyJoaXN0b3J5IjpbNTY2NTQ0OTExLC0xMDYzOTQ0NTczXX0=
 -->
