@@ -3,7 +3,7 @@
 - Typescript is Javascript's superset
 - Building up on javascript, adds new features.
 - Cannot be executed by browsers, so typescript needs to be converted into javascript before executing. E.g Parcel
-- run time errors can be avoided and caught during development
+- run time errors can be avoided and caught during development, which allows to devlop features faster
 - ts-node allows us to compile typescript into javascript and execute it in the same step.
 ---
 Type - Easy way to refer to different properties and functions that a value has.
