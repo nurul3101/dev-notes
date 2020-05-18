@@ -41,8 +41,9 @@ docker - refers to the docker client (cli)
 run - Try to create and run a container
 <image_name> - Name of the image to use for this container
 E.g: `docker run busybox ls`
+T
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzE1NzYwLDE1MTUzODg0MDQsNDg3Mj
+eyJoaXN0b3J5IjpbMzg0NTg5OTg2LDE1MTUzODg0MDQsNDg3Mj
 UyMjk5LC0yMTQ1OTcxNjc1LC00MDM3MDExODcsNDY0NTYxNjkz
 LC0xNjE2NDUzNzExLC01MDQ0MzU3NTUsMTI1NzQ5MjQ0NV19
 -->
