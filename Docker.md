@@ -31,9 +31,9 @@ Purpose of a container is to run a specific program,
 - Namespacing and control groups are portions of linux os.
 - So when we installed docker for macOS/ windows and we start docker we have linux virtual machine running in our system.
 - So this linux virtual machine is used to host these containers.
-- When we executed ``
+- When we executed `docker version` command it shows the os our docker server is running with.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDE3OTE0OCwtMjE0NTk3MTY3NSwtND
-AzNzAxMTg3LDQ2NDU2MTY5MywtMTYxNjQ1MzcxMSwtNTA0NDM1
-NzU1LDEyNTc0OTI0NDVdfQ==
+eyJoaXN0b3J5IjpbNDg3MjUyMjk5LC0yMTQ1OTcxNjc1LC00MD
+M3MDExODcsNDY0NTYxNjkzLC0xNjE2NDUzNzExLC01MDQ0MzU3
+NTUsMTI1NzQ5MjQ0NV19
 -->
