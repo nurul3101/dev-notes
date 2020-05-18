@@ -58,11 +58,11 @@ we can start the created container with
 `docker logs container_id` will show all the logs that have been emitted from that specified container. It will not start/ stop the container.
 To stop a container: `docker stop container_id`
 Docker stop command emits SIGTERM command to the process and allows some time for cleanup and exit.
-`docker kill conatiner_id` emits SIGKILL command and it stops instantly.
+`docker kill conatiner_id` emits SIGKILL command and it stops instantly. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQzNDY0NTcsNzUwMjQ2NjE5LDEzNz
-A0OTQ5ODUsNjcyNjQyNDQyLC0yNTMzMTk3MzcsNTM1NDAyNTk5
-LDk4OTA5MjgsMTUxNTM4ODQwNCw0ODcyNTIyOTksLTIxNDU5Nz
-E2NzUsLTQwMzcwMTE4Nyw0NjQ1NjE2OTMsLTE2MTY0NTM3MTEs
-LTUwNDQzNTc1NSwxMjU3NDkyNDQ1XX0=
+eyJoaXN0b3J5IjpbMTk3Mzc0NDg3NywtMTk1NDM0NjQ1Nyw3NT
+AyNDY2MTksMTM3MDQ5NDk4NSw2NzI2NDI0NDIsLTI1MzMxOTcz
+Nyw1MzU0MDI1OTksOTg5MDkyOCwxNTE1Mzg4NDA0LDQ4NzI1Mj
+I5OSwtMjE0NTk3MTY3NSwtNDAzNzAxMTg3LDQ2NDU2MTY5Mywt
+MTYxNjQ1MzcxMSwtNTA0NDM1NzU1LDEyNTc0OTI0NDVdfQ==
 -->
