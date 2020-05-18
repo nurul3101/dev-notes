@@ -17,8 +17,9 @@ docker run hello-world
 The command is executed by docker-cli which does some pre-processing on it and passes it to docker server.
 What we are saying is that we want to run a new container from an image named hello-world.
 It will try to find the image in machine's local image cache, if image is not found then we reach out to docker hub to install the image.
-Docker server downloaded the image from docker hub and stored it in image-cache
+Docker server downloaded the image from docker hub and stored it in image-cache.
+Once the image is downloaded it is used to create a container which is an instance of the image.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MTA2NjMzNiw0NjQ1NjE2OTMsLTE2MT
-Y0NTM3MTEsLTUwNDQzNTc1NSwxMjU3NDkyNDQ1XX0=
+eyJoaXN0b3J5IjpbLTExODIwNzU1NDEsNDY0NTYxNjkzLC0xNj
+E2NDUzNzExLC01MDQ0MzU3NTUsMTI1NzQ5MjQ0NV19
 -->
