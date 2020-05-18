@@ -46,10 +46,9 @@ For example ls executable was found in filesystem of busybox image so it was exe
 
 ---
 
-
+`docker ps` command lists all the running containers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1Njc0MzAzNCwxNTE1Mzg4NDA0LDQ4Nz
-I1MjI5OSwtMjE0NTk3MTY3NSwtNDAzNzAxMTg3LDQ2NDU2MTY5
-MywtMTYxNjQ1MzcxMSwtNTA0NDM1NzU1LDEyNTc0OTI0NDVdfQ
-==
+eyJoaXN0b3J5IjpbOTg5MDkyOCwxNTE1Mzg4NDA0LDQ4NzI1Mj
+I5OSwtMjE0NTk3MTY3NSwtNDAzNzAxMTg3LDQ2NDU2MTY5Mywt
+MTYxNjQ1MzcxMSwtNTA0NDM1NzU1LDEyNTc0OTI0NDVdfQ==
 -->
