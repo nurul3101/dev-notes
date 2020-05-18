@@ -33,8 +33,14 @@ Purpose of a container is to run a specific program,
 - So this linux virtual machine is used to host these containers.
 - When we executed `docker version` command it shows the os our docker server is running with.
 - startup command is basically command which needs to be executed when a container is created. We can override the startup command of docker image.
+---
+### Dissecting docker run command
+
+`docker run <img_name> command!`
+docker - refers to the docker client (cli)
+run - Try 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzI3ODU2NTUsNDg3MjUyMjk5LC0yMT
-Q1OTcxNjc1LC00MDM3MDExODcsNDY0NTYxNjkzLC0xNjE2NDUz
-NzExLC01MDQ0MzU3NTUsMTI1NzQ5MjQ0NV19
+eyJoaXN0b3J5IjpbLTE5NzQzMjE2Myw0ODcyNTIyOTksLTIxND
+U5NzE2NzUsLTQwMzcwMTE4Nyw0NjQ1NjE2OTMsLTE2MTY0NTM3
+MTEsLTUwNDQzNTc1NSwxMjU3NDkyNDQ1XX0=
 -->
