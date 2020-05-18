@@ -9,8 +9,13 @@
 - Docker image is a file which contains dependencies and instructions to install a specific program
 - --
 - Docker Cli (client) is the software which we use to interact with docker daemon which is used to create containers and manage them.
-- 
+- --
+### what happens when we run 
+```
+docker run hello-world
+```
+What we are saying is that 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTAxODM3NjQsLTE2MTY0NTM3MTEsLT
-UwNDQzNTc1NSwxMjU3NDkyNDQ1XX0=
+eyJoaXN0b3J5IjpbNDY0NTYxNjkzLC0xNjE2NDUzNzExLC01MD
+Q0MzU3NTUsMTI1NzQ5MjQ0NV19
 -->
