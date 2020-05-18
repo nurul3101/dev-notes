@@ -41,9 +41,11 @@ docker - refers to the docker client (cli)
 run - Try to create and run a container
 <image_name> - Name of the image to use for this container
 E.g: `docker run busybox ls`
-T
+The override command that we enter depends upon the default filesystem of the docker-image.
+For example ls executable was found in filesystem of b
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg0NTg5OTg2LDE1MTUzODg0MDQsNDg3Mj
-UyMjk5LC0yMTQ1OTcxNjc1LC00MDM3MDExODcsNDY0NTYxNjkz
-LC0xNjE2NDUzNzExLC01MDQ0MzU3NTUsMTI1NzQ5MjQ0NV19
+eyJoaXN0b3J5IjpbLTE3NjA2MDIxNTUsMTUxNTM4ODQwNCw0OD
+cyNTIyOTksLTIxNDU5NzE2NzUsLTQwMzcwMTE4Nyw0NjQ1NjE2
+OTMsLTE2MTY0NTM3MTEsLTUwNDQzNTc1NSwxMjU3NDkyNDQ1XX
+0=
 -->
