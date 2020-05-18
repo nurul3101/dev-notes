@@ -24,9 +24,9 @@ Purpose of a container is to run a specific program,
 ---
 ### What is a container?
 
-
+- Container isolates some portion of resources of a particular process 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDIwMTg1NzAsLTQwMzcwMTE4Nyw0Nj
+eyJoaXN0b3J5IjpbLTIxNDU5NzE2NzUsLTQwMzcwMTE4Nyw0Nj
 Q1NjE2OTMsLTE2MTY0NTM3MTEsLTUwNDQzNTc1NSwxMjU3NDky
 NDQ1XX0=
 -->
