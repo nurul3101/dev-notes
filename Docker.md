@@ -34,7 +34,7 @@ Purpose of a container is to run a specific program,
 - When we executed `docker version` command it shows the os our docker server is running with.
 - startup command is basically command which needs to be executed when a container is created. We can override the startup command of docker image.
 ---
-### Dissecting docker run command
+### Dissecting docker commands
 
 `docker run <img_name> command!`
 docker - refers to the docker client (cli)
@@ -43,8 +43,12 @@ run - Try to create and run a container
 E.g: `docker run busybox ls`
 The override command that we enter depends upon the default filesystem of the docker-image.
 For example ls executable was found in filesystem of busybox image so it was executed.
+
+---
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NjY0Nzc4OSwxNTE1Mzg4NDA0LDQ4Nz
+eyJoaXN0b3J5IjpbMTA1Njc0MzAzNCwxNTE1Mzg4NDA0LDQ4Nz
 I1MjI5OSwtMjE0NTk3MTY3NSwtNDAzNzAxMTg3LDQ2NDU2MTY5
 MywtMTYxNjQ1MzcxMSwtNTA0NDM1NzU1LDEyNTc0OTI0NDVdfQ
 ==
