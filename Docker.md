@@ -19,7 +19,8 @@ What we are saying is that we want to run a new container from an image named he
 It will try to find the image in machine's local image cache, if image is not found then we reach out to docker hub to install the image.
 Docker server downloaded the image from docker hub and stored it in image-cache.
 Once the image is downloaded it is used to create a container which is an instance of the image.
+Purpose of a container is to run a specific program
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODIwNzU1NDEsNDY0NTYxNjkzLC0xNj
-E2NDUzNzExLC01MDQ0MzU3NTUsMTI1NzQ5MjQ0NV19
+eyJoaXN0b3J5IjpbLTQwMzcwMTE4Nyw0NjQ1NjE2OTMsLTE2MT
+Y0NTM3MTEsLTUwNDQzNTc1NSwxMjU3NDkyNDQ1XX0=
 -->
