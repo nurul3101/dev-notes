@@ -55,11 +55,11 @@ For example ls executable was found in filesystem of busybox image so it was exe
 `docker create hello-world` just creates a container, does not run it. and returns the container id.
 we can start the created container with
 `docker start id_container` with optional `-a` flag to attach it to the container so that we can watch the output coming from the container.
-`docker log container_id` will show all the logs that have been emitted from that specified container. It will not start/ stop the container.
+`docker logs container_id` will show all the logs that have been emitted from that specified container. It will not start/ stop the container.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjYwNzA4NCwxMzcwNDk0OTg1LDY3Mj
-Y0MjQ0MiwtMjUzMzE5NzM3LDUzNTQwMjU5OSw5ODkwOTI4LDE1
-MTUzODg0MDQsNDg3MjUyMjk5LC0yMTQ1OTcxNjc1LC00MDM3MD
-ExODcsNDY0NTYxNjkzLC0xNjE2NDUzNzExLC01MDQ0MzU3NTUs
-MTI1NzQ5MjQ0NV19
+eyJoaXN0b3J5IjpbNzUwMjQ2NjE5LDEzNzA0OTQ5ODUsNjcyNj
+QyNDQyLC0yNTMzMTk3MzcsNTM1NDAyNTk5LDk4OTA5MjgsMTUx
+NTM4ODQwNCw0ODcyNTIyOTksLTIxNDU5NzE2NzUsLTQwMzcwMT
+E4Nyw0NjQ1NjE2OTMsLTE2MTY0NTM3MTEsLTUwNDQzNTc1NSwx
+MjU3NDkyNDQ1XX0=
 -->
