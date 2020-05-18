@@ -14,8 +14,9 @@
 ```
 docker run hello-world
 ```
-What we are saying is that 
+What we are saying is that we want to run a new container from an image named hello-world.
+It will try to find the image in machine's local image cache, if image is not found then we 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0NTYxNjkzLC0xNjE2NDUzNzExLC01MD
-Q0MzU3NTUsMTI1NzQ5MjQ0NV19
+eyJoaXN0b3J5IjpbLTg1NTk5MjgzNyw0NjQ1NjE2OTMsLTE2MT
+Y0NTM3MTEsLTUwNDQzNTc1NSwxMjU3NDkyNDQ1XX0=
 -->
