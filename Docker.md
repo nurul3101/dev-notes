@@ -26,9 +26,9 @@ Purpose of a container is to run a specific program,
 
 - Container isolates some portion of resources for a particular process.
 - Docker image are the executables which at runtime are transformed into docker containers.
-- Docker image is a combination of Filesystem snapshot and startup command 
+- Docker image is a combination of Filesystem snapshot and startup command.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjkyMTcwNSwtMjE0NTk3MTY3NSwtND
+eyJoaXN0b3J5IjpbMTQxOTA2MTMyMSwtMjE0NTk3MTY3NSwtND
 AzNzAxMTg3LDQ2NDU2MTY5MywtMTYxNjQ1MzcxMSwtNTA0NDM1
 NzU1LDEyNTc0OTI0NDVdfQ==
 -->
