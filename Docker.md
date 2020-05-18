@@ -42,10 +42,10 @@ run - Try to create and run a container
 <image_name> - Name of the image to use for this container
 E.g: `docker run busybox ls`
 The override command that we enter depends upon the default filesystem of the docker-image.
-For example ls executable was found in filesystem of b
+For example ls executable was found in filesystem of busybox image so it was executed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjA2MDIxNTUsMTUxNTM4ODQwNCw0OD
-cyNTIyOTksLTIxNDU5NzE2NzUsLTQwMzcwMTE4Nyw0NjQ1NjE2
-OTMsLTE2MTY0NTM3MTEsLTUwNDQzNTc1NSwxMjU3NDkyNDQ1XX
-0=
+eyJoaXN0b3J5IjpbLTY0NjY0Nzc4OSwxNTE1Mzg4NDA0LDQ4Nz
+I1MjI5OSwtMjE0NTk3MTY3NSwtNDAzNzAxMTg3LDQ2NDU2MTY5
+MywtMTYxNjQ1MzcxMSwtNTA0NDM1NzU1LDEyNTc0OTI0NDVdfQ
+==
 -->
