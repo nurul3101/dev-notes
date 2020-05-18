@@ -32,9 +32,9 @@ Purpose of a container is to run a specific program,
 - So when we installed docker for macOS/ windows and we start docker we have linux virtual machine running in our system.
 - So this linux virtual machine is used to host these containers.
 - When we executed `docker version` command it shows the os our docker server is running with.
-- startup command is baWe can override the startup command of docker image.
+- startup command is basically command which needs to be executed when a container is created. We can override the startup command of docker image.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1OTQ4ODE0LDQ4NzI1MjI5OSwtMjE0NT
-k3MTY3NSwtNDAzNzAxMTg3LDQ2NDU2MTY5MywtMTYxNjQ1Mzcx
-MSwtNTA0NDM1NzU1LDEyNTc0OTI0NDVdfQ==
+eyJoaXN0b3J5IjpbLTIwMzI3ODU2NTUsNDg3MjUyMjk5LC0yMT
+Q1OTcxNjc1LC00MDM3MDExODcsNDY0NTYxNjkzLC0xNjE2NDUz
+NzExLC01MDQ0MzU3NTUsMTI1NzQ5MjQ0NV19
 -->
