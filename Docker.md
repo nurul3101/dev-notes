@@ -39,8 +39,9 @@ Purpose of a container is to run a specific program,
 `docker run <img_name> command!`
 docker - refers to the docker client (cli)
 run - Try to **create** and **run** a container.
-`docker run = docker create + docker run`
-Docker create command just uses fs snapshot of image and prepares it so that it c
+`docker run = docker create + docker start`
+Docker create command just uses fs snapshot of image and prepares it so that it can be ran later.
+Docker start command executes  the startup command.
 <image_name> - Name of the image to use for this container
 E.g: `docker run busybox ls`
 The override command that we enter depends upon the default filesystem of the docker-image.
@@ -53,8 +54,8 @@ For example ls executable was found in filesystem of busybox image so it was exe
 `docker container prune` removes all stopped containers, and these containers will not be visible in docker ps --all command.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODE3NTAwNTYsLTI1MzMxOTczNyw1Mz
-U0MDI1OTksOTg5MDkyOCwxNTE1Mzg4NDA0LDQ4NzI1MjI5OSwt
-MjE0NTk3MTY3NSwtNDAzNzAxMTg3LDQ2NDU2MTY5MywtMTYxNj
-Q1MzcxMSwtNTA0NDM1NzU1LDEyNTc0OTI0NDVdfQ==
+eyJoaXN0b3J5IjpbNjcyNjQyNDQyLC0yNTMzMTk3MzcsNTM1ND
+AyNTk5LDk4OTA5MjgsMTUxNTM4ODQwNCw0ODcyNTIyOTksLTIx
+NDU5NzE2NzUsLTQwMzcwMTE4Nyw0NjQ1NjE2OTMsLTE2MTY0NT
+M3MTEsLTUwNDQzNTc1NSwxMjU3NDkyNDQ1XX0=
 -->
