@@ -38,9 +38,10 @@ Purpose of a container is to run a specific program,
 
 `docker run <img_name> command!`
 docker - refers to the docker client (cli)
-run - Try 
+run - Try to create and run a container
+<image_name> - Name of the image to use for this container
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQzMjE2Myw0ODcyNTIyOTksLTIxND
+eyJoaXN0b3J5IjpbMTUxNTM4ODQwNCw0ODcyNTIyOTksLTIxND
 U5NzE2NzUsLTQwMzcwMTE4Nyw0NjQ1NjE2OTMsLTE2MTY0NTM3
 MTEsLTUwNDQzNTc1NSwxMjU3NDkyNDQ1XX0=
 -->
