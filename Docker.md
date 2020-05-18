@@ -52,10 +52,13 @@ For example ls executable was found in filesystem of busybox image so it was exe
 `docker ps` command lists all the running containers.
 `docker ps --all` lists all the containers ever created.
 `docker container prune` removes all stopped containers, and these containers will not be visible in docker ps --all command.
-
+`docker create hello-world` just creates a container, does not run it. and returns the container id.
+we can start the created container with
+`docker start id_container` with optional `-a`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcyNjQyNDQyLC0yNTMzMTk3MzcsNTM1ND
-AyNTk5LDk4OTA5MjgsMTUxNTM4ODQwNCw0ODcyNTIyOTksLTIx
-NDU5NzE2NzUsLTQwMzcwMTE4Nyw0NjQ1NjE2OTMsLTE2MTY0NT
-M3MTEsLTUwNDQzNTc1NSwxMjU3NDkyNDQ1XX0=
+eyJoaXN0b3J5IjpbMTk2MzM3MzU5MCw2NzI2NDI0NDIsLTI1Mz
+MxOTczNyw1MzU0MDI1OTksOTg5MDkyOCwxNTE1Mzg4NDA0LDQ4
+NzI1MjI5OSwtMjE0NTk3MTY3NSwtNDAzNzAxMTg3LDQ2NDU2MT
+Y5MywtMTYxNjQ1MzcxMSwtNTA0NDM1NzU1LDEyNTc0OTI0NDVd
+fQ==
 -->
