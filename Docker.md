@@ -56,10 +56,12 @@ For example ls executable was found in filesystem of busybox image so it was exe
 we can start the created container with
 `docker start id_container` with optional `-a` flag to attach it to the container so that we can watch the output coming from the container.
 `docker logs container_id` will show all the logs that have been emitted from that specified container. It will not start/ stop the container.
+To stop a container: `docker stop container_id`
+Docker stop command emits SIGTERM co
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwMjQ2NjE5LDEzNzA0OTQ5ODUsNjcyNj
-QyNDQyLC0yNTMzMTk3MzcsNTM1NDAyNTk5LDk4OTA5MjgsMTUx
-NTM4ODQwNCw0ODcyNTIyOTksLTIxNDU5NzE2NzUsLTQwMzcwMT
-E4Nyw0NjQ1NjE2OTMsLTE2MTY0NTM3MTEsLTUwNDQzNTc1NSwx
-MjU3NDkyNDQ1XX0=
+eyJoaXN0b3J5IjpbMTkxMzUwMDA2Myw3NTAyNDY2MTksMTM3MD
+Q5NDk4NSw2NzI2NDI0NDIsLTI1MzMxOTczNyw1MzU0MDI1OTks
+OTg5MDkyOCwxNTE1Mzg4NDA0LDQ4NzI1MjI5OSwtMjE0NTk3MT
+Y3NSwtNDAzNzAxMTg3LDQ2NDU2MTY5MywtMTYxNjQ1MzcxMSwt
+NTA0NDM1NzU1LDEyNTc0OTI0NDVdfQ==
 -->
