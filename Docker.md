@@ -48,10 +48,10 @@ For example ls executable was found in filesystem of busybox image so it was exe
 
 `docker ps` command lists all the running containers.
 `docker ps --all` lists all the containers ever created.
-`docker container prune` removes all stopped containers.
+`docker container prune` removes all stopped containers, and these containers will not be visible in docker ps --all command.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzMxOTczNyw1MzU0MDI1OTksOTg5MD
-kyOCwxNTE1Mzg4NDA0LDQ4NzI1MjI5OSwtMjE0NTk3MTY3NSwt
-NDAzNzAxMTg3LDQ2NDU2MTY5MywtMTYxNjQ1MzcxMSwtNTA0ND
-M1NzU1LDEyNTc0OTI0NDVdfQ==
+eyJoaXN0b3J5IjpbLTk5Nzg3ODgwNywtMjUzMzE5NzM3LDUzNT
+QwMjU5OSw5ODkwOTI4LDE1MTUzODg0MDQsNDg3MjUyMjk5LC0y
+MTQ1OTcxNjc1LC00MDM3MDExODcsNDY0NTYxNjkzLC0xNjE2ND
+UzNzExLC01MDQ0MzU3NTUsMTI1NzQ5MjQ0NV19
 -->
