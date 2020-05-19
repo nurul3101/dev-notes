@@ -6,7 +6,7 @@
 - Docker ecosystem includes : Docker Client , Docker server , Docker Machine , docker hub , docker images, docker compose.
 - When we execute a docker install command, docker cli goes to docker hub and installs a docker image on your harddrive.
 - Docker Containers are instances of a docker image.
-- Docker image is a file which contains dependencies and instructions to install a specific program
+- Docker image is a file which contains dependencies and instructions to install a specific program.
 - --
 - Docker Cli (client) is the software which we use to interact with docker daemon which is used to create containers and manage them.
 - --
@@ -60,9 +60,10 @@ To stop a container: `docker stop container_id`
 Docker stop command emits SIGTERM command to the process and allows some time for cleanup and exit.
 `docker kill conatiner_id` emits SIGKILL command and it stops instantly. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3Mzc0NDg3NywtMTk1NDM0NjQ1Nyw3NT
-AyNDY2MTksMTM3MDQ5NDk4NSw2NzI2NDI0NDIsLTI1MzMxOTcz
-Nyw1MzU0MDI1OTksOTg5MDkyOCwxNTE1Mzg4NDA0LDQ4NzI1Mj
-I5OSwtMjE0NTk3MTY3NSwtNDAzNzAxMTg3LDQ2NDU2MTY5Mywt
-MTYxNjQ1MzcxMSwtNTA0NDM1NzU1LDEyNTc0OTI0NDVdfQ==
+eyJoaXN0b3J5IjpbMjA5ODcwNzE0NSwxOTczNzQ0ODc3LC0xOT
+U0MzQ2NDU3LDc1MDI0NjYxOSwxMzcwNDk0OTg1LDY3MjY0MjQ0
+MiwtMjUzMzE5NzM3LDUzNTQwMjU5OSw5ODkwOTI4LDE1MTUzOD
+g0MDQsNDg3MjUyMjk5LC0yMTQ1OTcxNjc1LC00MDM3MDExODcs
+NDY0NTYxNjkzLC0xNjE2NDUzNzExLC01MDQ0MzU3NTUsMTI1Nz
+Q5MjQ0NV19
 -->
