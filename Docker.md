@@ -1,7 +1,7 @@
 
 ## Docker
 
-- Docker makes it easy to install and run software without worrying about setup or dependencies.
+- Docker makes it easy to install and run software without worrying about setup or dependencies
 - Docker is a platform / ecosystem around creating and running containers.
 - Docker ecosystem includes : Docker Client , Docker server , Docker Machine , docker hub , docker images, docker compose.
 - When we execute a docker install command, docker cli goes to docker hub and installs a docker image on your harddrive.
@@ -60,10 +60,10 @@ To stop a container: `docker stop container_id`
 Docker stop command emits SIGTERM command to the process and allows some time for cleanup and exit.
 `docker kill conatiner_id` emits SIGKILL command and it stops instantly. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5ODcwNzE0NSwxOTczNzQ0ODc3LC0xOT
-U0MzQ2NDU3LDc1MDI0NjYxOSwxMzcwNDk0OTg1LDY3MjY0MjQ0
-MiwtMjUzMzE5NzM3LDUzNTQwMjU5OSw5ODkwOTI4LDE1MTUzOD
-g0MDQsNDg3MjUyMjk5LC0yMTQ1OTcxNjc1LC00MDM3MDExODcs
-NDY0NTYxNjkzLC0xNjE2NDUzNzExLC01MDQ0MzU3NTUsMTI1Nz
-Q5MjQ0NV19
+eyJoaXN0b3J5IjpbLTk1OTY1NDQyMywyMDk4NzA3MTQ1LDE5Nz
+M3NDQ4NzcsLTE5NTQzNDY0NTcsNzUwMjQ2NjE5LDEzNzA0OTQ5
+ODUsNjcyNjQyNDQyLC0yNTMzMTk3MzcsNTM1NDAyNTk5LDk4OT
+A5MjgsMTUxNTM4ODQwNCw0ODcyNTIyOTksLTIxNDU5NzE2NzUs
+LTQwMzcwMTE4Nyw0NjQ1NjE2OTMsLTE2MTY0NTM3MTEsLTUwND
+QzNTc1NSwxMjU3NDkyNDQ1XX0=
 -->
