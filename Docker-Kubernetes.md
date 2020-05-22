@@ -70,10 +70,13 @@ To execute a command in a docker container we use
 `docker exec [-it] [container_id] [command]`
 -it flag is used to send input to the container.
 
+Every Process in linux has three streams attached to it, STDIN , STDOUT, STDERR
 
+-it flag is equivalent to -i , -t flag.
+-i flag represents that we want to plug in this terminal to STDIN channel of the container and -t flag formats the output that is com
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI4MTAwNDA1LC0xNTM4MzA0ODA3LC05Nz
-M4MjM0NjMsLTQ4NTkzOTQ3NCw3NzM1ODc4NjUsLTk1OTY1NDQy
-M119
+eyJoaXN0b3J5IjpbMTg5MTcwMzY3OSwtMTUzODMwNDgwNywtOT
+czODIzNDYzLC00ODU5Mzk0NzQsNzczNTg3ODY1LC05NTk2NTQ0
+MjNdfQ==
 -->
