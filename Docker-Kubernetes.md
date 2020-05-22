@@ -141,9 +141,12 @@ By default when we copy files it is copied into the root directory which is not 
 
 There should be only one CMD command which works as a startup command for the container. 
 
-To dele
+To delete every images and volumes and build cache
+```
+docker system prune -a --volumes
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMzQ0ODQ3OCwxNjUxNDkxNTc1LC0xNz
+eyJoaXN0b3J5IjpbLTY1MzMzMTM3MSwxNjUxNDkxNTc1LC0xNz
 MzMTAxNDk1LDExOTQwNTI4MTIsLTIxMjQyNjg4NDcsLTU2MTY5
 NjA0NSw2MTkzMjI0OTUsMjAxMzg1MjkyNCwxMzU4NDIzMzgzLC
 0xNTIyMjA2NTUyLDE1NzQyNjAwNDksLTUyNjEwNzE2MSwtMTUx
