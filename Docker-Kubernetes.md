@@ -67,10 +67,10 @@ If the container does not gracefully exit in 10 seconds then Docker emits SIGKIL
  E.g: `redis-server`  is running inside the container and if we execute `redis-cli` from outside the container terminal, then even though server is running, client will not be able to access it.
 
 To execute a command in a docker container we use 
-`docker exec [container_id] [-it] [command]`
+`docker exec [-it] [container_id] [command]`
 -it flag is used to send input to the container.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MzgyMzQ2MywtNDg1OTM5NDc0LDc3Mz
-U4Nzg2NSwtOTU5NjU0NDIzXX0=
+eyJoaXN0b3J5IjpbLTE1MzgzMDQ4MDcsLTk3MzgyMzQ2MywtND
+g1OTM5NDc0LDc3MzU4Nzg2NSwtOTU5NjU0NDIzXX0=
 -->
