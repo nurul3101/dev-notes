@@ -73,10 +73,10 @@ To execute a command in a docker container we use
 Every Process in linux has three streams attached to it, STDIN , STDOUT, STDERR
 
 -it flag is equivalent to -i , -t flag.
--i flag represents that we want to plug in this terminal to STDIN channel of the container and -t flag formats the output that is com
+-i flag represents that we want to plug in this terminal to STDIN channel of the container and -t flag formats the output that is coming from the container.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MTcwMzY3OSwtMTUzODMwNDgwNywtOT
-czODIzNDYzLC00ODU5Mzk0NzQsNzczNTg3ODY1LC05NTk2NTQ0
-MjNdfQ==
+eyJoaXN0b3J5IjpbLTIxMTUwNTA0MzUsLTE1MzgzMDQ4MDcsLT
+k3MzgyMzQ2MywtNDg1OTM5NDc0LDc3MzU4Nzg2NSwtOTU5NjU0
+NDIzXX0=
 -->
