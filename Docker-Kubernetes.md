@@ -130,9 +130,13 @@ For copying the files we use
 `COPY source destination` command.
 The path here is relative to build context.
 
-
+By default network traffic to the local machine is not routed to the container's network, we need to explicitly route the request to the container with `-p` flag in `docker run`
+```
+docker run -p 8080:8080 nurul3101/node-docker:latest
+```
+will route requests f
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjg2NTc2MTksLTIxMjQyNjg4NDcsLT
+eyJoaXN0b3J5IjpbLTEzMzgzNDM3MTksLTIxMjQyNjg4NDcsLT
 U2MTY5NjA0NSw2MTkzMjI0OTUsMjAxMzg1MjkyNCwxMzU4NDIz
 MzgzLC0xNTIyMjA2NTUyLDE1NzQyNjAwNDksLTUyNjEwNzE2MS
 wtMTUxMDY1MjI5LC0zNTk5OTgzOCwtNjk4MjQwMTkyLDgxMDM5
