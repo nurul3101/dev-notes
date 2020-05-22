@@ -107,10 +107,12 @@ To create an image from dockerfile we use command:
 `.` is the build context
 Docker file consists of Instruction telling docker server what to do and argument to the instruction.
 Base image is kind of an OS which comes with some pre-installed packages which will be helpful for the task we wish to accomplish
+
+When docker encountered RUN command it took the base image created in the previous step , created a new container with added program , 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjEwNzE2MSwtMTUxMDY1MjI5LC0zNT
-k5OTgzOCwtNjk4MjQwMTkyLDgxMDM5MDczMiwzODg0MjcyNzAs
-LTk0NTgyODQ1MSwtMjExNTA1MDQzNSwtMTUzODMwNDgwNywtOT
-czODIzNDYzLC00ODU5Mzk0NzQsNzczNTg3ODY1LC05NTk2NTQ0
-MjNdfQ==
+eyJoaXN0b3J5IjpbLTE3MDg3NDQxMTMsLTUyNjEwNzE2MSwtMT
+UxMDY1MjI5LC0zNTk5OTgzOCwtNjk4MjQwMTkyLDgxMDM5MDcz
+MiwzODg0MjcyNzAsLTk0NTgyODQ1MSwtMjExNTA1MDQzNSwtMT
+UzODMwNDgwNywtOTczODIzNDYzLC00ODU5Mzk0NzQsNzczNTg3
+ODY1LC05NTk2NTQ0MjNdfQ==
 -->
