@@ -103,9 +103,11 @@ RUN apk add --update redis
 CMD ["redis-server"]
 ```
 Docker file consists of Instruction telling docker server what to do and argument to the instruction.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTA2NTIyOSwtMzU5OTk4MzgsLTY5OD
-I0MDE5Miw4MTAzOTA3MzIsMzg4NDI3MjcwLC05NDU4Mjg0NTEs
-LTIxMTUwNTA0MzUsLTE1MzgzMDQ4MDcsLTk3MzgyMzQ2MywtND
-g1OTM5NDc0LDc3MzU4Nzg2NSwtOTU5NjU0NDIzXX0=
+eyJoaXN0b3J5IjpbLTE0MDYxNzg1OTEsLTE1MTA2NTIyOSwtMz
+U5OTk4MzgsLTY5ODI0MDE5Miw4MTAzOTA3MzIsMzg4NDI3Mjcw
+LC05NDU4Mjg0NTEsLTIxMTUwNTA0MzUsLTE1MzgzMDQ4MDcsLT
+k3MzgyMzQ2MywtNDg1OTM5NDc0LDc3MzU4Nzg2NSwtOTU5NjU0
+NDIzXX0=
 -->
