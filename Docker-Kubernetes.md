@@ -75,8 +75,9 @@ Every Process in linux has three streams attached to it, STDIN , STDOUT, STDERR
 -it flag is equivalent to -i , -t flag.
 -i flag represents that we want to plug in this terminal to STDIN channel of the container and -t flag formats the output that is coming from the container.
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTUwNTA0MzUsLTE1MzgzMDQ4MDcsLT
-k3MzgyMzQ2MywtNDg1OTM5NDc0LDc3MzU4Nzg2NSwtOTU5NjU0
-NDIzXX0=
+eyJoaXN0b3J5IjpbOTg5NjQ4NjgzLC0yMTE1MDUwNDM1LC0xNT
+M4MzA0ODA3LC05NzM4MjM0NjMsLTQ4NTkzOTQ3NCw3NzM1ODc4
+NjUsLTk1OTY1NDQyM119
 -->
