@@ -93,9 +93,18 @@ Specify a command to run on container startup.
 Dockerfile is a configuration file to define how our containers behave
 Docker client passes on Dockerfile to docker server which creates a usable image.
 *Image id and container id are different*
+Example of a Dockerfile
+```drock
+# Use an existing image as a base
+# Download and install a dependency
+# Tell the image what to do when it starts as a container
+FROM alpine
+RUN apk add --update redis
+CMD ["redis-server"]
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTk5ODM4LC02OTgyNDAxOTIsODEwMz
-kwNzMyLDM4ODQyNzI3MCwtOTQ1ODI4NDUxLC0yMTE1MDUwNDM1
-LC0xNTM4MzA0ODA3LC05NzM4MjM0NjMsLTQ4NTkzOTQ3NCw3Nz
-M1ODc4NjUsLTk1OTY1NDQyM119
+eyJoaXN0b3J5IjpbODA3MTA0NzExLC0zNTk5OTgzOCwtNjk4Mj
+QwMTkyLDgxMDM5MDczMiwzODg0MjcyNzAsLTk0NTgyODQ1MSwt
+MjExNTA1MDQzNSwtMTUzODMwNDgwNywtOTczODIzNDYzLC00OD
+U5Mzk0NzQsNzczNTg3ODY1LC05NTk2NTQ0MjNdfQ==
 -->
