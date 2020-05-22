@@ -82,8 +82,17 @@ docker exec -it [container_id] sh
 ```
 -  docker containers do not share the filesystem with other containers.
 
+---
+
+## Creating Dockerfile to create our own custom containers.
+
+Specify a base image
+Run some commands to install additional programs
+Specify a command 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwMzkwNzMyLDM4ODQyNzI3MCwtOTQ1OD
-I4NDUxLC0yMTE1MDUwNDM1LC0xNTM4MzA0ODA3LC05NzM4MjM0
-NjMsLTQ4NTkzOTQ3NCw3NzM1ODc4NjUsLTk1OTY1NDQyM119
+eyJoaXN0b3J5IjpbLTgzOTE2ODM1NCw4MTAzOTA3MzIsMzg4ND
+I3MjcwLC05NDU4Mjg0NTEsLTIxMTUwNTA0MzUsLTE1MzgzMDQ4
+MDcsLTk3MzgyMzQ2MywtNDg1OTM5NDc0LDc3MzU4Nzg2NSwtOT
+U5NjU0NDIzXX0=
 -->
