@@ -91,10 +91,10 @@ Run some commands to install additional programs
 Specify a command to run on container startup.
 
 Dockerfile is a configuration file to define how our containers behave
-Docker client passes on Dockerfile to docker server which creates a us
+Docker client passes on Dockerfile to docker server which creates a usable image.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzA5NjU2MDUsODEwMzkwNzMyLDM4OD
-QyNzI3MCwtOTQ1ODI4NDUxLC0yMTE1MDUwNDM1LC0xNTM4MzA0
-ODA3LC05NzM4MjM0NjMsLTQ4NTkzOTQ3NCw3NzM1ODc4NjUsLT
-k1OTY1NDQyM119
+eyJoaXN0b3J5IjpbLTY5ODI0MDE5Miw4MTAzOTA3MzIsMzg4ND
+I3MjcwLC05NDU4Mjg0NTEsLTIxMTUwNTA0MzUsLTE1MzgzMDQ4
+MDcsLTk3MzgyMzQ2MywtNDg1OTM5NDc0LDc3MzU4Nzg2NSwtOT
+U5NjU0NDIzXX0=
 -->
