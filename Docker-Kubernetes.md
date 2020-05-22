@@ -94,7 +94,7 @@ Dockerfile is a configuration file to define how our containers behave
 Docker client passes on Dockerfile to docker server which creates a usable image.
 *Image id and container id are different*
 Example of a Dockerfile
-```drock
+```docker
 # Use an existing image as a base
 # Download and install a dependency
 # Tell the image what to do when it starts as a container
@@ -102,9 +102,10 @@ FROM alpine
 RUN apk add --update redis
 CMD ["redis-server"]
 ```
+Docker file consists of Instruction telling docker server what to do and argument to the instruction
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3MTA0NzExLC0zNTk5OTgzOCwtNjk4Mj
-QwMTkyLDgxMDM5MDczMiwzODg0MjcyNzAsLTk0NTgyODQ1MSwt
-MjExNTA1MDQzNSwtMTUzODMwNDgwNywtOTczODIzNDYzLC00OD
-U5Mzk0NzQsNzczNTg3ODY1LC05NTk2NTQ0MjNdfQ==
+eyJoaXN0b3J5IjpbLTEyNDEwMjM1MzMsLTM1OTk5ODM4LC02OT
+gyNDAxOTIsODEwMzkwNzMyLDM4ODQyNzI3MCwtOTQ1ODI4NDUx
+LC0yMTE1MDUwNDM1LC0xNTM4MzA0ODA3LC05NzM4MjM0NjMsLT
+Q4NTkzOTQ3NCw3NzM1ODc4NjUsLTk1OTY1NDQyM119
 -->
