@@ -149,9 +149,9 @@ docker system prune -a --volumes
 docker-compose is a separate cli that gets installed with docker
 It is used to start up multiple docker containers at the same time.
 Also automates the long arguments that we pass to `docker run`
-
+docker-compose also allows communication between different docker containers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzM1NzM0NjYsLTY1MzMzMTM3MSwxNj
+eyJoaXN0b3J5IjpbLTEzMDk1NDc4NTUsLTY1MzMzMTM3MSwxNj
 UxNDkxNTc1LC0xNzMzMTAxNDk1LDExOTQwNTI4MTIsLTIxMjQy
 Njg4NDcsLTU2MTY5NjA0NSw2MTkzMjI0OTUsMjAxMzg1MjkyNC
 wxMzU4NDIzMzgzLC0xNTIyMjA2NTUyLDE1NzQyNjAwNDksLTUy
