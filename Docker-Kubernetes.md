@@ -163,13 +163,14 @@ version: "3"
 ```
 when we create a docker-compose file it creates a network for us by default, so we don't need to do anything out of the box.
 
-`docker-compose up` will look for a `docker-compose.yml` file and create the containers specified in t
+`docker-compose up` will look for a `docker-compose.yml` file and create the containers specified in the file.
+The hostname gets automatically resolved for us by docker.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTI1Njg3NTksLTE3MzIxODIxNjIsLT
-EzMDk1NDc4NTUsLTY1MzMzMTM3MSwxNjUxNDkxNTc1LC0xNzMz
-MTAxNDk1LDExOTQwNTI4MTIsLTIxMjQyNjg4NDcsLTU2MTY5Nj
-A0NSw2MTkzMjI0OTUsMjAxMzg1MjkyNCwxMzU4NDIzMzgzLC0x
-NTIyMjA2NTUyLDE1NzQyNjAwNDksLTUyNjEwNzE2MSwtMTUxMD
-Y1MjI5LC0zNTk5OTgzOCwtNjk4MjQwMTkyLDgxMDM5MDczMiwz
-ODg0MjcyNzBdfQ==
+eyJoaXN0b3J5IjpbMTI4NzQ2MDYwNiwtMTczMjE4MjE2MiwtMT
+MwOTU0Nzg1NSwtNjUzMzMxMzcxLDE2NTE0OTE1NzUsLTE3MzMx
+MDE0OTUsMTE5NDA1MjgxMiwtMjEyNDI2ODg0NywtNTYxNjk2MD
+Q1LDYxOTMyMjQ5NSwyMDEzODUyOTI0LDEzNTg0MjMzODMsLTE1
+MjIyMDY1NTIsMTU3NDI2MDA0OSwtNTI2MTA3MTYxLC0xNTEwNj
+UyMjksLTM1OTk5ODM4LC02OTgyNDAxOTIsODEwMzkwNzMyLDM4
+ODQyNzI3MF19
 -->
