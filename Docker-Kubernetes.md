@@ -110,10 +110,12 @@ Base image is kind of an OS which comes with some pre-installed packages which w
 
 When docker encountered RUN command it took the base image created in the previous step , created a new container with added program , took the snapshot of filesystem and deleted the intermediate container.
 CMD command just added a startup command for the docker image.
+
+W
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDI2MDA0OSwtNTI2MTA3MTYxLC0xNT
-EwNjUyMjksLTM1OTk5ODM4LC02OTgyNDAxOTIsODEwMzkwNzMy
-LDM4ODQyNzI3MCwtOTQ1ODI4NDUxLC0yMTE1MDUwNDM1LC0xNT
-M4MzA0ODA3LC05NzM4MjM0NjMsLTQ4NTkzOTQ3NCw3NzM1ODc4
-NjUsLTk1OTY1NDQyM119
+eyJoaXN0b3J5IjpbLTE5MjU5MDU4NDAsMTU3NDI2MDA0OSwtNT
+I2MTA3MTYxLC0xNTEwNjUyMjksLTM1OTk5ODM4LC02OTgyNDAx
+OTIsODEwMzkwNzMyLDM4ODQyNzI3MCwtOTQ1ODI4NDUxLC0yMT
+E1MDUwNDM1LC0xNTM4MzA0ODA3LC05NzM4MjM0NjMsLTQ4NTkz
+OTQ3NCw3NzM1ODc4NjUsLTk1OTY1NDQyM119
 -->
