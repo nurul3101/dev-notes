@@ -92,10 +92,10 @@ Specify a command to run on container startup.
 
 Dockerfile is a configuration file to define how our containers behave
 Docker client passes on Dockerfile to docker server which creates a usable image.
-
+*Image id and container id are different*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzOTY1OTM3NCwtNjk4MjQwMTkyLDgxMD
-M5MDczMiwzODg0MjcyNzAsLTk0NTgyODQ1MSwtMjExNTA1MDQz
-NSwtMTUzODMwNDgwNywtOTczODIzNDYzLC00ODU5Mzk0NzQsNz
-czNTg3ODY1LC05NTk2NTQ0MjNdfQ==
+eyJoaXN0b3J5IjpbLTM1OTk5ODM4LC02OTgyNDAxOTIsODEwMz
+kwNzMyLDM4ODQyNzI3MCwtOTQ1ODI4NDUxLC0yMTE1MDUwNDM1
+LC0xNTM4MzA0ODA3LC05NzM4MjM0NjMsLTQ4NTkzOTQ3NCw3Nz
+M1ODc4NjUsLTk1OTY1NDQyM119
 -->
