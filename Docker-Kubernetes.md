@@ -140,12 +140,14 @@ By default when we copy files it is copied into the root directory which is not 
 `WORKDIR` command in docker file.
 
 There should be only one CMD command which works as a startup command for the container. 
+
+To dele
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTQ5MTU3NSwtMTczMzEwMTQ5NSwxMT
-k0MDUyODEyLC0yMTI0MjY4ODQ3LC01NjE2OTYwNDUsNjE5MzIy
-NDk1LDIwMTM4NTI5MjQsMTM1ODQyMzM4MywtMTUyMjIwNjU1Mi
-wxNTc0MjYwMDQ5LC01MjYxMDcxNjEsLTE1MTA2NTIyOSwtMzU5
-OTk4MzgsLTY5ODI0MDE5Miw4MTAzOTA3MzIsMzg4NDI3MjcwLC
-05NDU4Mjg0NTEsLTIxMTUwNTA0MzUsLTE1MzgzMDQ4MDcsLTk3
-MzgyMzQ2M119
+eyJoaXN0b3J5IjpbLTkwMzQ0ODQ3OCwxNjUxNDkxNTc1LC0xNz
+MzMTAxNDk1LDExOTQwNTI4MTIsLTIxMjQyNjg4NDcsLTU2MTY5
+NjA0NSw2MTkzMjI0OTUsMjAxMzg1MjkyNCwxMzU4NDIzMzgzLC
+0xNTIyMjA2NTUyLDE1NzQyNjAwNDksLTUyNjEwNzE2MSwtMTUx
+MDY1MjI5LC0zNTk5OTgzOCwtNjk4MjQwMTkyLDgxMDM5MDczMi
+wzODg0MjcyNzAsLTk0NTgyODQ1MSwtMjExNTA1MDQzNSwtMTUz
+ODMwNDgwN119
 -->
