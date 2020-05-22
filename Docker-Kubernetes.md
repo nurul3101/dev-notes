@@ -150,12 +150,24 @@ docker-compose is a separate cli that gets installed with docker
 It is used to start up multiple docker containers at the same time.
 Also automates the long arguments that we pass to `docker run`
 docker-compose also allows communication between different docker containers.
+
+```yaml
+version: "3"
+   services:
+     redis-server:
+       image: "redis"
+     node-app:
+       build: .
+       ports:
+         - "4001:8081"
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDk1NDc4NTUsLTY1MzMzMTM3MSwxNj
-UxNDkxNTc1LC0xNzMzMTAxNDk1LDExOTQwNTI4MTIsLTIxMjQy
-Njg4NDcsLTU2MTY5NjA0NSw2MTkzMjI0OTUsMjAxMzg1MjkyNC
-wxMzU4NDIzMzgzLC0xNTIyMjA2NTUyLDE1NzQyNjAwNDksLTUy
-NjEwNzE2MSwtMTUxMDY1MjI5LC0zNTk5OTgzOCwtNjk4MjQwMT
-kyLDgxMDM5MDczMiwzODg0MjcyNzAsLTk0NTgyODQ1MSwtMjEx
-NTA1MDQzNV19
+eyJoaXN0b3J5IjpbNTU1MjQwNTU3LC0xMzA5NTQ3ODU1LC02NT
+MzMzEzNzEsMTY1MTQ5MTU3NSwtMTczMzEwMTQ5NSwxMTk0MDUy
+ODEyLC0yMTI0MjY4ODQ3LC01NjE2OTYwNDUsNjE5MzIyNDk1LD
+IwMTM4NTI5MjQsMTM1ODQyMzM4MywtMTUyMjIwNjU1MiwxNTc0
+MjYwMDQ5LC01MjYxMDcxNjEsLTE1MTA2NTIyOSwtMzU5OTk4Mz
+gsLTY5ODI0MDE5Miw4MTAzOTA3MzIsMzg4NDI3MjcwLC05NDU4
+Mjg0NTFdfQ==
 -->
