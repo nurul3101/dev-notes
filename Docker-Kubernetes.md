@@ -122,11 +122,13 @@ We can take a snapshot of a running container and use it as an image for creatin
 Example:
 `docker commit -c 'CMD ["redis-server"]' [container_id]`
 will create a new image from the existing container.
+
+alpine word in docker community ususally means it has the v=bare minimums required and no additional programs installed in the image.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMzg1MjkyNCwxMzU4NDIzMzgzLC0xNT
-IyMjA2NTUyLDE1NzQyNjAwNDksLTUyNjEwNzE2MSwtMTUxMDY1
-MjI5LC0zNTk5OTgzOCwtNjk4MjQwMTkyLDgxMDM5MDczMiwzOD
-g0MjcyNzAsLTk0NTgyODQ1MSwtMjExNTA1MDQzNSwtMTUzODMw
-NDgwNywtOTczODIzNDYzLC00ODU5Mzk0NzQsNzczNTg3ODY1LC
-05NTk2NTQ0MjNdfQ==
+eyJoaXN0b3J5IjpbNjE5MzIyNDk1LDIwMTM4NTI5MjQsMTM1OD
+QyMzM4MywtMTUyMjIwNjU1MiwxNTc0MjYwMDQ5LC01MjYxMDcx
+NjEsLTE1MTA2NTIyOSwtMzU5OTk4MzgsLTY5ODI0MDE5Miw4MT
+AzOTA3MzIsMzg4NDI3MjcwLC05NDU4Mjg0NTEsLTIxMTUwNTA0
+MzUsLTE1MzgzMDQ4MDcsLTk3MzgyMzQ2MywtNDg1OTM5NDc0LD
+c3MzU4Nzg2NSwtOTU5NjU0NDIzXX0=
 -->
