@@ -37,6 +37,7 @@ Purpose of a container is to run a specific program,
 ### Dissecting docker commands
 
 `docker run <img_name> command!`
+`docker run [-it] <img_name> sh` will create a container and open a shell immediately
 docker - refers to the docker client (cli)
 run - Try to **create** and **run** a container.
 `docker run = docker create + docker start`
@@ -81,7 +82,7 @@ docker exec -it [container_id] sh
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTgyODQ1MSwtMjExNTA1MDQzNSwtMT
-UzODMwNDgwNywtOTczODIzNDYzLC00ODU5Mzk0NzQsNzczNTg3
-ODY1LC05NTk2NTQ0MjNdfQ==
+eyJoaXN0b3J5IjpbMzg4NDI3MjcwLC05NDU4Mjg0NTEsLTIxMT
+UwNTA0MzUsLTE1MzgzMDQ4MDcsLTk3MzgyMzQ2MywtNDg1OTM5
+NDc0LDc3MzU4Nzg2NSwtOTU5NjU0NDIzXX0=
 -->
