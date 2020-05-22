@@ -80,11 +80,10 @@ Every Process in linux has three streams attached to it, STDIN , STDOUT, STDERR
 ```
 docker exec -it [container_id] sh
 ```
--  docker containers do not share the filesystem with
+-  docker containers do not share the filesystem with other containers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTg1Mzk2MCwzODg0MjcyNzAsLTk0NT
-gyODQ1MSwtMjExNTA1MDQzNSwtMTUzODMwNDgwNywtOTczODIz
-NDYzLC00ODU5Mzk0NzQsNzczNTg3ODY1LC05NTk2NTQ0MjNdfQ
-==
+eyJoaXN0b3J5IjpbODEwMzkwNzMyLDM4ODQyNzI3MCwtOTQ1OD
+I4NDUxLC0yMTE1MDUwNDM1LC0xNTM4MzA0ODA3LC05NzM4MjM0
+NjMsLTQ4NTkzOTQ3NCw3NzM1ODc4NjUsLTk1OTY1NDQyM119
 -->
