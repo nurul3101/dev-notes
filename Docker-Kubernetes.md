@@ -134,9 +134,9 @@ By default network traffic to the local machine is not routed to the container's
 ```
 docker run -p 8080:8080 nurul3101/node-docker:latest
 ```
-will route requests f
+will route requests from local machine's port 8080 to container's 8080 port.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzgzNDM3MTksLTIxMjQyNjg4NDcsLT
+eyJoaXN0b3J5IjpbLTE5NTY0Mzc4NzksLTIxMjQyNjg4NDcsLT
 U2MTY5NjA0NSw2MTkzMjI0OTUsMjAxMzg1MjkyNCwxMzU4NDIz
 MzgzLC0xNTIyMjA2NTUyLDE1NzQyNjAwNDksLTUyNjEwNzE2MS
 wtMTUxMDY1MjI5LC0zNTk5OTgzOCwtNjk4MjQwMTkyLDgxMDM5
