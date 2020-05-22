@@ -162,12 +162,14 @@ version: "3"
          - "4001:8081"
 ```
 when we create a docker-compose file it creates a network for us by default, so we don't need to do anything out of the box.
+
+`docker-compose up` will look for a `docker-compose.yml` file and create the containers specified in t
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzIxODIxNjIsLTEzMDk1NDc4NTUsLT
-Y1MzMzMTM3MSwxNjUxNDkxNTc1LC0xNzMzMTAxNDk1LDExOTQw
-NTI4MTIsLTIxMjQyNjg4NDcsLTU2MTY5NjA0NSw2MTkzMjI0OT
-UsMjAxMzg1MjkyNCwxMzU4NDIzMzgzLC0xNTIyMjA2NTUyLDE1
-NzQyNjAwNDksLTUyNjEwNzE2MSwtMTUxMDY1MjI5LC0zNTk5OT
-gzOCwtNjk4MjQwMTkyLDgxMDM5MDczMiwzODg0MjcyNzAsLTk0
-NTgyODQ1MV19
+eyJoaXN0b3J5IjpbLTIwMTI1Njg3NTksLTE3MzIxODIxNjIsLT
+EzMDk1NDc4NTUsLTY1MzMzMTM3MSwxNjUxNDkxNTc1LC0xNzMz
+MTAxNDk1LDExOTQwNTI4MTIsLTIxMjQyNjg4NDcsLTU2MTY5Nj
+A0NSw2MTkzMjI0OTUsMjAxMzg1MjkyNCwxMzU4NDIzMzgzLC0x
+NTIyMjA2NTUyLDE1NzQyNjAwNDksLTUyNjEwNzE2MSwtMTUxMD
+Y1MjI5LC0zNTk5OTgzOCwtNjk4MjQwMTkyLDgxMDM5MDczMiwz
+ODg0MjcyNzBdfQ==
 -->
