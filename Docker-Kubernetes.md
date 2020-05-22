@@ -115,13 +115,13 @@ Whenever we execute a build command it checks the cache if any intermediate cont
 The order of steps in dockerfile is extremely important, as it needs to execute all the commands below the changed/added step.
 
 When we build an image from Dockerfile, it gives us the image_id which can be difficult to remember, so we can tag an image which will give it a human friendly name.
-
-`docker build -t nurul31`
+Example:
+`docker build -t nurul3101/redis:latest .`  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3ODEwMDMxLC0xNTIyMjA2NTUyLDE1Nz
-QyNjAwNDksLTUyNjEwNzE2MSwtMTUxMDY1MjI5LC0zNTk5OTgz
-OCwtNjk4MjQwMTkyLDgxMDM5MDczMiwzODg0MjcyNzAsLTk0NT
-gyODQ1MSwtMjExNTA1MDQzNSwtMTUzODMwNDgwNywtOTczODIz
-NDYzLC00ODU5Mzk0NzQsNzczNTg3ODY1LC05NTk2NTQ0MjNdfQ
-==
+eyJoaXN0b3J5IjpbMTM1ODQyMzM4MywtMTUyMjIwNjU1MiwxNT
+c0MjYwMDQ5LC01MjYxMDcxNjEsLTE1MTA2NTIyOSwtMzU5OTk4
+MzgsLTY5ODI0MDE5Miw4MTAzOTA3MzIsMzg4NDI3MjcwLC05ND
+U4Mjg0NTEsLTIxMTUwNTA0MzUsLTE1MzgzMDQ4MDcsLTk3Mzgy
+MzQ2MywtNDg1OTM5NDc0LDc3MzU4Nzg2NSwtOTU5NjU0NDIzXX
+0=
 -->
