@@ -108,12 +108,12 @@ To create an image from dockerfile we use command:
 Docker file consists of Instruction telling docker server what to do and argument to the instruction.
 Base image is kind of an OS which comes with some pre-installed packages which will be helpful for the task we wish to accomplish
 
-When docker encountered RUN command it took the base image created in the previous step , created a new container with added program , took the snapshot and deleted the intermediate container.
+When docker encountered RUN command it took the base image created in the previous step , created a new container with added program , took the snapshot of filesystem and deleted the intermediate container.
 CMD command just added a startup command for the docker image.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDkzMTc5LC01MjYxMDcxNjEsLTE1MT
-A2NTIyOSwtMzU5OTk4MzgsLTY5ODI0MDE5Miw4MTAzOTA3MzIs
-Mzg4NDI3MjcwLC05NDU4Mjg0NTEsLTIxMTUwNTA0MzUsLTE1Mz
-gzMDQ4MDcsLTk3MzgyMzQ2MywtNDg1OTM5NDc0LDc3MzU4Nzg2
-NSwtOTU5NjU0NDIzXX0=
+eyJoaXN0b3J5IjpbMTU3NDI2MDA0OSwtNTI2MTA3MTYxLC0xNT
+EwNjUyMjksLTM1OTk5ODM4LC02OTgyNDAxOTIsODEwMzkwNzMy
+LDM4ODQyNzI3MCwtOTQ1ODI4NDUxLC0yMTE1MDUwNDM1LC0xNT
+M4MzA0ODA3LC05NzM4MjM0NjMsLTQ4NTkzOTQ3NCw3NzM1ODc4
+NjUsLTk1OTY1NDQyM119
 -->
