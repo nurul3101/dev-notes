@@ -60,6 +60,9 @@ To stop a container: `docker stop container_id`
 Docker stop command emits SIGTERM command to the process and allows some time for cleanup and exit.
 If the container does not gracefully exit in 10 seconds then Docker emits SIGKILL command which eventually kills the container.
 `docker kill conatiner_id` emits SIGKILL command and it stops instantly. 
+
+--
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzczNTg3ODY1LC05NTk2NTQ0MjNdfQ==
+eyJoaXN0b3J5IjpbLTQ0NDU4MTk5NSw3NzM1ODc4NjUsLTk1OT
+Y1NDQyM119
 -->
