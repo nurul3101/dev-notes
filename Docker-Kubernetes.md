@@ -129,12 +129,14 @@ By default none of the files in the project directory is available to container.
 For copying the files we use 
 `COPY source destination` command.
 The path here is relative to build context.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQyNjg4NDcsLTU2MTY5NjA0NSw2MT
-kzMjI0OTUsMjAxMzg1MjkyNCwxMzU4NDIzMzgzLC0xNTIyMjA2
-NTUyLDE1NzQyNjAwNDksLTUyNjEwNzE2MSwtMTUxMDY1MjI5LC
-0zNTk5OTgzOCwtNjk4MjQwMTkyLDgxMDM5MDczMiwzODg0Mjcy
-NzAsLTk0NTgyODQ1MSwtMjExNTA1MDQzNSwtMTUzODMwNDgwNy
-wtOTczODIzNDYzLC00ODU5Mzk0NzQsNzczNTg3ODY1LC05NTk2
-NTQ0MjNdfQ==
+eyJoaXN0b3J5IjpbLTExNjg2NTc2MTksLTIxMjQyNjg4NDcsLT
+U2MTY5NjA0NSw2MTkzMjI0OTUsMjAxMzg1MjkyNCwxMzU4NDIz
+MzgzLC0xNTIyMjA2NTUyLDE1NzQyNjAwNDksLTUyNjEwNzE2MS
+wtMTUxMDY1MjI5LC0zNTk5OTgzOCwtNjk4MjQwMTkyLDgxMDM5
+MDczMiwzODg0MjcyNzAsLTk0NTgyODQ1MSwtMjExNTA1MDQzNS
+wtMTUzODMwNDgwNywtOTczODIzNDYzLC00ODU5Mzk0NzQsNzcz
+NTg3ODY1XX0=
 -->
