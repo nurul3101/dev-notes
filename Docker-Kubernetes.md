@@ -64,8 +64,8 @@ If the container does not gracefully exit in 10 seconds then Docker emits SIGKIL
 ---
 
  If a program is running inside a container, we cannot access that program from outside of container.
- E.g: `redis-server`  is running inside the container and if we execute `redis-client` from outside the con
+ E.g: `redis-server`  is running inside the container and if we execute `redis-client` from outside the container terminal, then even though server is running, client will not be able to access it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTU3NTgwNiw3NzM1ODc4NjUsLTk1OT
+eyJoaXN0b3J5IjpbLTQ4NTkzOTQ3NCw3NzM1ODc4NjUsLTk1OT
 Y1NDQyM119
 -->
