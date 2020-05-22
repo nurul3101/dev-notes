@@ -117,11 +117,13 @@ The order of steps in dockerfile is extremely important, as it needs to execute 
 When we build an image from Dockerfile, it gives us the image_id which can be difficult to remember, so we can tag an image which will give it a human friendly name.
 Example:
 `docker build -t nurul3101/redis:latest .`  
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODQyMzM4MywtMTUyMjIwNjU1MiwxNT
-c0MjYwMDQ5LC01MjYxMDcxNjEsLTE1MTA2NTIyOSwtMzU5OTk4
-MzgsLTY5ODI0MDE5Miw4MTAzOTA3MzIsMzg4NDI3MjcwLC05ND
-U4Mjg0NTEsLTIxMTUwNTA0MzUsLTE1MzgzMDQ4MDcsLTk3Mzgy
-MzQ2MywtNDg1OTM5NDc0LDc3MzU4Nzg2NSwtOTU5NjU0NDIzXX
-0=
+eyJoaXN0b3J5IjpbNDQzMDY3MDU5LDEzNTg0MjMzODMsLTE1Mj
+IyMDY1NTIsMTU3NDI2MDA0OSwtNTI2MTA3MTYxLC0xNTEwNjUy
+MjksLTM1OTk5ODM4LC02OTgyNDAxOTIsODEwMzkwNzMyLDM4OD
+QyNzI3MCwtOTQ1ODI4NDUxLC0yMTE1MDUwNDM1LC0xNTM4MzA0
+ODA3LC05NzM4MjM0NjMsLTQ4NTkzOTQ3NCw3NzM1ODc4NjUsLT
+k1OTY1NDQyM119
 -->
