@@ -61,8 +61,11 @@ Docker stop command emits SIGTERM command to the process and allows some time fo
 If the container does not gracefully exit in 10 seconds then Docker emits SIGKILL command which eventually kills the container.
 `docker kill conatiner_id` emits SIGKILL command and it stops instantly. 
 
---
+---
+
+ If a program is running inside a container, we cannot access that program from outside of container.
+ E.g: `redis-server`  is running inside the container and if we execute `redis-client` from outside the con
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NDU4MTk5NSw3NzM1ODc4NjUsLTk1OT
+eyJoaXN0b3J5IjpbLTk4NTU3NTgwNiw3NzM1ODc4NjUsLTk1OT
 Y1NDQyM119
 -->
