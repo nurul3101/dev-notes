@@ -136,13 +136,15 @@ docker run -p 8080:8080 nurul3101/node-docker:latest
 ```
 will route requests from local machine's port 8080 to container's 8080 port. The ports does not need to be same.
 
-By default when we copy files it 
+By default when we copy files it is copied into the root directory which is not a good practice and instead we should have installed it in a specific folder, to address this we use
+`WORKDIR` command in docker file.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzI2MDI0NywxMTk0MDUyODEyLC0yMT
-I0MjY4ODQ3LC01NjE2OTYwNDUsNjE5MzIyNDk1LDIwMTM4NTI5
-MjQsMTM1ODQyMzM4MywtMTUyMjIwNjU1MiwxNTc0MjYwMDQ5LC
-01MjYxMDcxNjEsLTE1MTA2NTIyOSwtMzU5OTk4MzgsLTY5ODI0
-MDE5Miw4MTAzOTA3MzIsMzg4NDI3MjcwLC05NDU4Mjg0NTEsLT
-IxMTUwNTA0MzUsLTE1MzgzMDQ4MDcsLTk3MzgyMzQ2MywtNDg1
-OTM5NDc0XX0=
+eyJoaXN0b3J5IjpbLTE3MzMxMDE0OTUsMTE5NDA1MjgxMiwtMj
+EyNDI2ODg0NywtNTYxNjk2MDQ1LDYxOTMyMjQ5NSwyMDEzODUy
+OTI0LDEzNTg0MjMzODMsLTE1MjIyMDY1NTIsMTU3NDI2MDA0OS
+wtNTI2MTA3MTYxLC0xNTEwNjUyMjksLTM1OTk5ODM4LC02OTgy
+NDAxOTIsODEwMzkwNzMyLDM4ODQyNzI3MCwtOTQ1ODI4NDUxLC
+0yMTE1MDUwNDM1LC0xNTM4MzA0ODA3LC05NzM4MjM0NjMsLTQ4
+NTkzOTQ3NF19
 -->
