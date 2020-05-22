@@ -70,7 +70,10 @@ To execute a command in a docker container we use
 `docker exec [-it] [container_id] [command]`
 -it flag is used to send input to the container.
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzgzMDQ4MDcsLTk3MzgyMzQ2MywtND
-g1OTM5NDc0LDc3MzU4Nzg2NSwtOTU5NjU0NDIzXX0=
+eyJoaXN0b3J5IjpbMjI4MTAwNDA1LC0xNTM4MzA0ODA3LC05Nz
+M4MjM0NjMsLTQ4NTkzOTQ3NCw3NzM1ODc4NjUsLTk1OTY1NDQy
+M119
 -->
