@@ -88,11 +88,11 @@ docker exec -it [container_id] sh
 
 Specify a base image
 Run some commands to install additional programs
-Specify a command 
+Specify a command to run on container startup.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTE2ODM1NCw4MTAzOTA3MzIsMzg4ND
-I3MjcwLC05NDU4Mjg0NTEsLTIxMTUwNTA0MzUsLTE1MzgzMDQ4
-MDcsLTk3MzgyMzQ2MywtNDg1OTM5NDc0LDc3MzU4Nzg2NSwtOT
-U5NjU0NDIzXX0=
+eyJoaXN0b3J5IjpbLTE4NjQ3MTY1MzcsODEwMzkwNzMyLDM4OD
+QyNzI3MCwtOTQ1ODI4NDUxLC0yMTE1MDUwNDM1LC0xNTM4MzA0
+ODA3LC05NzM4MjM0NjMsLTQ4NTkzOTQ3NCw3NzM1ODc4NjUsLT
+k1OTY1NDQyM119
 -->
