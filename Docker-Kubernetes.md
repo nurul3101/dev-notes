@@ -118,12 +118,15 @@ When we build an image from Dockerfile, it gives us the image_id which can be di
 Example:
 `docker build -t nurul3101/redis:latest .`  
 
-
+We can take a snapshot of a running container and use it as an image for creating different containers using docker commit
+Example:
+`docker commit -c 'CMD ["redis-server"]' [container_id]`
+will create a new image from the existing container.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzMDY3MDU5LDEzNTg0MjMzODMsLTE1Mj
-IyMDY1NTIsMTU3NDI2MDA0OSwtNTI2MTA3MTYxLC0xNTEwNjUy
-MjksLTM1OTk5ODM4LC02OTgyNDAxOTIsODEwMzkwNzMyLDM4OD
-QyNzI3MCwtOTQ1ODI4NDUxLC0yMTE1MDUwNDM1LC0xNTM4MzA0
-ODA3LC05NzM4MjM0NjMsLTQ4NTkzOTQ3NCw3NzM1ODc4NjUsLT
-k1OTY1NDQyM119
+eyJoaXN0b3J5IjpbMjAxMzg1MjkyNCwxMzU4NDIzMzgzLC0xNT
+IyMjA2NTUyLDE1NzQyNjAwNDksLTUyNjEwNzE2MSwtMTUxMDY1
+MjI5LC0zNTk5OTgzOCwtNjk4MjQwMTkyLDgxMDM5MDczMiwzOD
+g0MjcyNzAsLTk0NTgyODQ1MSwtMjExNTA1MDQzNSwtMTUzODMw
+NDgwNywtOTczODIzNDYzLC00ODU5Mzk0NzQsNzczNTg3ODY1LC
+05NTk2NTQ0MjNdfQ==
 -->
