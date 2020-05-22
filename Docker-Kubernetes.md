@@ -25,7 +25,7 @@ Purpose of a container is to run a specific program,
 ### What is a container?
 
 - Container isolates some portion of resources for a particular process.
-- Docker image are the executables which at runtime are transformed into docker containers.
+- *Docker image are the executables which at runtime are transformed into docker containers.*
 - Docker image is a combination of Filesystem snapshot and startup command.
 - Containers internally uses namespacing (isolating resources per processes) and control groups (limit amount of resources used per process).
 - Namespacing and control groups are portions of linux os.
@@ -58,7 +58,8 @@ we can start the created container with
 `docker logs container_id` will show all the logs that have been emitted from that specified container. It will not start/ stop the container.
 To stop a container: `docker stop container_id`
 Docker stop command emits SIGTERM command to the process and allows some time for cleanup and exit.
+If the container does not gracefully exit in 
 `docker kill conatiner_id` emits SIGKILL command and it stops instantly. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1OTY1NDQyM119
+eyJoaXN0b3J5IjpbNzIyNjkwNDQ1LC05NTk2NTQ0MjNdfQ==
 -->
