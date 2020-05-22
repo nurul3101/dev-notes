@@ -114,12 +114,14 @@ CMD command just added a startup command for the docker image.
 Whenever we execute a build command it checks the cache if any intermediate container with the same steps is found it uses it.
 The order of steps in dockerfile is extremely important, as it needs to execute all the commands below the changed/added step.
 
+When we build an image from Dockerfile, it gives us the image_id which can be difficult to remember, so we can tag an image which will give it a human friendly name.
 
+`docker build -t nurul31`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzIxMjI0OTIsLTE1MjIyMDY1NTIsMT
-U3NDI2MDA0OSwtNTI2MTA3MTYxLC0xNTEwNjUyMjksLTM1OTk5
-ODM4LC02OTgyNDAxOTIsODEwMzkwNzMyLDM4ODQyNzI3MCwtOT
-Q1ODI4NDUxLC0yMTE1MDUwNDM1LC0xNTM4MzA0ODA3LC05NzM4
-MjM0NjMsLTQ4NTkzOTQ3NCw3NzM1ODc4NjUsLTk1OTY1NDQyM1
-19
+eyJoaXN0b3J5IjpbMjA3ODEwMDMxLC0xNTIyMjA2NTUyLDE1Nz
+QyNjAwNDksLTUyNjEwNzE2MSwtMTUxMDY1MjI5LC0zNTk5OTgz
+OCwtNjk4MjQwMTkyLDgxMDM5MDczMiwzODg0MjcyNzAsLTk0NT
+gyODQ1MSwtMjExNTA1MDQzNSwtMTUzODMwNDgwNywtOTczODIz
+NDYzLC00ODU5Mzk0NzQsNzczNTg3ODY1LC05NTk2NTQ0MjNdfQ
+==
 -->
