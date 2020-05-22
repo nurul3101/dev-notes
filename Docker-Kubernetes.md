@@ -135,12 +135,14 @@ By default network traffic to the local machine is not routed to the container's
 docker run -p 8080:8080 nurul3101/node-docker:latest
 ```
 will route requests from local machine's port 8080 to container's 8080 port. The ports does not need to be same.
+
+By default when we copy files it 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NDA1MjgxMiwtMjEyNDI2ODg0NywtNT
-YxNjk2MDQ1LDYxOTMyMjQ5NSwyMDEzODUyOTI0LDEzNTg0MjMz
-ODMsLTE1MjIyMDY1NTIsMTU3NDI2MDA0OSwtNTI2MTA3MTYxLC
-0xNTEwNjUyMjksLTM1OTk5ODM4LC02OTgyNDAxOTIsODEwMzkw
-NzMyLDM4ODQyNzI3MCwtOTQ1ODI4NDUxLC0yMTE1MDUwNDM1LC
-0xNTM4MzA0ODA3LC05NzM4MjM0NjMsLTQ4NTkzOTQ3NCw3NzM1
-ODc4NjVdfQ==
+eyJoaXN0b3J5IjpbMTAzMzI2MDI0NywxMTk0MDUyODEyLC0yMT
+I0MjY4ODQ3LC01NjE2OTYwNDUsNjE5MzIyNDk1LDIwMTM4NTI5
+MjQsMTM1ODQyMzM4MywtMTUyMjIwNjU1MiwxNTc0MjYwMDQ5LC
+01MjYxMDcxNjEsLTE1MTA2NTIyOSwtMzU5OTk4MzgsLTY5ODI0
+MDE5Miw4MTAzOTA3MzIsMzg4NDI3MjcwLC05NDU4Mjg0NTEsLT
+IxMTUwNTA0MzUsLTE1MzgzMDQ4MDcsLTk3MzgyMzQ2MywtNDg1
+OTM5NDc0XX0=
 -->
