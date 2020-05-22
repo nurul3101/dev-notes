@@ -124,11 +124,13 @@ Example:
 will create a new image from the existing container.
 
 alpine word in docker community ususally means it has the v=bare minimums required and no additional programs installed in the image.
+
+By d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5MzIyNDk1LDIwMTM4NTI5MjQsMTM1OD
-QyMzM4MywtMTUyMjIwNjU1MiwxNTc0MjYwMDQ5LC01MjYxMDcx
-NjEsLTE1MTA2NTIyOSwtMzU5OTk4MzgsLTY5ODI0MDE5Miw4MT
-AzOTA3MzIsMzg4NDI3MjcwLC05NDU4Mjg0NTEsLTIxMTUwNTA0
-MzUsLTE1MzgzMDQ4MDcsLTk3MzgyMzQ2MywtNDg1OTM5NDc0LD
-c3MzU4Nzg2NSwtOTU5NjU0NDIzXX0=
+eyJoaXN0b3J5IjpbLTMzODk0ODgwMCw2MTkzMjI0OTUsMjAxMz
+g1MjkyNCwxMzU4NDIzMzgzLC0xNTIyMjA2NTUyLDE1NzQyNjAw
+NDksLTUyNjEwNzE2MSwtMTUxMDY1MjI5LC0zNTk5OTgzOCwtNj
+k4MjQwMTkyLDgxMDM5MDczMiwzODg0MjcyNzAsLTk0NTgyODQ1
+MSwtMjExNTA1MDQzNSwtMTUzODMwNDgwNywtOTczODIzNDYzLC
+00ODU5Mzk0NzQsNzczNTg3ODY1LC05NTk2NTQ0MjNdfQ==
 -->
