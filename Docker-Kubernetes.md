@@ -128,13 +128,13 @@ alpine word in docker community ususally means it has the v=bare minimums requir
 By default none of the files in the project directory is available to container.
 For copying the files we use 
 `COPY source destination` command.
-The path here is relative to build con
+The path here is relative to build context.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NDMxNDU1OCwtNTYxNjk2MDQ1LDYxOT
-MyMjQ5NSwyMDEzODUyOTI0LDEzNTg0MjMzODMsLTE1MjIyMDY1
-NTIsMTU3NDI2MDA0OSwtNTI2MTA3MTYxLC0xNTEwNjUyMjksLT
-M1OTk5ODM4LC02OTgyNDAxOTIsODEwMzkwNzMyLDM4ODQyNzI3
-MCwtOTQ1ODI4NDUxLC0yMTE1MDUwNDM1LC0xNTM4MzA0ODA3LC
-05NzM4MjM0NjMsLTQ4NTkzOTQ3NCw3NzM1ODc4NjUsLTk1OTY1
-NDQyM119
+eyJoaXN0b3J5IjpbLTIxMjQyNjg4NDcsLTU2MTY5NjA0NSw2MT
+kzMjI0OTUsMjAxMzg1MjkyNCwxMzU4NDIzMzgzLC0xNTIyMjA2
+NTUyLDE1NzQyNjAwNDksLTUyNjEwNzE2MSwtMTUxMDY1MjI5LC
+0zNTk5OTgzOCwtNjk4MjQwMTkyLDgxMDM5MDczMiwzODg0Mjcy
+NzAsLTk0NTgyODQ1MSwtMjExNTA1MDQzNSwtMTUzODMwNDgwNy
+wtOTczODIzNDYzLC00ODU5Mzk0NzQsNzczNTg3ODY1LC05NTk2
+NTQ0MjNdfQ==
 -->
