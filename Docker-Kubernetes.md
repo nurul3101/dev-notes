@@ -75,9 +75,13 @@ Every Process in linux has three streams attached to it, STDIN , STDOUT, STDERR
 -it flag is equivalent to -i , -t flag.
 -i flag represents that we want to plug in this terminal to STDIN channel of the container and -t flag formats the output that is coming from the container.
 
+- To start a shell in a container we can use
+```
+docker exec -it [container_id] sh
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg5NjQ4NjgzLC0yMTE1MDUwNDM1LC0xNT
-M4MzA0ODA3LC05NzM4MjM0NjMsLTQ4NTkzOTQ3NCw3NzM1ODc4
-NjUsLTk1OTY1NDQyM119
+eyJoaXN0b3J5IjpbLTk0NTgyODQ1MSwtMjExNTA1MDQzNSwtMT
+UzODMwNDgwNywtOTczODIzNDYzLC00ODU5Mzk0NzQsNzczNTg3
+ODY1LC05NTk2NTQ0MjNdfQ==
 -->
