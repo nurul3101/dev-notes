@@ -102,12 +102,14 @@ FROM alpine
 RUN apk add --update redis
 CMD ["redis-server"]
 ```
+To create an image from dockerfile we use command:
+`docker build .` in the directory of Dockerfilw]
 Docker file consists of Instruction telling docker server what to do and argument to the instruction.
-
+Base image is kind of an OS which comes with some pre-installed packages which will be helpful for the task we wish to accomplish
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDYxNzg1OTEsLTE1MTA2NTIyOSwtMz
-U5OTk4MzgsLTY5ODI0MDE5Miw4MTAzOTA3MzIsMzg4NDI3Mjcw
-LC05NDU4Mjg0NTEsLTIxMTUwNTA0MzUsLTE1MzgzMDQ4MDcsLT
-k3MzgyMzQ2MywtNDg1OTM5NDc0LDc3MzU4Nzg2NSwtOTU5NjU0
-NDIzXX0=
+eyJoaXN0b3J5IjpbNTkyMzY3MjMwLC0xNTEwNjUyMjksLTM1OT
+k5ODM4LC02OTgyNDAxOTIsODEwMzkwNzMyLDM4ODQyNzI3MCwt
+OTQ1ODI4NDUxLC0yMTE1MDUwNDM1LC0xNTM4MzA0ODA3LC05Nz
+M4MjM0NjMsLTQ4NTkzOTQ3NCw3NzM1ODc4NjUsLTk1OTY1NDQy
+M119
 -->
