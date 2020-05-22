@@ -111,9 +111,10 @@ Base image is kind of an OS which comes with some pre-installed packages which w
 When docker encountered RUN command it took the base image created in the previous step , created a new container with added program , took the snapshot of filesystem and deleted the intermediate container.
 CMD command just added a startup command for the docker image.
 
-W
+Whenever we execute a build command it checks the cache if any intermediate container with the same steps is found it uses it.
+The order of steps in dockerfile is extremly important.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjU5MDU4NDAsMTU3NDI2MDA0OSwtNT
+eyJoaXN0b3J5IjpbLTEwNzMzODQ0OTYsMTU3NDI2MDA0OSwtNT
 I2MTA3MTYxLC0xNTEwNjUyMjksLTM1OTk5ODM4LC02OTgyNDAx
 OTIsODEwMzkwNzMyLDM4ODQyNzI3MCwtOTQ1ODI4NDUxLC0yMT
 E1MDUwNDM1LC0xNTM4MzA0ODA3LC05NzM4MjM0NjMsLTQ4NTkz
