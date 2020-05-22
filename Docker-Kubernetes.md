@@ -102,10 +102,10 @@ FROM alpine
 RUN apk add --update redis
 CMD ["redis-server"]
 ```
-Docker file consists of Instruction telling docker server what to do and argument to the instruction
+Docker file consists of Instruction telling docker server what to do and argument to the instruction.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDEwMjM1MzMsLTM1OTk5ODM4LC02OT
-gyNDAxOTIsODEwMzkwNzMyLDM4ODQyNzI3MCwtOTQ1ODI4NDUx
-LC0yMTE1MDUwNDM1LC0xNTM4MzA0ODA3LC05NzM4MjM0NjMsLT
-Q4NTkzOTQ3NCw3NzM1ODc4NjUsLTk1OTY1NDQyM119
+eyJoaXN0b3J5IjpbLTE1MTA2NTIyOSwtMzU5OTk4MzgsLTY5OD
+I0MDE5Miw4MTAzOTA3MzIsMzg4NDI3MjcwLC05NDU4Mjg0NTEs
+LTIxMTUwNTA0MzUsLTE1MzgzMDQ4MDcsLTk3MzgyMzQ2MywtND
+g1OTM5NDc0LDc3MzU4Nzg2NSwtOTU5NjU0NDIzXX0=
 -->
