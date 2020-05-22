@@ -125,9 +125,9 @@ will create a new image from the existing container.
 
 alpine word in docker community ususally means it has the v=bare minimums required and no additional programs installed in the image.
 
-By d
+By default none of the files in the project directory is available to container
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODk0ODgwMCw2MTkzMjI0OTUsMjAxMz
+eyJoaXN0b3J5IjpbLTU2MTY5NjA0NSw2MTkzMjI0OTUsMjAxMz
 g1MjkyNCwxMzU4NDIzMzgzLC0xNTIyMjA2NTUyLDE1NzQyNjAw
 NDksLTUyNjEwNzE2MSwtMTUxMDY1MjI5LC0zNTk5OTgzOCwtNj
 k4MjQwMTkyLDgxMDM5MDczMiwzODg0MjcyNzAsLTk0NTgyODQ1
