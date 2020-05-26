@@ -178,12 +178,13 @@ There are restart policies which define how container will behave when exited.
 - always - always attempt to restart it
 - on-failure - only restart if crashed with an error code
 - unless-stopped - always restart unless forcefully stopped by developer.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2MjI5OTcsLTExODgyMjcxMzYsMTI4Nz
-Q2MDYwNiwtMTczMjE4MjE2MiwtMTMwOTU0Nzg1NSwtNjUzMzMx
-MzcxLDE2NTE0OTE1NzUsLTE3MzMxMDE0OTUsMTE5NDA1MjgxMi
-wtMjEyNDI2ODg0NywtNTYxNjk2MDQ1LDYxOTMyMjQ5NSwyMDEz
-ODUyOTI0LDEzNTg0MjMzODMsLTE1MjIyMDY1NTIsMTU3NDI2MD
-A0OSwtNTI2MTA3MTYxLC0xNTEwNjUyMjksLTM1OTk5ODM4LC02
-OTgyNDAxOTJdfQ==
+eyJoaXN0b3J5IjpbLTIxMDAzMTYyNzIsMjg2MjI5OTcsLTExOD
+gyMjcxMzYsMTI4NzQ2MDYwNiwtMTczMjE4MjE2MiwtMTMwOTU0
+Nzg1NSwtNjUzMzMxMzcxLDE2NTE0OTE1NzUsLTE3MzMxMDE0OT
+UsMTE5NDA1MjgxMiwtMjEyNDI2ODg0NywtNTYxNjk2MDQ1LDYx
+OTMyMjQ5NSwyMDEzODUyOTI0LDEzNTg0MjMzODMsLTE1MjIyMD
+Y1NTIsMTU3NDI2MDA0OSwtNTI2MTA3MTYxLC0xNTEwNjUyMjks
+LTM1OTk5ODM4XX0=
 -->
