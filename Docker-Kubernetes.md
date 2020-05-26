@@ -175,10 +175,10 @@ When services are running in a docker environment, the hostname or the connectio
 There are restart policies which define how container will behave when exited.
 - 'no' - never attempt to restart it
 - always - always attempt to restart it
-- on-failure - 
-- unless-stopped
+- on-failure - only restart if crashed with an error code
+- unless-stopped - always restart unless forcefully stopped by developer.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDQ4NjQyNCwtMTE4ODIyNzEzNiwxMj
+eyJoaXN0b3J5IjpbMTU5NDU1NzQ2NiwtMTE4ODIyNzEzNiwxMj
 g3NDYwNjA2LC0xNzMyMTgyMTYyLC0xMzA5NTQ3ODU1LC02NTMz
 MzEzNzEsMTY1MTQ5MTU3NSwtMTczMzEwMTQ5NSwxMTk0MDUyOD
 EyLC0yMTI0MjY4ODQ3LC01NjE2OTYwNDUsNjE5MzIyNDk1LDIw
