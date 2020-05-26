@@ -172,9 +172,13 @@ The hostname gets automatically resolved for us by docker.
 
 When services are running in a docker environment, the hostname or the connection string should be the `service-name` specified in docker-compose file.
 
-There are restart policies which 
+There are restart policies which define how container will behave when exited.
+- 'no' - never attempt to restart it
+- always - always attempt to restart it
+- on-failure - 
+- unless-stopped
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODgxODg4MiwtMTE4ODIyNzEzNiwxMj
+eyJoaXN0b3J5IjpbMTQ0NDQ4NjQyNCwtMTE4ODIyNzEzNiwxMj
 g3NDYwNjA2LC0xNzMyMTgyMTYyLC0xMzA5NTQ3ODU1LC02NTMz
 MzEzNzEsMTY1MTQ5MTU3NSwtMTczMzEwMTQ5NSwxMTk0MDUyOD
 EyLC0yMTI0MjY4ODQ3LC01NjE2OTYwNDUsNjE5MzIyNDk1LDIw
