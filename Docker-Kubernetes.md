@@ -123,7 +123,7 @@ Example:
 `docker commit -c 'CMD ["redis-server"]' [container_id]`
 will create a new image from the existing container.
 
-alpine word in docker community ususally means it has the v=bare minimums required and no additional programs installed in the image.
+alpine word in docker community ususally means it has the bare minimums required and no additional programs installed in the image.
 
 By default none of the files in the project directory is available to container.
 For copying the files we use 
@@ -166,11 +166,11 @@ when we create a docker-compose file it creates a network for us by default, so 
 `docker-compose up` will look for a `docker-compose.yml` file and create the containers specified in the file.
 The hostname gets automatically resolved for us by docker.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NzQ2MDYwNiwtMTczMjE4MjE2MiwtMT
-MwOTU0Nzg1NSwtNjUzMzMxMzcxLDE2NTE0OTE1NzUsLTE3MzMx
-MDE0OTUsMTE5NDA1MjgxMiwtMjEyNDI2ODg0NywtNTYxNjk2MD
-Q1LDYxOTMyMjQ5NSwyMDEzODUyOTI0LDEzNTg0MjMzODMsLTE1
-MjIyMDY1NTIsMTU3NDI2MDA0OSwtNTI2MTA3MTYxLC0xNTEwNj
-UyMjksLTM1OTk5ODM4LC02OTgyNDAxOTIsODEwMzkwNzMyLDM4
-ODQyNzI3MF19
+eyJoaXN0b3J5IjpbMTczODY2MzU3NSwxMjg3NDYwNjA2LC0xNz
+MyMTgyMTYyLC0xMzA5NTQ3ODU1LC02NTMzMzEzNzEsMTY1MTQ5
+MTU3NSwtMTczMzEwMTQ5NSwxMTk0MDUyODEyLC0yMTI0MjY4OD
+Q3LC01NjE2OTYwNDUsNjE5MzIyNDk1LDIwMTM4NTI5MjQsMTM1
+ODQyMzM4MywtMTUyMjIwNjU1MiwxNTc0MjYwMDQ5LC01MjYxMD
+cxNjEsLTE1MTA2NTIyOSwtMzU5OTk4MzgsLTY5ODI0MDE5Miw4
+MTAzOTA3MzJdfQ==
 -->
