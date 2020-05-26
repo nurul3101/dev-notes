@@ -171,12 +171,14 @@ The hostname gets automatically resolved for us by docker.
 `docker-compose down` will stop the running containers.
 
 When services are running in a docker environment, the hostname or the connection string should be the `service-name` specified in docker-compose file.
+
+There are restart policies which 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODgyMjcxMzYsMTI4NzQ2MDYwNiwtMT
-czMjE4MjE2MiwtMTMwOTU0Nzg1NSwtNjUzMzMxMzcxLDE2NTE0
-OTE1NzUsLTE3MzMxMDE0OTUsMTE5NDA1MjgxMiwtMjEyNDI2OD
-g0NywtNTYxNjk2MDQ1LDYxOTMyMjQ5NSwyMDEzODUyOTI0LDEz
-NTg0MjMzODMsLTE1MjIyMDY1NTIsMTU3NDI2MDA0OSwtNTI2MT
-A3MTYxLC0xNTEwNjUyMjksLTM1OTk5ODM4LC02OTgyNDAxOTIs
-ODEwMzkwNzMyXX0=
+eyJoaXN0b3J5IjpbLTk3ODgxODg4MiwtMTE4ODIyNzEzNiwxMj
+g3NDYwNjA2LC0xNzMyMTgyMTYyLC0xMzA5NTQ3ODU1LC02NTMz
+MzEzNzEsMTY1MTQ5MTU3NSwtMTczMzEwMTQ5NSwxMTk0MDUyOD
+EyLC0yMTI0MjY4ODQ3LC01NjE2OTYwNDUsNjE5MzIyNDk1LDIw
+MTM4NTI5MjQsMTM1ODQyMzM4MywtMTUyMjIwNjU1MiwxNTc0Mj
+YwMDQ5LC01MjYxMDcxNjEsLTE1MTA2NTIyOSwtMzU5OTk4Mzgs
+LTY5ODI0MDE5Ml19
 -->
