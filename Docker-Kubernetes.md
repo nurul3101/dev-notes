@@ -169,7 +169,7 @@ when we create a docker-compose file it creates a network for us by default, so 
 `docker-compose up -d` will run the containers in background
 The hostname gets automatically resolved for us by docker.
 `docker-compose down` will stop the running containers.
-`docker-compose ps` will show containers running in a docker-compose.yml p
+`docker-compose ps` will show containers running in a docker-compose.yml present in working directory.
 
 When services are running in a docker environment, the hostname or the connection string should be the `service-name` specified in docker-compose file.
 
@@ -179,11 +179,11 @@ There are restart policies which define how container will behave when exited.
 - on-failure - only restart if crashed with an error code
 - unless-stopped - always restart unless forcefully stopped by developer.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzA3MTg3NzMsLTExODgyMjcxMzYsMT
-I4NzQ2MDYwNiwtMTczMjE4MjE2MiwtMTMwOTU0Nzg1NSwtNjUz
-MzMxMzcxLDE2NTE0OTE1NzUsLTE3MzMxMDE0OTUsMTE5NDA1Mj
-gxMiwtMjEyNDI2ODg0NywtNTYxNjk2MDQ1LDYxOTMyMjQ5NSwy
-MDEzODUyOTI0LDEzNTg0MjMzODMsLTE1MjIyMDY1NTIsMTU3ND
-I2MDA0OSwtNTI2MTA3MTYxLC0xNTEwNjUyMjksLTM1OTk5ODM4
-LC02OTgyNDAxOTJdfQ==
+eyJoaXN0b3J5IjpbMjg2MjI5OTcsLTExODgyMjcxMzYsMTI4Nz
+Q2MDYwNiwtMTczMjE4MjE2MiwtMTMwOTU0Nzg1NSwtNjUzMzMx
+MzcxLDE2NTE0OTE1NzUsLTE3MzMxMDE0OTUsMTE5NDA1MjgxMi
+wtMjEyNDI2ODg0NywtNTYxNjk2MDQ1LDYxOTMyMjQ5NSwyMDEz
+ODUyOTI0LDEzNTg0MjMzODMsLTE1MjIyMDY1NTIsMTU3NDI2MD
+A0OSwtNTI2MTA3MTYxLC0xNTEwNjUyMjksLTM1OTk5ODM4LC02
+OTgyNDAxOTJdfQ==
 -->
