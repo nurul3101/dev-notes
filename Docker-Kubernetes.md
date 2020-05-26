@@ -178,13 +178,15 @@ There are restart policies which define how container will behave when exited.
 - always - always attempt to restart it
 - on-failure - only restart if crashed with an error code
 - unless-stopped - always restart unless forcefully stopped by developer.
-- 
+
+When we copy the files to the container do not copy the node_modules folder.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDAzMTYyNzIsMjg2MjI5OTcsLTExOD
-gyMjcxMzYsMTI4NzQ2MDYwNiwtMTczMjE4MjE2MiwtMTMwOTU0
-Nzg1NSwtNjUzMzMxMzcxLDE2NTE0OTE1NzUsLTE3MzMxMDE0OT
-UsMTE5NDA1MjgxMiwtMjEyNDI2ODg0NywtNTYxNjk2MDQ1LDYx
-OTMyMjQ5NSwyMDEzODUyOTI0LDEzNTg0MjMzODMsLTE1MjIyMD
-Y1NTIsMTU3NDI2MDA0OSwtNTI2MTA3MTYxLC0xNTEwNjUyMjks
-LTM1OTk5ODM4XX0=
+eyJoaXN0b3J5IjpbMTQ2MjMyMTk1MywyODYyMjk5NywtMTE4OD
+IyNzEzNiwxMjg3NDYwNjA2LC0xNzMyMTgyMTYyLC0xMzA5NTQ3
+ODU1LC02NTMzMzEzNzEsMTY1MTQ5MTU3NSwtMTczMzEwMTQ5NS
+wxMTk0MDUyODEyLC0yMTI0MjY4ODQ3LC01NjE2OTYwNDUsNjE5
+MzIyNDk1LDIwMTM4NTI5MjQsMTM1ODQyMzM4MywtMTUyMjIwNj
+U1MiwxNTc0MjYwMDQ5LC01MjYxMDcxNjEsLTE1MTA2NTIyOSwt
+MzU5OTk4MzhdfQ==
 -->
