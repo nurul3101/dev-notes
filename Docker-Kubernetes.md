@@ -45,6 +45,7 @@ Docker create command just uses fs snapshot of image and prepares it so that it 
 Docker start command executes  the startup command.
 <image_name> - Name of the image to use for this container
 E.g: `docker run busybox ls`
+`docker run -d redis` will start the container in background
 The override command that we enter depends upon the default filesystem of the docker-image.
 For example ls executable was found in filesystem of busybox image so it was executed.
 
@@ -169,11 +170,11 @@ The hostname gets automatically resolved for us by docker.
 
 When services are running in a docker environment, the hostname or the connection string should be the `service-name` specified in docker-compose file.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNzgxMDQ5NSwxMjg3NDYwNjA2LC0xNz
-MyMTgyMTYyLC0xMzA5NTQ3ODU1LC02NTMzMzEzNzEsMTY1MTQ5
-MTU3NSwtMTczMzEwMTQ5NSwxMTk0MDUyODEyLC0yMTI0MjY4OD
-Q3LC01NjE2OTYwNDUsNjE5MzIyNDk1LDIwMTM4NTI5MjQsMTM1
-ODQyMzM4MywtMTUyMjIwNjU1MiwxNTc0MjYwMDQ5LC01MjYxMD
-cxNjEsLTE1MTA2NTIyOSwtMzU5OTk4MzgsLTY5ODI0MDE5Miw4
-MTAzOTA3MzJdfQ==
+eyJoaXN0b3J5IjpbODY3MTY0Mjk3LDEyODc0NjA2MDYsLTE3Mz
+IxODIxNjIsLTEzMDk1NDc4NTUsLTY1MzMzMTM3MSwxNjUxNDkx
+NTc1LC0xNzMzMTAxNDk1LDExOTQwNTI4MTIsLTIxMjQyNjg4ND
+csLTU2MTY5NjA0NSw2MTkzMjI0OTUsMjAxMzg1MjkyNCwxMzU4
+NDIzMzgzLC0xNTIyMjA2NTUyLDE1NzQyNjAwNDksLTUyNjEwNz
+E2MSwtMTUxMDY1MjI5LC0zNTk5OTgzOCwtNjk4MjQwMTkyLDgx
+MDM5MDczMl19
 -->
