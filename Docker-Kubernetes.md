@@ -166,15 +166,17 @@ when we create a docker-compose file it creates a network for us by default, so 
 
 `docker-compose up` will look for a `docker-compose.yml` file and create the containers specified in the file.
 `docker-compose up --build` will rebuild the image.
+`docker-compose up -d` will run the containers in background
 The hostname gets automatically resolved for us by docker.
+`docker-compose down` will stop the running containers.
 
 When services are running in a docker environment, the hostname or the connection string should be the `service-name` specified in docker-compose file.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3MTY0Mjk3LDEyODc0NjA2MDYsLTE3Mz
-IxODIxNjIsLTEzMDk1NDc4NTUsLTY1MzMzMTM3MSwxNjUxNDkx
-NTc1LC0xNzMzMTAxNDk1LDExOTQwNTI4MTIsLTIxMjQyNjg4ND
-csLTU2MTY5NjA0NSw2MTkzMjI0OTUsMjAxMzg1MjkyNCwxMzU4
-NDIzMzgzLC0xNTIyMjA2NTUyLDE1NzQyNjAwNDksLTUyNjEwNz
-E2MSwtMTUxMDY1MjI5LC0zNTk5OTgzOCwtNjk4MjQwMTkyLDgx
-MDM5MDczMl19
+eyJoaXN0b3J5IjpbLTExODgyMjcxMzYsMTI4NzQ2MDYwNiwtMT
+czMjE4MjE2MiwtMTMwOTU0Nzg1NSwtNjUzMzMxMzcxLDE2NTE0
+OTE1NzUsLTE3MzMxMDE0OTUsMTE5NDA1MjgxMiwtMjEyNDI2OD
+g0NywtNTYxNjk2MDQ1LDYxOTMyMjQ5NSwyMDEzODUyOTI0LDEz
+NTg0MjMzODMsLTE1MjIyMDY1NTIsMTU3NDI2MDA0OSwtNTI2MT
+A3MTYxLC0xNTEwNjUyMjksLTM1OTk5ODM4LC02OTgyNDAxOTIs
+ODEwMzkwNzMyXX0=
 -->
