@@ -166,9 +166,9 @@ when we create a docker-compose file it creates a network for us by default, so 
 `docker-compose up` will look for a `docker-compose.yml` file and create the containers specified in the file.
 The hostname gets automatically resolved for us by docker.
 
-
+When services are running in a docker environment, the hostname or the connection string sho
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTY2NTE2NSwxMjg3NDYwNjA2LC0xNz
+eyJoaXN0b3J5IjpbMTY2OTY4OTYxMiwxMjg3NDYwNjA2LC0xNz
 MyMTgyMTYyLC0xMzA5NTQ3ODU1LC02NTMzMzEzNzEsMTY1MTQ5
 MTU3NSwtMTczMzEwMTQ5NSwxMTk0MDUyODEyLC0yMTI0MjY4OD
 Q3LC01NjE2OTYwNDUsNjE5MzIyNDk1LDIwMTM4NTI5MjQsMTM1
