@@ -4,7 +4,7 @@
 - Docker makes it easy to install and run software without worrying about setup or dependencies.
 - Docker is a platform / ecosystem around creating and running containers.
 - Docker ecosystem includes : Docker Client , Docker server , Docker Machine , docker hub , docker images, docker compose.
-- When we execute a docker install command, docker cli goes to docker hub and installs a docker image on your harddrive.
+- When we execute a docker install command, docker cli goes to docker hub and installs a docker image on your hard drive.
 - Docker Containers are instances of a docker image.
 - Docker image is a file which contains dependencies and instructions to install a specific program.
 - --
@@ -182,11 +182,11 @@ There are restart policies which define how container will behave when exited.
 When we copy the files to the container do not copy the node_modules folder.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MjMyMTk1MywyODYyMjk5NywtMTE4OD
-IyNzEzNiwxMjg3NDYwNjA2LC0xNzMyMTgyMTYyLC0xMzA5NTQ3
-ODU1LC02NTMzMzEzNzEsMTY1MTQ5MTU3NSwtMTczMzEwMTQ5NS
-wxMTk0MDUyODEyLC0yMTI0MjY4ODQ3LC01NjE2OTYwNDUsNjE5
-MzIyNDk1LDIwMTM4NTI5MjQsMTM1ODQyMzM4MywtMTUyMjIwNj
-U1MiwxNTc0MjYwMDQ5LC01MjYxMDcxNjEsLTE1MTA2NTIyOSwt
-MzU5OTk4MzhdfQ==
+eyJoaXN0b3J5IjpbMTM4MzIwMzY4MSwxNDYyMzIxOTUzLDI4Nj
+IyOTk3LC0xMTg4MjI3MTM2LDEyODc0NjA2MDYsLTE3MzIxODIx
+NjIsLTEzMDk1NDc4NTUsLTY1MzMzMTM3MSwxNjUxNDkxNTc1LC
+0xNzMzMTAxNDk1LDExOTQwNTI4MTIsLTIxMjQyNjg4NDcsLTU2
+MTY5NjA0NSw2MTkzMjI0OTUsMjAxMzg1MjkyNCwxMzU4NDIzMz
+gzLC0xNTIyMjA2NTUyLDE1NzQyNjAwNDksLTUyNjEwNzE2MSwt
+MTUxMDY1MjI5XX0=
 -->
