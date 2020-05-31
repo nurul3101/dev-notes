@@ -66,5 +66,5 @@ Usually we should not use Elastic Ip as it represents poor architectural decisio
 
 DocumentDB vs DynamoDB
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTY1NzMyMF19
+eyJoaXN0b3J5IjpbOTIwMjY0NTQ2XX0=
 -->
