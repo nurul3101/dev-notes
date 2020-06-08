@@ -224,7 +224,7 @@ version: "3"
 ```
 
 To override the startup command we can use command: argument in docker-compose file.
-
+docker attach id always attaches to the primary process, that is with pid 1.
 
 
 For windows we can use CHOKIDAR_POLLING to instantly reflect the changes.
@@ -237,11 +237,11 @@ To run test suite in react app,
 we can use
 `docker run -it nurul3101/react-app npm run test`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNzkwNzUzMiwxMDc0ODg3NDExLDEwMD
-A0MDgyOSwzOTgwODk3MjMsMjUwMDg5Mjg2LC05NDU5NjA4OTYs
-MjI5NDI5MTczLDEzODMyMDM2ODEsMTQ2MjMyMTk1MywyODYyMj
-k5NywtMTE4ODIyNzEzNiwxMjg3NDYwNjA2LC0xNzMyMTgyMTYy
-LC0xMzA5NTQ3ODU1LC02NTMzMzEzNzEsMTY1MTQ5MTU3NSwtMT
-czMzEwMTQ5NSwxMTk0MDUyODEyLC0yMTI0MjY4ODQ3LC01NjE2
-OTYwNDVdfQ==
+eyJoaXN0b3J5IjpbMTUzOTA5NzkwMCwtNTA3OTA3NTMyLDEwNz
+Q4ODc0MTEsMTAwMDQwODI5LDM5ODA4OTcyMywyNTAwODkyODYs
+LTk0NTk2MDg5NiwyMjk0MjkxNzMsMTM4MzIwMzY4MSwxNDYyMz
+IxOTUzLDI4NjIyOTk3LC0xMTg4MjI3MTM2LDEyODc0NjA2MDYs
+LTE3MzIxODIxNjIsLTEzMDk1NDc4NTUsLTY1MzMzMTM3MSwxNj
+UxNDkxNTc1LC0xNzMzMTAxNDk1LDExOTQwNTI4MTIsLTIxMjQy
+Njg4NDddfQ==
 -->
