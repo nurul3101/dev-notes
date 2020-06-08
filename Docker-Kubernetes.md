@@ -187,15 +187,17 @@ In a frontend app, like containerising a react app, to listen for the changes we
 
 Because the snapshot was taken during build time and is not constantly monitoring for the changes.
 
+Instead of copying over the files, we instead make use of a feature sort of like a placeholder/reference which points to the local fi
+
 *Docker Volumes*
 
 - n
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTk2MDg5NiwyMjk0MjkxNzMsMTM4Mz
-IwMzY4MSwxNDYyMzIxOTUzLDI4NjIyOTk3LC0xMTg4MjI3MTM2
-LDEyODc0NjA2MDYsLTE3MzIxODIxNjIsLTEzMDk1NDc4NTUsLT
-Y1MzMzMTM3MSwxNjUxNDkxNTc1LC0xNzMzMTAxNDk1LDExOTQw
-NTI4MTIsLTIxMjQyNjg4NDcsLTU2MTY5NjA0NSw2MTkzMjI0OT
-UsMjAxMzg1MjkyNCwxMzU4NDIzMzgzLC0xNTIyMjA2NTUyLDE1
-NzQyNjAwNDldfQ==
+eyJoaXN0b3J5IjpbLTczOTY5MTU2NSwtOTQ1OTYwODk2LDIyOT
+QyOTE3MywxMzgzMjAzNjgxLDE0NjIzMjE5NTMsMjg2MjI5OTcs
+LTExODgyMjcxMzYsMTI4NzQ2MDYwNiwtMTczMjE4MjE2MiwtMT
+MwOTU0Nzg1NSwtNjUzMzMxMzcxLDE2NTE0OTE1NzUsLTE3MzMx
+MDE0OTUsMTE5NDA1MjgxMiwtMjEyNDI2ODg0NywtNTYxNjk2MD
+Q1LDYxOTMyMjQ5NSwyMDEzODUyOTI0LDEzNTg0MjMzODMsLTE1
+MjIyMDY1NTJdfQ==
 -->
