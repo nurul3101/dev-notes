@@ -254,13 +254,13 @@ COPY --from=builder /app/build /usr/share/nginx/html
 ```
 
 Example of a docker file with multiple steps/stages
-we can copy output of one stage to another with the from 
+we can copy output of one stage to another with the from parameter.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjIyNDY5LC0zMTE2MjkyODgsMTUzOT
-A5NzkwMCwtNTA3OTA3NTMyLDEwNzQ4ODc0MTEsMTAwMDQwODI5
-LDM5ODA4OTcyMywyNTAwODkyODYsLTk0NTk2MDg5NiwyMjk0Mj
-kxNzMsMTM4MzIwMzY4MSwxNDYyMzIxOTUzLDI4NjIyOTk3LC0x
-MTg4MjI3MTM2LDEyODc0NjA2MDYsLTE3MzIxODIxNjIsLTEzMD
-k1NDc4NTUsLTY1MzMzMTM3MSwxNjUxNDkxNTc1LC0xNzMzMTAx
-NDk1XX0=
+eyJoaXN0b3J5IjpbLTE1NTY5NDIyMTgsLTMxMTYyOTI4OCwxNT
+M5MDk3OTAwLC01MDc5MDc1MzIsMTA3NDg4NzQxMSwxMDAwNDA4
+MjksMzk4MDg5NzIzLDI1MDA4OTI4NiwtOTQ1OTYwODk2LDIyOT
+QyOTE3MywxMzgzMjAzNjgxLDE0NjIzMjE5NTMsMjg2MjI5OTcs
+LTExODgyMjcxMzYsMTI4NzQ2MDYwNiwtMTczMjE4MjE2MiwtMT
+MwOTU0Nzg1NSwtNjUzMzMxMzcxLDE2NTE0OTE1NzUsLTE3MzMx
+MDE0OTVdfQ==
 -->
