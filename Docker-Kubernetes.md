@@ -191,9 +191,8 @@ Instead of copying over the files, we instead make use of a feature sort of like
 Mapping between folder inside a container to a folder outside the container.
 This feature is known as  *Docker Volumes*
 
-- n
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODk0MDE5MSwtOTQ1OTYwODk2LDIyOT
+eyJoaXN0b3J5IjpbMjExMDc4NjE1NiwtOTQ1OTYwODk2LDIyOT
 QyOTE3MywxMzgzMjAzNjgxLDE0NjIzMjE5NTMsMjg2MjI5OTcs
 LTExODgyMjcxMzYsMTI4NzQ2MDYwNiwtMTczMjE4MjE2MiwtMT
 MwOTU0Nzg1NSwtNjUzMzMxMzcxLDE2NTE0OTE1NzUsLTE3MzMx
