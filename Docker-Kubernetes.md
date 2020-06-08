@@ -236,12 +236,16 @@ For windows we can use CHOKIDAR_POLLING to instantly reflect the changes.
 To run test suite in react app,
 we can use
 `docker run -it nurul3101/react-app npm run test`
+
+For building our react application we use Multi Step Docker builds which has a build phase and a run phase.
+Build phase, creates the build
+And run phase takes the output of build and serves it over nginx web server.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzOTA5NzkwMCwtNTA3OTA3NTMyLDEwNz
-Q4ODc0MTEsMTAwMDQwODI5LDM5ODA4OTcyMywyNTAwODkyODYs
-LTk0NTk2MDg5NiwyMjk0MjkxNzMsMTM4MzIwMzY4MSwxNDYyMz
-IxOTUzLDI4NjIyOTk3LC0xMTg4MjI3MTM2LDEyODc0NjA2MDYs
-LTE3MzIxODIxNjIsLTEzMDk1NDc4NTUsLTY1MzMzMTM3MSwxNj
-UxNDkxNTc1LC0xNzMzMTAxNDk1LDExOTQwNTI4MTIsLTIxMjQy
-Njg4NDddfQ==
+eyJoaXN0b3J5IjpbLTMxMTYyOTI4OCwxNTM5MDk3OTAwLC01MD
+c5MDc1MzIsMTA3NDg4NzQxMSwxMDAwNDA4MjksMzk4MDg5NzIz
+LDI1MDA4OTI4NiwtOTQ1OTYwODk2LDIyOTQyOTE3MywxMzgzMj
+AzNjgxLDE0NjIzMjE5NTMsMjg2MjI5OTcsLTExODgyMjcxMzYs
+MTI4NzQ2MDYwNiwtMTczMjE4MjE2MiwtMTMwOTU0Nzg1NSwtNj
+UzMzMxMzcxLDE2NTE0OTE1NzUsLTE3MzMxMDE0OTUsMTE5NDA1
+MjgxMl19
 -->
