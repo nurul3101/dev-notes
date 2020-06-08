@@ -221,9 +221,11 @@ For windows we can use CHOKIDAR_POLLING to instantly reflect the changes.
   environment:
    - CHOKIDAR_USEPOLLING=true
  ```
-T
+To run test suite in react app,
+we can use
+`docker run -it nurul3101/react-app npm run test`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTg3OTE1NywxMDAwNDA4MjksMzk4MD
+eyJoaXN0b3J5IjpbMTA3NDg4NzQxMSwxMDAwNDA4MjksMzk4MD
 g5NzIzLDI1MDA4OTI4NiwtOTQ1OTYwODk2LDIyOTQyOTE3Mywx
 MzgzMjAzNjgxLDE0NjIzMjE5NTMsMjg2MjI5OTcsLTExODgyMj
 cxMzYsMTI4NzQ2MDYwNiwtMTczMjE4MjE2MiwtMTMwOTU0Nzg1
