@@ -197,12 +197,29 @@ This feature is known as  *Docker Volumes*
 In the -v flag , the path before and after [ : ] means that we want to map path outside : to path inside container,
 If we don't use colon [:] it will not map the folder to anything outside the container like we did for node_modules.
 In this command we are mapping files inside container to outside container using docker volumes.
+
+Instead of running the long docker run command we can use docker-compose file to shorten it.
+
+```yaml
+version: "3"
+  services:
+		web:
+			build:
+			context: .
+dockerfile: Dockerfile.dev
+ports:
+- "3000:3000"
+volumes:
+- /app/node_modules
+- .:/app
+stdin_open: true
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4MDg5NzIzLDI1MDA4OTI4NiwtOTQ1OT
-YwODk2LDIyOTQyOTE3MywxMzgzMjAzNjgxLDE0NjIzMjE5NTMs
-Mjg2MjI5OTcsLTExODgyMjcxMzYsMTI4NzQ2MDYwNiwtMTczMj
-E4MjE2MiwtMTMwOTU0Nzg1NSwtNjUzMzMxMzcxLDE2NTE0OTE1
-NzUsLTE3MzMxMDE0OTUsMTE5NDA1MjgxMiwtMjEyNDI2ODg0Ny
-wtNTYxNjk2MDQ1LDYxOTMyMjQ5NSwyMDEzODUyOTI0LDEzNTg0
-MjMzODNdfQ==
+eyJoaXN0b3J5IjpbMTc0OTkwMjM0NywzOTgwODk3MjMsMjUwMD
+g5Mjg2LC05NDU5NjA4OTYsMjI5NDI5MTczLDEzODMyMDM2ODEs
+MTQ2MjMyMTk1MywyODYyMjk5NywtMTE4ODIyNzEzNiwxMjg3ND
+YwNjA2LC0xNzMyMTgyMTYyLC0xMzA5NTQ3ODU1LC02NTMzMzEz
+NzEsMTY1MTQ5MTU3NSwtMTczMzEwMTQ5NSwxMTk0MDUyODEyLC
+0yMTI0MjY4ODQ3LC01NjE2OTYwNDUsNjE5MzIyNDk1LDIwMTM4
+NTI5MjRdfQ==
 -->
