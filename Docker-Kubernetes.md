@@ -203,23 +203,23 @@ Instead of running the long docker run command we can use docker-compose file to
 ```yaml
 version: "3"
   services:
-		web:
-			build:
+	web:
+		build:
 			context: .
-dockerfile: Dockerfile.dev
-ports:
-- "3000:3000"
-volumes:
-- /app/node_modules
-- .:/app
-stdin_open: true
+			dockerfile: Dockerfile.dev
+		ports:
+			- "3000:3000"
+		volumes:
+			- /app/node_modules
+			- .:/app
+		stdin_open: true
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0OTkwMjM0NywzOTgwODk3MjMsMjUwMD
-g5Mjg2LC05NDU5NjA4OTYsMjI5NDI5MTczLDEzODMyMDM2ODEs
-MTQ2MjMyMTk1MywyODYyMjk5NywtMTE4ODIyNzEzNiwxMjg3ND
-YwNjA2LC0xNzMyMTgyMTYyLC0xMzA5NTQ3ODU1LC02NTMzMzEz
-NzEsMTY1MTQ5MTU3NSwtMTczMzEwMTQ5NSwxMTk0MDUyODEyLC
-0yMTI0MjY4ODQ3LC01NjE2OTYwNDUsNjE5MzIyNDk1LDIwMTM4
-NTI5MjRdfQ==
+eyJoaXN0b3J5IjpbMTEzMzczNDAzLDM5ODA4OTcyMywyNTAwOD
+kyODYsLTk0NTk2MDg5NiwyMjk0MjkxNzMsMTM4MzIwMzY4MSwx
+NDYyMzIxOTUzLDI4NjIyOTk3LC0xMTg4MjI3MTM2LDEyODc0Nj
+A2MDYsLTE3MzIxODIxNjIsLTEzMDk1NDc4NTUsLTY1MzMzMTM3
+MSwxNjUxNDkxNTc1LC0xNzMzMTAxNDk1LDExOTQwNTI4MTIsLT
+IxMjQyNjg4NDcsLTU2MTY5NjA0NSw2MTkzMjI0OTUsMjAxMzg1
+MjkyNF19
 -->
