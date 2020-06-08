@@ -194,13 +194,15 @@ Mapping between folder inside a container to a folder outside the container.
 This feature is known as  *Docker Volumes*
 
 *docker run -p 3000:3000 -it -v /app/node_modules -v $(pwd):/app nurul3101/react-frontend*
+In the -v flag , the path before and after [ : ] means that we want to map path outside : to path inside container,
+If we don't use colon [:] it will not map the folder to anything outside the container like we did for node_modules.
 In this command we are mapping files inside container to outside container using docker volumes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwMDg5Mjg2LC05NDU5NjA4OTYsMjI5ND
-I5MTczLDEzODMyMDM2ODEsMTQ2MjMyMTk1MywyODYyMjk5Nywt
-MTE4ODIyNzEzNiwxMjg3NDYwNjA2LC0xNzMyMTgyMTYyLC0xMz
-A5NTQ3ODU1LC02NTMzMzEzNzEsMTY1MTQ5MTU3NSwtMTczMzEw
-MTQ5NSwxMTk0MDUyODEyLC0yMTI0MjY4ODQ3LC01NjE2OTYwND
-UsNjE5MzIyNDk1LDIwMTM4NTI5MjQsMTM1ODQyMzM4MywtMTUy
-MjIwNjU1Ml19
+eyJoaXN0b3J5IjpbMzk4MDg5NzIzLDI1MDA4OTI4NiwtOTQ1OT
+YwODk2LDIyOTQyOTE3MywxMzgzMjAzNjgxLDE0NjIzMjE5NTMs
+Mjg2MjI5OTcsLTExODgyMjcxMzYsMTI4NzQ2MDYwNiwtMTczMj
+E4MjE2MiwtMTMwOTU0Nzg1NSwtNjUzMzMxMzcxLDE2NTE0OTE1
+NzUsLTE3MzMxMDE0OTUsMTE5NDA1MjgxMiwtMjEyNDI2ODg0Ny
+wtNTYxNjk2MDQ1LDYxOTMyMjQ5NSwyMDEzODUyOTI0LDEzNTg0
+MjMzODNdfQ==
 -->
