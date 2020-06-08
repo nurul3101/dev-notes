@@ -183,13 +183,15 @@ When we copy the files to the container do not copy the node_modules folder.
 
 In a frontend app, like containerising a react app, to listen for the changes we need to pass various parameters while executing docker run,
 
-`docker run -p 3000:3000 -it nurul3101/react-frontend` will n
+`docker run -p 3000:3000 -it nurul3101/react-frontend` will not instantly reflect the changes that we made in the codebase,
+
+Because the snapshot was taken during build time and is not constantly monitoring for the changes.
 
 *Docker Volumes*
 
 - n
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4ODI0ODMzMywyMjk0MjkxNzMsMTM4Mz
+eyJoaXN0b3J5IjpbLTk0NTk2MDg5NiwyMjk0MjkxNzMsMTM4Mz
 IwMzY4MSwxNDYyMzIxOTUzLDI4NjIyOTk3LC0xMTg4MjI3MTM2
 LDEyODc0NjA2MDYsLTE3MzIxODIxNjIsLTEzMDk1NDc4NTUsLT
 Y1MzMzMTM3MSwxNjUxNDkxNTc1LC0xNzMzMTAxNDk1LDExOTQw
