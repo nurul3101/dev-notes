@@ -191,13 +191,14 @@ Instead of copying over the files, we instead make use of a feature sort of like
 Mapping between folder inside a container to a folder outside the container.
 This feature is known as  *Docker Volumes*
 
-
+*docker run -p 3000:3000 -it -v /app/node_modules -v $(pwd):/app nurul3101/react-frontend*
+In this command we are mapping files inside container to outside container using docker volumes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjA0NDkzODIsLTk0NTk2MDg5NiwyMj
-k0MjkxNzMsMTM4MzIwMzY4MSwxNDYyMzIxOTUzLDI4NjIyOTk3
-LC0xMTg4MjI3MTM2LDEyODc0NjA2MDYsLTE3MzIxODIxNjIsLT
-EzMDk1NDc4NTUsLTY1MzMzMTM3MSwxNjUxNDkxNTc1LC0xNzMz
-MTAxNDk1LDExOTQwNTI4MTIsLTIxMjQyNjg4NDcsLTU2MTY5Nj
-A0NSw2MTkzMjI0OTUsMjAxMzg1MjkyNCwxMzU4NDIzMzgzLC0x
-NTIyMjA2NTUyXX0=
+eyJoaXN0b3J5IjpbMTE4ODAyNTYyMywtOTQ1OTYwODk2LDIyOT
+QyOTE3MywxMzgzMjAzNjgxLDE0NjIzMjE5NTMsMjg2MjI5OTcs
+LTExODgyMjcxMzYsMTI4NzQ2MDYwNiwtMTczMjE4MjE2MiwtMT
+MwOTU0Nzg1NSwtNjUzMzMxMzcxLDE2NTE0OTE1NzUsLTE3MzMx
+MDE0OTUsMTE5NDA1MjgxMiwtMjEyNDI2ODg0NywtNTYxNjk2MD
+Q1LDYxOTMyMjQ5NSwyMDEzODUyOTI0LDEzNTg0MjMzODMsLTE1
+MjIyMDY1NTJdfQ==
 -->
