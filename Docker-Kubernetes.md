@@ -181,15 +181,19 @@ There are restart policies which define how container will behave when exited.
 
 When we copy the files to the container do not copy the node_modules folder.
 
+In a frontend app, like containerising a react app, to listen for the changes we need to pass various parameters while executing docker run,
+
+`docker run -p 3000:3000 -it nurul3101/react-frontend` will n
+
 *Docker Volumes*
 
 - n
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5NDI5MTczLDEzODMyMDM2ODEsMTQ2Mj
-MyMTk1MywyODYyMjk5NywtMTE4ODIyNzEzNiwxMjg3NDYwNjA2
-LC0xNzMyMTgyMTYyLC0xMzA5NTQ3ODU1LC02NTMzMzEzNzEsMT
-Y1MTQ5MTU3NSwtMTczMzEwMTQ5NSwxMTk0MDUyODEyLC0yMTI0
-MjY4ODQ3LC01NjE2OTYwNDUsNjE5MzIyNDk1LDIwMTM4NTI5Mj
-QsMTM1ODQyMzM4MywtMTUyMjIwNjU1MiwxNTc0MjYwMDQ5LC01
-MjYxMDcxNjFdfQ==
+eyJoaXN0b3J5IjpbLTM4ODI0ODMzMywyMjk0MjkxNzMsMTM4Mz
+IwMzY4MSwxNDYyMzIxOTUzLDI4NjIyOTk3LC0xMTg4MjI3MTM2
+LDEyODc0NjA2MDYsLTE3MzIxODIxNjIsLTEzMDk1NDc4NTUsLT
+Y1MzMzMTM3MSwxNjUxNDkxNTc1LC0xNzMzMTAxNDk1LDExOTQw
+NTI4MTIsLTIxMjQyNjg4NDcsLTU2MTY5NjA0NSw2MTkzMjI0OT
+UsMjAxMzg1MjkyNCwxMzU4NDIzMzgzLC0xNTIyMjA2NTUyLDE1
+NzQyNjAwNDldfQ==
 -->
