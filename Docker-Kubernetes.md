@@ -213,7 +213,19 @@ version: "3"
 			- /app/node_modules
 			- .:/app
 		stdin_open: true
+	tests:
+		build:
+			context: .
+			dockerfile: Dockerfile.dev
+		volumes:
+			- /app/node_modules
+			- .:/app
+		stdin_open: true		
 ```
+
+To override the startup command we can use command: argument in docker-compose file.
+
+
 
 For windows we can use CHOKIDAR_POLLING to instantly reflect the changes.
 ```yaml
@@ -225,11 +237,11 @@ To run test suite in react app,
 we can use
 `docker run -it nurul3101/react-app npm run test`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NDg4NzQxMSwxMDAwNDA4MjksMzk4MD
-g5NzIzLDI1MDA4OTI4NiwtOTQ1OTYwODk2LDIyOTQyOTE3Mywx
-MzgzMjAzNjgxLDE0NjIzMjE5NTMsMjg2MjI5OTcsLTExODgyMj
-cxMzYsMTI4NzQ2MDYwNiwtMTczMjE4MjE2MiwtMTMwOTU0Nzg1
-NSwtNjUzMzMxMzcxLDE2NTE0OTE1NzUsLTE3MzMxMDE0OTUsMT
-E5NDA1MjgxMiwtMjEyNDI2ODg0NywtNTYxNjk2MDQ1LDYxOTMy
-MjQ5NV19
+eyJoaXN0b3J5IjpbNDM0NDY5ODcwLDEwNzQ4ODc0MTEsMTAwMD
+QwODI5LDM5ODA4OTcyMywyNTAwODkyODYsLTk0NTk2MDg5Niwy
+Mjk0MjkxNzMsMTM4MzIwMzY4MSwxNDYyMzIxOTUzLDI4NjIyOT
+k3LC0xMTg4MjI3MTM2LDEyODc0NjA2MDYsLTE3MzIxODIxNjIs
+LTEzMDk1NDc4NTUsLTY1MzMzMTM3MSwxNjUxNDkxNTc1LC0xNz
+MzMTAxNDk1LDExOTQwNTI4MTIsLTIxMjQyNjg4NDcsLTU2MTY5
+NjA0NV19
 -->
