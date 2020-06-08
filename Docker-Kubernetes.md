@@ -215,9 +215,14 @@ version: "3"
 		stdin_open: true
 ```
 
-For windows we can use CHOKIDAR
+For windows we can use CHOKIDAR_POLLING to instantly reflect the changes.
+```yaml
+ services:
+  environment:
+   - CHOKIDAR_USEPOLLING=true
+ ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzNjYzODQ5LDM5ODA4OTcyMywyNTAwOD
+eyJoaXN0b3J5IjpbMTAwMDQwODI5LDM5ODA4OTcyMywyNTAwOD
 kyODYsLTk0NTk2MDg5NiwyMjk0MjkxNzMsMTM4MzIwMzY4MSwx
 NDYyMzIxOTUzLDI4NjIyOTk3LC0xMTg4MjI3MTM2LDEyODc0Nj
 A2MDYsLTE3MzIxODIxNjIsLTEzMDk1NDc4NTUsLTY1MzMzMTM3
