@@ -240,12 +240,27 @@ we can use
 For building our react application we use Multi Step Docker builds which has a build phase and a run phase.
 Build phase, creates the build
 And run phase takes the output of build and serves it over nginx web server.
+
+```docker
+FROM node:alpine as builder
+WORKDIR /app
+COPY package.json .
+RUN npm install
+COPY . .
+RUN npm run build
+
+FROM nginx
+COPY --from=builder /app/build /usr/share/nginx/html
+```
+
+Example of a docker file with multiple steps/stages
+we can copy output of one stage to another with the from 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTYyOTI4OCwxNTM5MDk3OTAwLC01MD
-c5MDc1MzIsMTA3NDg4NzQxMSwxMDAwNDA4MjksMzk4MDg5NzIz
-LDI1MDA4OTI4NiwtOTQ1OTYwODk2LDIyOTQyOTE3MywxMzgzMj
-AzNjgxLDE0NjIzMjE5NTMsMjg2MjI5OTcsLTExODgyMjcxMzYs
-MTI4NzQ2MDYwNiwtMTczMjE4MjE2MiwtMTMwOTU0Nzg1NSwtNj
-UzMzMxMzcxLDE2NTE0OTE1NzUsLTE3MzMxMDE0OTUsMTE5NDA1
-MjgxMl19
+eyJoaXN0b3J5IjpbLTQxNjIyNDY5LC0zMTE2MjkyODgsMTUzOT
+A5NzkwMCwtNTA3OTA3NTMyLDEwNzQ4ODc0MTEsMTAwMDQwODI5
+LDM5ODA4OTcyMywyNTAwODkyODYsLTk0NTk2MDg5NiwyMjk0Mj
+kxNzMsMTM4MzIwMzY4MSwxNDYyMzIxOTUzLDI4NjIyOTk3LC0x
+MTg4MjI3MTM2LDEyODc0NjA2MDYsLTE3MzIxODIxNjIsLTEzMD
+k1NDc4NTUsLTY1MzMzMTM3MSwxNjUxNDkxNTc1LC0xNzMzMTAx
+NDk1XX0=
 -->
