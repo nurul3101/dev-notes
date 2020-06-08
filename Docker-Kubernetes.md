@@ -214,8 +214,10 @@ version: "3"
 			- .:/app
 		stdin_open: true
 ```
+
+For windows we can use CHOKIDAR
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzczNDAzLDM5ODA4OTcyMywyNTAwOD
+eyJoaXN0b3J5IjpbMzUzNjYzODQ5LDM5ODA4OTcyMywyNTAwOD
 kyODYsLTk0NTk2MDg5NiwyMjk0MjkxNzMsMTM4MzIwMzY4MSwx
 NDYyMzIxOTUzLDI4NjIyOTk3LC0xMTg4MjI3MTM2LDEyODc0Nj
 A2MDYsLTE3MzIxODIxNjIsLTEzMDk1NDc4NTUsLTY1MzMzMTM3
