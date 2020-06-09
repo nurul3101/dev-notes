@@ -256,13 +256,13 @@ COPY --from=builder /app/build /usr/share/nginx/html
 Example of a docker file with multiple steps/stages
 we can copy output of one stage to another with the from parameter.
 
-We do not need to specify the startu
+We do not need to specify the startup command , nginx takes care of the command internally.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMTUzOTI3MCwxNjM4NTU1Mjg2LC0xNT
-U2OTQyMjE4LC0zMTE2MjkyODgsMTUzOTA5NzkwMCwtNTA3OTA3
-NTMyLDEwNzQ4ODc0MTEsMTAwMDQwODI5LDM5ODA4OTcyMywyNT
-AwODkyODYsLTk0NTk2MDg5NiwyMjk0MjkxNzMsMTM4MzIwMzY4
-MSwxNDYyMzIxOTUzLDI4NjIyOTk3LC0xMTg4MjI3MTM2LDEyOD
-c0NjA2MDYsLTE3MzIxODIxNjIsLTEzMDk1NDc4NTUsLTY1MzMz
-MTM3MV19
+eyJoaXN0b3J5IjpbMTgzNDI5ODE5LDE2Mzg1NTUyODYsLTE1NT
+Y5NDIyMTgsLTMxMTYyOTI4OCwxNTM5MDk3OTAwLC01MDc5MDc1
+MzIsMTA3NDg4NzQxMSwxMDAwNDA4MjksMzk4MDg5NzIzLDI1MD
+A4OTI4NiwtOTQ1OTYwODk2LDIyOTQyOTE3MywxMzgzMjAzNjgx
+LDE0NjIzMjE5NTMsMjg2MjI5OTcsLTExODgyMjcxMzYsMTI4Nz
+Q2MDYwNiwtMTczMjE4MjE2MiwtMTMwOTU0Nzg1NSwtNjUzMzMx
+MzcxXX0=
 -->
